@@ -1,0 +1,4405 @@
+{
+  "source": "https://minecraft.wiki/w/Achievement",
+  "source_license": "CC BY-NC-SA 3.0",
+  "translation_source": "https://github.com/Mojang/bedrock-samples",
+  "fetched": "2026-06-10",
+  "locales": [
+    "bg_BG",
+    "cs_CZ",
+    "da_DK",
+    "de_DE",
+    "el_GR",
+    "en_GB",
+    "en_US",
+    "es_ES",
+    "es_MX",
+    "fi_FI",
+    "fr_CA",
+    "fr_FR",
+    "hu_HU",
+    "id_ID",
+    "it_IT",
+    "ja_JP",
+    "ko_KR",
+    "nb_NO",
+    "nl_NL",
+    "pl_PL",
+    "pt_BR",
+    "pt_PT",
+    "ru_RU",
+    "sk_SK",
+    "sv_SE",
+    "tr_TR",
+    "uk_UA",
+    "zh_CN",
+    "zh_TW"
+  ],
+  "total": 135,
+  "translated_count": 31,
+  "untranslated_count": 104,
+  "achievements": [
+    {
+      "id": "awarded_all_trophies",
+      "title": {
+        "localized": {
+          "en_US": "Awarded all trophies"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "All trophies have been awarded."
+        }
+      },
+      "actual_requirements": "Automatically obtained when the first 50‌ trophies have been obtained.",
+      "gamerscore": 0,
+      "trophy_type": "Platinum",
+      "rewards": null,
+      "category": "playstation_only",
+      "category_display": "PlayStation only"
+    },
+    {
+      "id": "music_to_my_ears",
+      "title": {
+        "localized": {
+          "en_US": "Music to my Ears"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Play a music disc in a Jukebox."
+        }
+      },
+      "actual_requirements": null,
+      "gamerscore": 0,
+      "trophy_type": "Bronze",
+      "rewards": null,
+      "category": "playstation_only",
+      "category_display": "PlayStation only"
+    },
+    {
+      "id": "change_of_sheets",
+      "title": {
+        "localized": {
+          "en_US": "Change of Sheets"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Dye your bed a different color."
+        }
+      },
+      "actual_requirements": null,
+      "gamerscore": 0,
+      "trophy_type": "Bronze",
+      "rewards": null,
+      "category": "playstation_only",
+      "category_display": "PlayStation only"
+    },
+    {
+      "id": "taking_inventory",
+      "title": {
+        "translate": "achievement.openInventory",
+        "localized": {
+          "bg_BG": "Проверка на наличностите",
+          "cs_CZ": "Inventarizace",
+          "da_DK": "Lagermand",
+          "de_DE": "Inventur",
+          "el_GR": "Καταμέτρηση αποθεμάτων",
+          "en_GB": "Taking Inventory",
+          "en_US": "Taking Inventory",
+          "es_ES": "Haciendo inventario",
+          "es_MX": "Haciendo inventario",
+          "fi_FI": "Tavaran tutkailu",
+          "fr_CA": "Faire l'inventaire",
+          "fr_FR": "Faire l'inventaire",
+          "hu_HU": "Leltározás",
+          "id_ID": "Mengambil Persediaan",
+          "it_IT": "Nell'inventario",
+          "ja_JP": "インベントリ ゲット",
+          "ko_KR": "보관함 열기",
+          "nb_NO": "Ta varetelling",
+          "nl_NL": "Inventariseren",
+          "pl_PL": "Używanie ekwipunku",
+          "pt_BR": "Fazendo Inventário",
+          "pt_PT": "Abrir o Inventário",
+          "ru_RU": "Инвентаризация",
+          "sk_SK": "Inventarizácia",
+          "sv_SE": "Öppna förråd",
+          "tr_TR": "Envanter Alma",
+          "uk_UA": "Усе моє ношу з собою",
+          "zh_CN": "打开物品栏",
+          "zh_TW": "盤點物品欄"
+        }
+      },
+      "description": {
+        "translate": "achievement.openInventory.desc",
+        "localized": {
+          "bg_BG": "Натиснете „%1$s“, за да отворите инвентара си.",
+          "cs_CZ": "Stisknutím „%1$s“ otevřete inventář.",
+          "da_DK": "Åbn din taske ved at trykke på ''%1$s''.",
+          "de_DE": "Drücke '%1$s', um dein Inventar zu öffnen.",
+          "el_GR": "Πάτησε «%1$s» για να ανοίξεις τα αποθέματά σου.",
+          "en_GB": "Press '%1$s' to open your inventory.",
+          "en_US": "Press '%1$s' to open your inventory.",
+          "es_ES": "Pulsa '%1$s' para abrir tu inventario",
+          "es_MX": "Presiona ''%1$s'' para abrir tu inventario",
+          "fi_FI": "Avaa tavaraluettelosi painamalla '%1$s'.",
+          "fr_CA": "Appuyez sur « %1$s » pour ouvrir votre inventaire.",
+          "fr_FR": "Appuyez sur « %1$s » pour ouvrir l'inventaire.",
+          "hu_HU": "Nyomd meg a(z) %1$s gombot a felszereléstár megnyitásához.",
+          "id_ID": "Tekan '%1$s' untuk membuka persediaan kamu.",
+          "it_IT": "Premi “%1$s” per aprire l'inventario.",
+          "ja_JP": "%1$s' キーを押してインベントリをみよう。",
+          "ko_KR": "%1$s키를 눌러 보관함을 여세요.",
+          "nb_NO": "Trykk på %1$s for å åpne inventaret ditt.",
+          "nl_NL": "Druk op %1$s om je inventaris te openen.",
+          "pl_PL": "Naciśnij '%1$s', aby otworzyć ekwipunek.",
+          "pt_BR": "Pressione '%1$s' para abrir seu inventário.",
+          "pt_PT": "Prime '%1$s' para abrir o teu inventário.",
+          "ru_RU": "Нажмите %1$s, чтобы открыть инвентарь.",
+          "sk_SK": "Stlačením tlačidla %1$s otvorte inventár.",
+          "sv_SE": "Tryck på ”%1$s” för att öppna förrådet.",
+          "tr_TR": "Envanterinizi açmak için '%1$s' öğesine basın.",
+          "uk_UA": "Натисніть «%1$s», щоб відкрити свій інвентар.",
+          "zh_CN": "按“%1$s”来打开物品栏。",
+          "zh_TW": "按 [%1$s] 打開物品欄。"
+        }
+      },
+      "actual_requirements": null,
+      "gamerscore": 10,
+      "trophy_type": "Bronze",
+      "rewards": null,
+      "category": "getting_started",
+      "category_display": "Getting started"
+    },
+    {
+      "id": "getting_wood",
+      "title": {
+        "translate": "achievement.mineWood",
+        "localized": {
+          "bg_BG": "Дървен философ",
+          "cs_CZ": "Jde se na dřevo",
+          "da_DK": "Hent brænde",
+          "de_DE": "Dreimal auf Holz geklopft",
+          "el_GR": "Απόκτηση Ξύλου",
+          "en_GB": "Getting Wood",
+          "en_US": "Getting Wood",
+          "es_ES": "Madera de líder",
+          "es_MX": "Obteniendo leños",
+          "fi_FI": "Puusta pitkään",
+          "fr_CA": "Aller chercher du bois",
+          "fr_FR": "Coupons du bois",
+          "hu_HU": "Fanyűvő",
+          "id_ID": "Mendapatkan Kayu",
+          "it_IT": "Duro come il legno",
+          "ja_JP": "木を手に入れよう",
+          "ko_KR": "최초의 나무",
+          "nb_NO": "Tømmerhogger",
+          "nl_NL": "Hout verkrijgen",
+          "pl_PL": "Zbieranie drewna",
+          "pt_BR": "Apanhando Madeira",
+          "pt_PT": "Apanhar Madeira",
+          "ru_RU": "Нарубить дров",
+          "sk_SK": "Ťažba dreva",
+          "sv_SE": "Ta i trä",
+          "tr_TR": "Odun Bulma",
+          "uk_UA": "Дроворуб",
+          "zh_CN": "获得木块",
+          "zh_TW": "獲得木塊"
+        }
+      },
+      "description": {
+        "translate": "achievement.mineWood.desc",
+        "localized": {
+          "bg_BG": "Атакувайте дърво, докато не се получи блок дърво",
+          "cs_CZ": "Bouchejte do stromu, dokud nevypadne blok dřeva.",
+          "da_DK": "Angrib et træ, indtil der falder en træblok af",
+          "de_DE": "Schlage einen Baum, bis ein Stück Holz herausfällt",
+          "el_GR": "Κάνε επίθεση σε ένα δέντρο μέχρι να πεταχτεί ένας κύβος ξύλου",
+          "en_GB": "Attack a tree until a block of wood pops out",
+          "en_US": "Attack a tree until a block of wood pops out",
+          "es_ES": "Golpea un árbol hasta que aparezca un bloque de madera.",
+          "es_MX": "Golpea un árbol hasta que aparezca un bloque de madera.",
+          "fi_FI": "Lyö puuta, kunnes se pudottaa puukuution",
+          "fr_CA": "Frapper un arbre jusqu'à en tirer un bloc de bois",
+          "fr_FR": "Frapper un arbre jusqu'à en tirer un bloc de bois.",
+          "hu_HU": "Támadj egy fát addig, amíg ki nem esik belőle egy fablokk",
+          "id_ID": "Serang pohon sampai blok kayu muncul",
+          "it_IT": "Colpisci un albero fino a ottenere un blocco di legno.",
+          "ja_JP": "木のブロックが出てくるまで衝撃を与えよう。",
+          "ko_KR": "나무 블록이 튀어나올 때까지 나무를 때리십시오",
+          "nb_NO": "Angrip et tre til en treblokk faller ut",
+          "nl_NL": "Val een boom aan totdat er een blok hout uit valt",
+          "pl_PL": "Uderzaj w drzewo, aż pojawi się blok drewna",
+          "pt_BR": "Ataque uma árvore até um bloco de madeira se soltar.",
+          "pt_PT": "Ataca uma árvore até sair um bloco de madeira",
+          "ru_RU": "Бейте по дереву, пока из него не выпадет блок древесины.",
+          "sk_SK": "Útočte na strom, kým z neho nevyskočí drevený blok",
+          "sv_SE": "Slå på ett träd tills ett träblock kommer fram",
+          "tr_TR": "Bir odun parçası kopana kadar bir ağaca saldırın",
+          "uk_UA": "Атакувати дерево, доки з нього не вискочить дерев’яний блок",
+          "zh_CN": "攻击树木，直到跳出一个木块",
+          "zh_TW": "持續破壞樹木直到木塊掉出來"
+        }
+      },
+      "actual_requirements": "Pick up a log from the ground.",
+      "gamerscore": 10,
+      "trophy_type": "Bronze",
+      "rewards": "[[File:Lumberjack Shirt.png|60px]]<br>\"Lumberjack Shirt\" top",
+      "category": "getting_started",
+      "category_display": "Getting started"
+    },
+    {
+      "id": "benchmaking",
+      "title": {
+        "localized": {
+          "en_US": "Benchmaking"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Craft a Crafting Table with four blocks of wooden planks."
+        }
+      },
+      "actual_requirements": "Pick up a crafting table from the inventory's crafting field output or a crafting table output.",
+      "gamerscore": 10,
+      "trophy_type": "Bronze",
+      "rewards": "[[File:Tool Belt Trousers.png|60px]]<br>\"Tool Belt Trousers\" bottom",
+      "category": "getting_started",
+      "category_display": "Getting started"
+    },
+    {
+      "id": "time_to_mine",
+      "title": {
+        "translate": "achievement.buildPickaxe",
+        "localized": {
+          "bg_BG": "Миньор за един ден",
+          "cs_CZ": "Čas těžit!",
+          "da_DK": "Hakkedreng!",
+          "de_DE": "Glück Auf!",
+          "el_GR": "Ώρα να εξορύξουμε!",
+          "en_GB": "Time to Mine!",
+          "en_US": "Time to Mine!",
+          "es_ES": "¡Hora de picar!",
+          "es_MX": "¡Hora de picar!",
+          "fi_FI": "Mainio mainari",
+          "fr_CA": "On s'en va au boulot!",
+          "fr_FR": "Bonne pioche !",
+          "hu_HU": "Vár a bánya!",
+          "id_ID": "Waktunya Menambang!",
+          "it_IT": "In miniera!",
+          "ja_JP": "いざ採掘!",
+          "ko_KR": "채굴 개시!",
+          "nb_NO": "På tide å utvinne!",
+          "nl_NL": "Beginnen met ontginnen!",
+          "pl_PL": "Do kopania przystąp!",
+          "pt_BR": "Hora de Minerar!",
+          "pt_PT": "Hora de Escavar!",
+          "ru_RU": "Пора в забой!",
+          "sk_SK": "Čas na ťažbu!",
+          "sv_SE": "Dags att gräva!",
+          "tr_TR": "Madencilik Zamanı!",
+          "uk_UA": "Пора в шахту!",
+          "zh_CN": "采矿时间到！",
+          "zh_TW": "採礦時間！"
+        }
+      },
+      "description": {
+        "translate": "achievement.buildPickaxe.desc",
+        "localized": {
+          "bg_BG": "Използвайте дъски и пръчки, за да направите кирка",
+          "cs_CZ": "Vyrobte krumpáč z prken a klacíků.",
+          "da_DK": "Fremstil en hakke af planker og pinde",
+          "de_DE": "Stell aus Holz und Stöcken eine Spitzhacke her",
+          "el_GR": "Χρησιμοποίησε σανίδες και ραβδιά για να φτιάξεις μια αξίνα",
+          "en_GB": "Use planks and sticks to make a pickaxe",
+          "en_US": "Use planks and sticks to make a pickaxe",
+          "es_ES": "Usa tablones y palos para hacer un pico.",
+          "es_MX": "Usa tablones y palos para hacer un pico",
+          "fi_FI": "Tee hakku laudoista ja kepeistä",
+          "fr_CA": "Utiliser des planches et des bâtons pour fabriquer une pioche",
+          "fr_FR": "Utiliser des planches et des bâtons pour fabriquer une pioche.",
+          "hu_HU": "Készíts csákányt deszkából és botokból",
+          "id_ID": "Gunakan papan dan tongkat untuk membuat beliung",
+          "it_IT": "Usa assi e bastoni per realizzare un piccone",
+          "ja_JP": "木の板と棒を材料に、ツルハシを作ろう。",
+          "ko_KR": "판자와 막대기를 사용하여 곡괭이를 만드십시오",
+          "nb_NO": "Lag en hakke av planker og pinner",
+          "nl_NL": "Maak een pikhouweel van planken en stokken",
+          "pl_PL": "Użyj desek i patyków, żeby zrobić kilof",
+          "pt_BR": "Use tábuas e gravetos para fazer uma picareta.",
+          "pt_PT": "Constrói uma picareta com tábuas e paus.",
+          "ru_RU": "Изготовьте кирку из досок и палок.",
+          "sk_SK": "Vyrobte krompáč z dosiek a palíc",
+          "sv_SE": "Gör en hacka av plankor och pinnar",
+          "tr_TR": "Bir kazma yapmak için kalaslar ve sopalar kullanın",
+          "uk_UA": "Змайструвати кайло з дощок і палиць",
+          "zh_CN": "使用木板和木棍制作木镐",
+          "zh_TW": "使用木材及木棍製作出十字鎬"
+        }
+      },
+      "actual_requirements": "Pick up a wooden pickaxe from a crafting table output.",
+      "gamerscore": 10,
+      "trophy_type": "Bronze",
+      "rewards": "[[File:Miner Headband.png|60px]]<br>\"Miner Headband\" headwear",
+      "category": "getting_started",
+      "category_display": "Getting started"
+    },
+    {
+      "id": "time_to_strike",
+      "title": {
+        "translate": "achievement.buildSword",
+        "localized": {
+          "bg_BG": "Готов за атака!",
+          "cs_CZ": "Čas k úderu!",
+          "da_DK": "Lev ved sværdet!",
+          "de_DE": "Zu den Waffen!",
+          "el_GR": "Ώρα να πολεμήσουμε!",
+          "en_GB": "Time to Strike!",
+          "en_US": "Time to Strike!",
+          "es_ES": "¡Hora de luchar!",
+          "es_MX": "¡Hora de luchar!",
+          "fi_FI": "Joka miekkaan tarttuu",
+          "fr_CA": "À l'attaque!",
+          "fr_FR": "À l'attaque !",
+          "hu_HU": "Harcra fel!",
+          "id_ID": "Waktunya Menempa!",
+          "it_IT": "È ora di attaccare!",
+          "ja_JP": "いざ突撃!",
+          "ko_KR": "공격 개시!",
+          "nb_NO": "På tide å slå til!",
+          "nl_NL": "Ten aanval!",
+          "pl_PL": "Czas uderzyć!",
+          "pt_BR": "Hora de Atacar!",
+          "pt_PT": "Hora de Atacar!",
+          "ru_RU": "К бою готов!",
+          "sk_SK": "Čas na útok!",
+          "sv_SE": "Dags att slå till!",
+          "tr_TR": "Saldırı Zamanı!",
+          "uk_UA": "До бою готовий!",
+          "zh_CN": "出击时间到！",
+          "zh_TW": "殺戮時間！"
+        }
+      },
+      "description": {
+        "translate": "achievement.buildSword.desc",
+        "localized": {
+          "bg_BG": "Използвайте дъски и пръчки, за да направите меч",
+          "cs_CZ": "Vyrobte meč z prken a klacíků.",
+          "da_DK": "Fremstil et sværd af planker og pinde",
+          "de_DE": "Stell aus Holz und Stöcken ein Schwert her",
+          "el_GR": "Χρησιμοποίησε σανίδες και ραβδιά για να φτιάξεις ένα σπαθί",
+          "en_GB": "Use planks and sticks to make a sword",
+          "en_US": "Use planks and sticks to make a sword",
+          "es_ES": "Usa tablones y palos para hacer una espada.",
+          "es_MX": "Usa tablones y palos para hacer una espada.",
+          "fi_FI": "Tee miekka laudoista ja kepeistä",
+          "fr_CA": "Utiliser des planches et des bâtons pour fabriquer une épée",
+          "fr_FR": "Utiliser des planches et des bâtons pour fabriquer une épée.",
+          "hu_HU": "Készíts kardot deszkákból és botokból",
+          "id_ID": "Gunakan papan dan tongkat untuk membuat pedang",
+          "it_IT": "Usa assi e bastoni per realizzare una spada",
+          "ja_JP": "木の板と棒を材料に、剣を作ろう。",
+          "ko_KR": "판자와 막대기를 사용하여 검을 하나 만드십시오",
+          "nb_NO": "Lag et sverd av planker og pinner",
+          "nl_NL": "Maak een zwaard met planken en stokken",
+          "pl_PL": "Zrób miecz z desek i patyków",
+          "pt_BR": "Use tábuas e gravetos para fazer uma espada.",
+          "pt_PT": "Constrói uma espada com tábuas e paus.",
+          "ru_RU": "Изготовьте меч из досок и палок.",
+          "sk_SK": "Vyrobte meč z dosiek a palíc",
+          "sv_SE": "Gör ett svärd av plankor och pinnar",
+          "tr_TR": "Bir kılıç yapmak için kalaslar ve sopalar kullanın",
+          "uk_UA": "Змайструвати меч із дощок і палиць",
+          "zh_CN": "使用木板和木棍制作木剑",
+          "zh_TW": "使用木材和木棍做出一把劍"
+        }
+      },
+      "actual_requirements": "Pick up any type of sword from a crafting table output.",
+      "gamerscore": 10,
+      "trophy_type": "Bronze",
+      "rewards": "[[File:Dummy Top.png|60px]]<br>\"Dummy Top\" top",
+      "category": "getting_started",
+      "category_display": "Getting started"
+    },
+    {
+      "id": "monster_hunter",
+      "title": {
+        "translate": "achievement.killEnemy",
+        "localized": {
+          "bg_BG": "Ловец на чудовища",
+          "cs_CZ": "Lovec nestvůr",
+          "da_DK": "Monsterjæger",
+          "de_DE": "Monsterjäger",
+          "el_GR": "Κυνηγός τεράτων",
+          "en_GB": "Monster Hunter",
+          "en_US": "Monster Hunter",
+          "es_ES": "Cazamonstruos",
+          "es_MX": "Cazamonstruos",
+          "fi_FI": "Hirviönmetsästäjä",
+          "fr_CA": "Chasseur de monstres",
+          "fr_FR": "Chasseur de monstres",
+          "hu_HU": "Szörnyvadász",
+          "id_ID": "Pemburu Monster",
+          "it_IT": "Cacciatore di mostri",
+          "ja_JP": "モンスターハンター",
+          "ko_KR": "몬스터 사냥꾼",
+          "nb_NO": "Monsterjeger",
+          "nl_NL": "Monsterjager",
+          "pl_PL": "Łowca potworów",
+          "pt_BR": "Caçador de Criaturas",
+          "pt_PT": "Caçador de Monstros",
+          "ru_RU": "Охотник на монстров",
+          "sk_SK": "Lovec príšer",
+          "sv_SE": "Monsterjägare",
+          "tr_TR": "Canavar Avcısı",
+          "uk_UA": "Мисливець на монстрів",
+          "zh_CN": "怪物猎人",
+          "zh_TW": "魔物獵人"
+        }
+      },
+      "description": {
+        "translate": "achievement.killEnemy.desc",
+        "localized": {
+          "bg_BG": "Атакувайте и унищожете чудовище",
+          "cs_CZ": "Zaútočte na nestvůru a zabijte ji.",
+          "da_DK": "Angrib og dræb et monster",
+          "de_DE": "Greif ein Monster an und töte es",
+          "el_GR": "Κάνε επίθεση σε ένα τέρας και κατάστρεψέ το",
+          "en_GB": "Attack and destroy a monster",
+          "en_US": "Attack and destroy a monster",
+          "es_ES": "Ataca y acaba con un monstruo",
+          "es_MX": "Ataca y acaba con un monstruo",
+          "fi_FI": "Hyökkää ja tuhoa hirviö",
+          "fr_CA": "Attaquer et détruire un monstre",
+          "fr_FR": "Attaquer et tuer un monstre.",
+          "hu_HU": "Támadj meg és ölj meg egy szörnyet",
+          "id_ID": "Serang dan hancurkan monster",
+          "it_IT": "Attacca e sconfiggi un mostro",
+          "ja_JP": "モンスターを攻撃して倒そう。",
+          "ko_KR": "몬스터를 공격하여 물리치십시오",
+          "nb_NO": "Angrip og ta knekken på et monster",
+          "nl_NL": "Val een monster aan en vernietig het",
+          "pl_PL": "Zaatakuj i zabij potwora",
+          "pt_BR": "Ataque e destrua uma criatura.",
+          "pt_PT": "Ataca e destrói um monstro",
+          "ru_RU": "Нападите на монстра и убейте его.",
+          "sk_SK": "Zaútočte na príšeru a porazte ju",
+          "sv_SE": "Anfall och krossa ett monster",
+          "tr_TR": "Bir canavara saldırın ve yok edin",
+          "uk_UA": "Напасти на монстра та знищити його",
+          "zh_CN": "攻击并消灭一只怪物",
+          "zh_TW": "攻擊並殺死一隻怪物"
+        }
+      },
+      "actual_requirements": "Other mobs may be killed, but are ignored for this achievement.",
+      "gamerscore": 15,
+      "trophy_type": "Bronze",
+      "rewards": "[[File:Victor's Tunic.png|60px]]<br>\"Victor's Tunic\" top",
+      "category": "getting_started",
+      "category_display": "Getting started"
+    },
+    {
+      "id": "getting_an_upgrade",
+      "title": {
+        "translate": "achievement.buildBetterPickaxe",
+        "localized": {
+          "bg_BG": "Качеството си струва",
+          "cs_CZ": "Vylepšování",
+          "da_DK": "Opgradering",
+          "de_DE": "Technischer Fortschritt",
+          "el_GR": "Αναβάθμιση",
+          "en_GB": "Getting an Upgrade",
+          "en_US": "Getting an Upgrade",
+          "es_ES": "Consiguiendo una mejora",
+          "es_MX": "Consiguiendo una mejora",
+          "fi_FI": "Parannusta peliin",
+          "fr_CA": "Faire mieux",
+          "fr_FR": "Qualité supérieure",
+          "hu_HU": "Jól jön a fejlesztés",
+          "id_ID": "Mendapatkan Peningkatan",
+          "it_IT": "Salto di qualità",
+          "ja_JP": "アップグレード",
+          "ko_KR": "업그레이드 개시",
+          "nb_NO": "Oppgradering",
+          "nl_NL": "Upgraden",
+          "pl_PL": "Lepszy model",
+          "pt_BR": "Aprimorando",
+          "pt_PT": "Obter Uma Atualização",
+          "ru_RU": "Обновка!",
+          "sk_SK": "Zlepšenie",
+          "sv_SE": "Dags för en uppgradering",
+          "tr_TR": "Geliştirme",
+          "uk_UA": "Обновка",
+          "zh_CN": "获得升级",
+          "zh_TW": "工具升级"
+        }
+      },
+      "description": {
+        "translate": "achievement.buildBetterPickaxe.desc",
+        "localized": {
+          "bg_BG": "Създайте по-качествена кирка",
+          "cs_CZ": "Vyrobte lepší krumpáč.",
+          "da_DK": "Fremstil en bedre hakke",
+          "de_DE": "Stelle eine bessere Spitzhacke her",
+          "el_GR": "Κατασκεύασε μια καλύτερη αξίνα",
+          "en_GB": "Construct a better pickaxe",
+          "en_US": "Construct a better pickaxe",
+          "es_ES": "Construye un pico mejor.",
+          "es_MX": "Construye un pico mejor.",
+          "fi_FI": "Nikkaroi parempi hakku",
+          "fr_CA": "Confectionner une pioche de meilleure qualité",
+          "fr_FR": "Confectionner une pioche de meilleure qualité",
+          "hu_HU": "Készíts jobb csákányt",
+          "id_ID": "Buat beliung yang lebih baik",
+          "it_IT": "Costruisci un piccone migliore",
+          "ja_JP": "より良いツルハシを作成する",
+          "ko_KR": "더 좋은 곡괭이를 만드세요",
+          "nb_NO": "Lag en bedre hakke",
+          "nl_NL": "Maak een betere pikhouweel",
+          "pl_PL": "Stwórz lepszy kilof",
+          "pt_BR": "Construa uma picareta melhor.",
+          "pt_PT": "Constrói uma picareta melhor",
+          "ru_RU": "Улучшите кирку.",
+          "sk_SK": "Zhotovte lepší krompáč",
+          "sv_SE": "Tillverka en bättre hacka",
+          "tr_TR": "Daha iyi bir kazma yapın",
+          "uk_UA": "Змайструвати краще кайло",
+          "zh_CN": "制作一把更好的镐",
+          "zh_TW": "合成一把更好的鎬"
+        }
+      },
+      "actual_requirements": "Pick up a stone pickaxe from a crafting table output.",
+      "gamerscore": 15,
+      "trophy_type": "Bronze",
+      "rewards": "[[File:Shiny Shirt.png|60px]]<br>\"Shiny Shirt\" top",
+      "category": "getting_started",
+      "category_display": "Getting started"
+    },
+    {
+      "id": "moar_tools",
+      "title": {
+        "localized": {
+          "en_US": "MOAR Tools"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Construct one type of each tool."
+        }
+      },
+      "actual_requirements": "Construct one pickaxe, one shovel, one axe, and one hoe with the same material.",
+      "gamerscore": 15,
+      "trophy_type": "Bronze",
+      "rewards": "[[File:Hotbar Hat.png|60px]]<br>\"Hotbar Hat\" headwear",
+      "category": "getting_started",
+      "category_display": "Getting started"
+    },
+    {
+      "id": "hot_topic",
+      "title": {
+        "translate": "achievement.buildFurnace",
+        "localized": {
+          "bg_BG": "ПЕЩерен човек",
+          "cs_CZ": "Ožehavá záležitost",
+          "da_DK": "Varme sager",
+          "de_DE": "Heiße Angelegenheit",
+          "el_GR": "Καυτό θέμα",
+          "en_GB": "Hot Topic",
+          "en_US": "Hot Topic",
+          "es_ES": "Recién hecho",
+          "es_MX": "Recién hecho",
+          "fi_FI": "Uuni kuumaksi",
+          "fr_CA": "Au fourneau!",
+          "fr_FR": "Au fourneau !",
+          "hu_HU": "Forró téma",
+          "id_ID": "Topik Hangat",
+          "it_IT": "Situazione bollente",
+          "ja_JP": "ホット トピック",
+          "ko_KR": "핫해 핫해",
+          "nb_NO": "Glødende emne",
+          "nl_NL": "Gloeiend heet",
+          "pl_PL": "Życie na gorąco",
+          "pt_BR": "Assunto Quente",
+          "pt_PT": "Tópico Quente",
+          "ru_RU": "Горячая штучка",
+          "sk_SK": "Horúca téma",
+          "sv_SE": "Grillfest",
+          "tr_TR": "Sıcak Mesele",
+          "uk_UA": "Гаряча штучка",
+          "zh_CN": "“热”门话题",
+          "zh_TW": "『熱』門『焦』點"
+        }
+      },
+      "description": {
+        "translate": "achievement.buildFurnace.desc",
+        "localized": {
+          "bg_BG": "Постройте пещ от осем каменни блока",
+          "cs_CZ": "Postavte pec z osmi kamenných bloků.",
+          "da_DK": "Byg en ovn af otte stenblokke",
+          "de_DE": "Baue einen Ofen aus acht Steinblöcken",
+          "el_GR": "Οικοδόμησε ένα καμίνι από οχτώ πέτρινους κύβους",
+          "en_GB": "Construct a furnace out of eight stone blocks",
+          "en_US": "Construct a furnace out of eight stone blocks",
+          "es_ES": "Construye un horno con ocho bloques de piedra.",
+          "es_MX": "Construye un horno con ocho bloques de piedra",
+          "fi_FI": "Rakenna masuuni kahdeksasta kivikuutiosta",
+          "fr_CA": "Construire un fourneau avec huit pavés",
+          "fr_FR": "Construire un fourneau avec huit blocs de pierre.",
+          "hu_HU": "Építs egy olvasztókemencét nyolc kőblokkból",
+          "id_ID": "Buat tungku dari delapan blok batu",
+          "it_IT": "Costruisci una fornace usando otto blocchi di pietra",
+          "ja_JP": "8 つの丸石ブロックを材料に、かまどを作ろう。",
+          "ko_KR": "8개의 돌 블록으로 화로를 만드세요",
+          "nb_NO": "Lag en smelteovn av åtte steinblokker",
+          "nl_NL": "Maak een oven van acht keien",
+          "pl_PL": "Zbuduj piec z ośmiu kamiennych bloków",
+          "pt_BR": "Construa uma Fornalha usando oito blocos de pedregulho.",
+          "pt_PT": "Constrói uma fornalha com oito blocos de pedra",
+          "ru_RU": "Постройте печку из восьми блоков булыжника.",
+          "sk_SK": "Postavte pec z ôsmich kamenných blokov",
+          "sv_SE": "Tillverka en smältugn av åtta stenblock",
+          "tr_TR": "Sekiz taş bloktan bir ocak inşa edin",
+          "uk_UA": "Викласти піч із восьми кам’яних блоків",
+          "zh_CN": "用 8 块圆石制作一个熔炉",
+          "zh_TW": "將八個石頭方塊製作出一個熔爐"
+        }
+      },
+      "actual_requirements": "Pick up a furnace from a crafting table output.",
+      "gamerscore": 15,
+      "trophy_type": "Bronze",
+      "rewards": "[[File:Furnace Mask.png|60px]]<br>\"Furnace Mask\" face item",
+      "category": "getting_started",
+      "category_display": "Getting started"
+    },
+    {
+      "id": "renewable_energy",
+      "title": {
+        "localized": {
+          "en_US": "Renewable Energy"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Smelt wood trunks using charcoal to make more charcoal."
+        }
+      },
+      "actual_requirements": "Smelt a wooden log with charcoal as the fuel.",
+      "gamerscore": 10,
+      "trophy_type": "Bronze",
+      "rewards": "[[File:Wind Turbine.png|60px]]<br>\"Wind Turbine\" back item",
+      "category": "getting_started",
+      "category_display": "Getting started"
+    },
+    {
+      "id": "pork_chop",
+      "title": {
+        "localized": {
+          "en_US": "Pork Chop"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Cook and eat a pork chop."
+        }
+      },
+      "actual_requirements": null,
+      "gamerscore": 10,
+      "trophy_type": "Bronze",
+      "rewards": "[[File:Porkchop Munching.png|60px]]<br>\"Porkchop Munching\" face item",
+      "category": "getting_started",
+      "category_display": "Getting started"
+    },
+    {
+      "id": "adventuring_time",
+      "title": {
+        "translate": "achievement.exploreAllBiomes",
+        "localized": {
+          "bg_BG": "Време за приключения",
+          "cs_CZ": "Cestovatel",
+          "da_DK": "På eventyr",
+          "de_DE": "Abenteurerzeit",
+          "el_GR": "Ώρα για περιπέτεια",
+          "en_GB": "Adventuring Time",
+          "en_US": "Adventuring Time",
+          "es_ES": "Hora de aventuras",
+          "es_MX": "Hora de aventuras",
+          "fi_FI": "Seikkailun aika",
+          "fr_CA": "Partons à l'aventure!",
+          "fr_FR": "Partons à l'aventure !",
+          "hu_HU": "Kalandozások kora",
+          "id_ID": "Waktu Petualangan",
+          "it_IT": "Verso l'infinito... e oltre!",
+          "ja_JP": "冒険の時間",
+          "ko_KR": "모험의 시간",
+          "nb_NO": "Tid for eventyr!",
+          "nl_NL": "Tijd voor avontuur",
+          "pl_PL": "Pora na przygodę",
+          "pt_BR": "Hora da Aventura",
+          "pt_PT": "Tempo de Aventuras",
+          "ru_RU": "Время приключений",
+          "sk_SK": "Čas strávený skúmaním",
+          "sv_SE": "Äventyrsdags",
+          "tr_TR": "Macera Zamanı",
+          "uk_UA": "Час пригод",
+          "zh_CN": "探索的时光",
+          "zh_TW": "環遊世界"
+        }
+      },
+      "description": {
+        "translate": "achievement.exploreAllBiomes.desc",
+        "localized": {
+          "bg_BG": "Открийте всички биоми",
+          "cs_CZ": "Objevte všechny biomy.",
+          "da_DK": "Find alle biomer",
+          "de_DE": "Entdecke alle Biome",
+          "el_GR": "Ανακάλυψε όλες τις διαπλάσεις",
+          "en_GB": "Discover all biomes",
+          "en_US": "Discover all biomes",
+          "es_ES": "Descubre todos los biomas.",
+          "es_MX": "Descubre todos los biomas.",
+          "fi_FI": "Löydä kaikki biomit",
+          "fr_CA": "Découvrir tous les biomes",
+          "fr_FR": "Découvrir tous les biomes.",
+          "hu_HU": "Fedezd fel az összes biomot",
+          "id_ID": "Temukan semua bioma",
+          "it_IT": "Scopri tutti i biomi",
+          "ja_JP": "全てのバイオームを発見しよう。",
+          "ko_KR": "모든 생물군계를 발견하세요",
+          "nb_NO": "Oppdag alle biomer",
+          "nl_NL": "Ontdek alle biomen",
+          "pl_PL": "Odkryj wszystkie biomy",
+          "pt_BR": "Descubra todos os biomas.",
+          "pt_PT": "Descobre os biomas todos",
+          "ru_RU": "Откройте все биомы.",
+          "sk_SK": "Objavte všetky biómy",
+          "sv_SE": "Upptäck alla biomer",
+          "tr_TR": "Bütün biyomları keşfedin",
+          "uk_UA": "Побувати в усіх біомах",
+          "zh_CN": "发现所有的生物群系",
+          "zh_TW": "發現所有的生態環境"
+        }
+      },
+      "actual_requirements": "Visit any 17 biomes. Does not have to be in a single world.",
+      "gamerscore": 40,
+      "trophy_type": "Silver",
+      "rewards": "[[File:The Pickaxe.png|60px]]<br>\"The Pickaxe\" emote",
+      "category": "exploring_your_world",
+      "category_display": "Exploring your world"
+    },
+    {
+      "id": "passing_the_time",
+      "title": {
+        "localized": {
+          "en_US": "Passing the Time"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Play for 100 days."
+        }
+      },
+      "actual_requirements": "Play for 100 Minecraft days, which is roughly equivalent to 33 hours in real time (if the player has not slept).",
+      "gamerscore": 20,
+      "trophy_type": "Bronze",
+      "rewards": "[[File:Very Long Hair.png|60px]]<br>\"Very Long Hair\" hair",
+      "category": "exploring_your_world",
+      "category_display": "Exploring your world"
+    },
+    {
+      "id": "on_a_rail",
+      "title": {
+        "translate": "achievement.onARail",
+        "localized": {
+          "bg_BG": "По жицата",
+          "cs_CZ": "Mám rád vláčky",
+          "da_DK": "På sporet",
+          "de_DE": "Bahn frei!",
+          "el_GR": "Πάνω σε Ράγα",
+          "en_GB": "On a Rail",
+          "en_US": "On A Rail",
+          "es_ES": "Todo sobre ruedas",
+          "es_MX": "Todo sobre ruedas",
+          "fi_FI": "Raiteilla",
+          "fr_CA": "Sur un rail",
+          "fr_FR": "Sur la bonne voie",
+          "hu_HU": "Sínen vagy",
+          "id_ID": "Di Atas Rel",
+          "it_IT": "Sui binari",
+          "ja_JP": "世界のトロッコから",
+          "ko_KR": "레일 위에서",
+          "nb_NO": "På skinner",
+          "nl_NL": "Op 't goede spoor",
+          "pl_PL": "Na torach",
+          "pt_BR": "Nos Trilhos",
+          "pt_PT": "Num Caminho-de-Ferro",
+          "ru_RU": "Стук колес",
+          "sk_SK": "Na koľaji",
+          "sv_SE": "Som på räls",
+          "tr_TR": "Ray Üstünde",
+          "uk_UA": "Подорож залізницею",
+          "zh_CN": "在铁路上",
+          "zh_TW": "暢行無阻"
+        }
+      },
+      "description": {
+        "translate": "achievement.onARail.desc",
+        "localized": {
+          "bg_BG": "Пропътувайте с вагонетка поне 1 км от началното ви място",
+          "cs_CZ": "Ujeďte na vozíku nejméně 1 km od počáteční pozice.",
+          "da_DK": "Kør mindst 1 km i en minevogn",
+          "de_DE": "Lege mit einer Lore mindestens einen Kilometer an einem Stück zurück",
+          "el_GR": "Διάνυσε πάνω σε βαγονέτο απόσταση τουλάχιστον 1 χιλιομέτρου από το σημείο που άρχισες",
+          "en_GB": "Travel by minecart at least 1 km from where you started",
+          "en_US": "Travel by minecart at least 1 km from where you started",
+          "es_ES": "Viaja en vagoneta al menos un kilómetro desde donde empezaste",
+          "es_MX": "Viaja en vagón al menos 1 kilómetro desde donde empezaste",
+          "fi_FI": "Aja kaivosvaunulla vähintään 1 kilometrin päähän lähtöpisteestäsi",
+          "fr_CA": "Parcourir au moins 1 kilomètre en wagonnet à partir du départ",
+          "fr_FR": "Parcourir au moins 1 km en wagonnet.",
+          "hu_HU": "Utazz csillével legalább 1 km-re a kezdőponttól",
+          "id_ID": "Naik kereta tambang setidaknya 1 km dari tempat kamu mulai",
+          "it_IT": "Viaggia in un vagonetto per almeno 1 chilometro dal punto di partenza.",
+          "ja_JP": "トロッコに乗って スタート地点から 1km 以上走行しよう。",
+          "ko_KR": "광산 수레를 타고 1km 이상 이동하세요",
+          "nb_NO": "Reis minst 1 km med gruvevogn fra der du startet",
+          "nl_NL": "Reis per mijnkar ten minste 1 kilometer vanaf je startpunt",
+          "pl_PL": "Przejedź wagonikiem przynajmniej 1 km od miejsca rozpoczęcia jazdy",
+          "pt_BR": "Ande de carrinho de mina por pelo menos 1 km de onde você começou",
+          "pt_PT": "Faz uma viagem de vagoneta de, pelo menos, 1 km desde onde começou",
+          "ru_RU": "Прокатитесь на вагонетке не менее 1 километра от точки старта.",
+          "sk_SK": "Cestujte v banskom vozíku aspoň 1 km od miesta, kde ste začali",
+          "sv_SE": "Sätt dig i en gruvvagn och åk minst 1 km från startpunkten",
+          "tr_TR": "Başladığınız yerden itibaren en az 1 km boyunca maden arabasıyla gidin",
+          "uk_UA": "Проїхатися вагонеткою хоча б 1 км",
+          "zh_CN": "乘坐矿车旅行，移动到离出发点至少 1 公里的位置",
+          "zh_TW": "從開始處乘坐礦車至少 1 公里"
+        }
+      },
+      "actual_requirements": "Travel by minecart 500 blocks in a straight line away from the player's starting point.",
+      "gamerscore": 40,
+      "trophy_type": "Gold",
+      "rewards": "[[File:Conductor Hat.png|60px]]<br>\"Conductor Hat\" headwear",
+      "category": "exploring_your_world",
+      "category_display": "Exploring your world"
+    },
+    {
+      "id": "trampoline",
+      "title": {
+        "localized": {
+          "en_US": "Trampoline"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Bounce 30 blocks upward off a slime block."
+        }
+      },
+      "actual_requirements": null,
+      "gamerscore": 15,
+      "trophy_type": "Bronze",
+      "rewards": "[[File:Slime (Base).png|60px]]<br>\"Slime\" base",
+      "category": "exploring_your_world",
+      "category_display": "Exploring your world"
+    },
+    {
+      "id": "caves_and_cliffs",
+      "title": {
+        "localized": {
+          "en_US": "Caves and Cliffs"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Freefall from the top of the world (build limit) to the bottom of the world and survive."
+        }
+      },
+      "actual_requirements": null,
+      "gamerscore": 30,
+      "trophy_type": "Gold",
+      "rewards": "[[File:Bucket Boot.png|60px]]<br>\"Bucket Boot\" footwear",
+      "category": "exploring_your_world",
+      "category_display": "Exploring your world"
+    },
+    {
+      "id": "sound_of_music",
+      "title": {
+        "localized": {
+          "en_US": "Sound of Music"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Make the Meadows come alive with the sound of music from a jukebox."
+        }
+      },
+      "actual_requirements": "a music disc on a jukebox in the Meadow biome.",
+      "gamerscore": 10,
+      "trophy_type": "Bronze",
+      "rewards": "[[File:Floral Tunes.png|60px]]<br>\"Floral Tunes\" headwear",
+      "category": "exploring_your_world",
+      "category_display": "Exploring your world"
+    },
+    {
+      "id": "acquire_hardware",
+      "title": {
+        "translate": "achievement.acquireIron",
+        "localized": {
+          "bg_BG": "Твърд като желязо",
+          "cs_CZ": "Výroba nářadí",
+          "da_DK": "Anskaf udstyr",
+          "de_DE": "Schmiedekunst",
+          "el_GR": "Απόκτηση σιδερικών",
+          "en_GB": "Acquire Hardware",
+          "en_US": "Acquire Hardware",
+          "es_ES": "Ponle hierro al asunto",
+          "es_MX": "Ponle hierro al asunto",
+          "fi_FI": "Hanki rautatavaraa",
+          "fr_CA": "Faire fondre du fer",
+          "fr_FR": "L'âge du fer",
+          "hu_HU": "Szerezz fémet",
+          "id_ID": "Dapatkan Perkakas",
+          "it_IT": "Ferri del mestiere",
+          "ja_JP": "金属を手に入れる",
+          "ko_KR": "최초의 철",
+          "nb_NO": "Smelt jern",
+          "nl_NL": "IJzerwaren verkrijgen",
+          "pl_PL": "Zdobądź ciężki sprzęt",
+          "pt_BR": "Adquirir Ferramentas",
+          "pt_PT": "Obter Ferramentas",
+          "ru_RU": "Куй железо пока...",
+          "sk_SK": "Získanie výzbroje",
+          "sv_SE": "Medan järnet är varmt",
+          "tr_TR": "Mühimmat Edin",
+          "uk_UA": "Сталевар",
+          "zh_CN": "来硬的",
+          "zh_TW": "來硬的"
+        }
+      },
+      "description": {
+        "translate": "achievement.acquireIron.desc",
+        "localized": {
+          "bg_BG": "Претопете руда в железен слитък",
+          "cs_CZ": "Roztavte železný ingot.",
+          "da_DK": "Smelt en jernbarre",
+          "de_DE": "Schmilz einen Eisenbarren",
+          "el_GR": "Λιώσε μια ράβδο σιδήρου",
+          "en_GB": "Smelt an iron ingot",
+          "en_US": "Smelt an iron ingot",
+          "es_ES": "Funde un lingote de hierro.",
+          "es_MX": "Funde un lingote de hierro",
+          "fi_FI": "Sulata rautaharkko",
+          "fr_CA": "Fondre un lingot de fer",
+          "fr_FR": "Fondre un lingot de fer.",
+          "hu_HU": "Olvassz meg egy vasrudat",
+          "id_ID": "Lebur besi batangan",
+          "it_IT": "Fondi un lingotto di ferro",
+          "ja_JP": "鉄インゴットを製錬する",
+          "ko_KR": "철 주괴를 제련하십시오",
+          "nb_NO": "Smelt en jernbarre",
+          "nl_NL": "Smeed een ijzerstaaf",
+          "pl_PL": "Przetop sztabkę żelaza",
+          "pt_BR": "Funda uma barra de ferro.",
+          "pt_PT": "Funde um lingote de ferro",
+          "ru_RU": "Расплавьте железный слиток.",
+          "sk_SK": "Roztavte železný ingot",
+          "sv_SE": "Smält en järntacka",
+          "tr_TR": "Bir demir külçe eritin",
+          "uk_UA": "Виплавити залізний злиток",
+          "zh_CN": "冶炼出一块铁锭",
+          "zh_TW": "熔煉出一個鐵錠"
+        }
+      },
+      "actual_requirements": "Pick up an iron ingot from a furnace output.",
+      "gamerscore": 15,
+      "trophy_type": "Bronze",
+      "rewards": "[[File:Hammering.png|60px]]<br>\"Hammering\" emote",
+      "category": "mining",
+      "category_display": "Mining"
+    },
+    {
+      "id": "diamonds",
+      "title": {
+        "translate": "achievement.diamonds",
+        "localized": {
+          "bg_BG": "ДИАМАНТИ!",
+          "cs_CZ": "DIAMANTY!",
+          "da_DK": "DIAMANTER!",
+          "de_DE": "DIAMANTEN!",
+          "el_GR": "ΔΙΑΜΑΝΤΙΑ!",
+          "en_GB": "DIAMONDS!",
+          "en_US": "DIAMONDS!",
+          "es_ES": "¡Diamantes!",
+          "es_MX": "¡DIAMANTES!",
+          "fi_FI": "TIMANTTEJA!",
+          "fr_CA": "DIAMANTS!",
+          "fr_FR": "Des diamants !",
+          "hu_HU": "GYÉMÁNTOK!",
+          "id_ID": "BERLIAN!",
+          "it_IT": "DIAMANTI!",
+          "ja_JP": "ダイヤモンド!",
+          "ko_KR": "다이아몬드다!",
+          "nb_NO": "DIAMANTER!",
+          "nl_NL": "DIAMANTEN!",
+          "pl_PL": "DIAMENTY!",
+          "pt_BR": "DIAMANTES!",
+          "pt_PT": "DIAMANTES!",
+          "ru_RU": "АЛМАЗЫ!",
+          "sk_SK": "DIAMANTY!",
+          "sv_SE": "DIAMANTER!",
+          "tr_TR": "ELMASLAR!",
+          "uk_UA": "АЛМАЗИ!",
+          "zh_CN": "钻石！",
+          "zh_TW": "鑽石！"
+        }
+      },
+      "description": {
+        "translate": "achievement.diamonds.desc",
+        "localized": {
+          "bg_BG": "Намерете диаманти с железни сечива",
+          "cs_CZ": "Získejte diamanty pomocí železných nástrojů.",
+          "da_DK": "Find diamanter med dine jernredskaber",
+          "de_DE": "Baue Diamanten mit einer Eisenspitzhacke ab",
+          "el_GR": "Απόκτησε διαμάντια με τα σιδερένια εργαλεία σου",
+          "en_GB": "Acquire diamonds with your iron tools",
+          "en_US": "Acquire diamonds with your iron tools",
+          "es_ES": "Obtén diamantes con tus herramientas de hierro.",
+          "es_MX": "Obtén diamantes con tus herramientas de hierro.",
+          "fi_FI": "Hanki timantteja rautatyökaluillasi",
+          "fr_CA": "Extraire des diamants avec des outils en fer",
+          "fr_FR": "Extraire des diamants avec des outils en fer.",
+          "hu_HU": "Bányássz gyémántokat a vasszerszámaiddal",
+          "id_ID": "Dapatkan berlian dengan alat besimu",
+          "it_IT": "Ottieni dei diamanti con i tuoi attrezzi di ferro",
+          "ja_JP": "鉄の道具を使ってダイヤモンドをゲットする。",
+          "ko_KR": "철제 도구로 다이아몬드를 획득하십시오",
+          "nb_NO": "Utvinn diamanter med jernredskapene dine",
+          "nl_NL": "Verkrijg diamanten met je ijzeren gereedschap",
+          "pl_PL": "Zdobądź diamenty przy użyciu narzędzi z żelaza",
+          "pt_BR": "Adquira diamantes com suas ferramentas de ferro.",
+          "pt_PT": "Obtém diamantes com ferramentas de ferro",
+          "ru_RU": "Добудьте алмазы с помощью железных инструментов.",
+          "sk_SK": "Získajte diamanty so železnými nástrojmi",
+          "sv_SE": "Använd dina järnverktyg för att skaffa diamanter",
+          "tr_TR": "Demir aletlerinizle elmas toplayın",
+          "uk_UA": "Добути алмази залізними інструментами",
+          "zh_CN": "用铁镐挖一些钻石吧",
+          "zh_TW": "利用鐵製工具獲取鑽石"
+        }
+      },
+      "actual_requirements": "Pick up a diamond from the ground.",
+      "gamerscore": 20,
+      "trophy_type": "Bronze",
+      "rewards": "[[File:DIAMOND CROWN.png|60px]]<br>\"DIAMOND CROWN\" headwear",
+      "category": "mining",
+      "category_display": "Mining"
+    },
+    {
+      "id": "diamonds_to_you",
+      "title": {
+        "translate": "achievement.diamondsToYou",
+        "localized": {
+          "bg_BG": "На ти сега диаманти!",
+          "cs_CZ": "Diamanty na tebe!",
+          "da_DK": "Diamanter til dig!",
+          "de_DE": "Diamanten für dich!",
+          "el_GR": "Φάε τα διαμάντια μου!",
+          "en_GB": "Diamonds to you!",
+          "en_US": "Diamonds to you!",
+          "es_ES": "¡Diamantes para ti!",
+          "es_MX": "¡Diamantes para ti!",
+          "fi_FI": "Vaikka muille jakaa",
+          "fr_CA": "Diamants pour toi!",
+          "fr_FR": "Des diamants pour vous !",
+          "hu_HU": "Gyémántok neked!",
+          "id_ID": "Berlian untukmu!",
+          "it_IT": "Diamanti a voi!",
+          "ja_JP": "ダイヤモンドをあなたに!",
+          "ko_KR": "다이아몬드를 그대에게!",
+          "nb_NO": "Diamanter til deg!",
+          "nl_NL": "Diamanten voor jou!",
+          "pl_PL": "Łap diamenty!",
+          "pt_BR": "Diamantes Para Você!",
+          "pt_PT": "Diamantes para ti!",
+          "ru_RU": "Алмазы для вас!",
+          "sk_SK": "Diamanty pre teba!",
+          "sv_SE": "Diamanter åt dig!",
+          "tr_TR": "Seni seçtim elmas!",
+          "uk_UA": "Алмазна щедрість",
+          "zh_CN": "给你钻石！",
+          "zh_TW": "送你的鑽石！"
+        }
+      },
+      "description": {
+        "translate": "achievement.diamondsToYou.desc",
+        "localized": {
+          "bg_BG": "Хвърлете диаманти по друг играч.",
+          "cs_CZ": "Hoďte diamanty na jiného hráče.",
+          "da_DK": "Kast diamanter til en anden spiller.",
+          "de_DE": "Wirf mit Diamanten nach einem anderen Spieler.",
+          "el_GR": "Πέτα διαμάντια σε έναν άλλο παίκτη.",
+          "en_GB": "Throw diamonds at another player.",
+          "en_US": "Throw diamonds at another player.",
+          "es_ES": "Lanza diamantes a otro jugador.",
+          "es_MX": "Lanza diamantes a otro jugador.",
+          "fi_FI": "Heitä toista pelaajaa timanteilla.",
+          "fr_CA": "Lancer des diamants à un autre joueur",
+          "fr_FR": "Lancer des diamants à un autre joueur",
+          "hu_HU": "Dobj gyémántokat egy másik játékosra.",
+          "id_ID": "Lempar berlian kepada pemain lain.",
+          "it_IT": "Lancia diamanti a un altro giocatore.",
+          "ja_JP": "他のプレイヤーにダイヤモンドを投げる。",
+          "ko_KR": "다른 플레이어에게 다이아몬드를 던지십시오.",
+          "nb_NO": "Kast diamanter på en annen spiller.",
+          "nl_NL": "Gooi diamanten naar een andere speler.",
+          "pl_PL": "Rzuć diamentami w innego gracza.",
+          "pt_BR": "Jogue diamantes em outro jogador.",
+          "pt_PT": "Atira diamantes a outro jogador.",
+          "ru_RU": "Бросьте алмазы в другого игрока.",
+          "sk_SK": "Hoďte diamanty po inom hráčovi.",
+          "sv_SE": "Kasta diamanter på en annan spelare.",
+          "tr_TR": "Başka bir oyuncuya elmas atın.",
+          "uk_UA": "Кинути алмази в іншого гравця",
+          "zh_CN": "将钻石扔给其他玩家。",
+          "zh_TW": "朝其他玩家丟擲鑽石。"
+        }
+      },
+      "actual_requirements": "a diamond. Another player or a zombie must then pick up this diamond.",
+      "gamerscore": 15,
+      "trophy_type": "Bronze",
+      "rewards": "[[File:Silly.png|60px]]<br>\"Silly\" emote",
+      "category": "mining",
+      "category_display": "Mining"
+    },
+    {
+      "id": "chestful_of_cobblestone",
+      "title": {
+        "localized": {
+          "en_US": "Chestful of Cobblestone"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Mine 1,728 Cobblestone and place it in a chest."
+        }
+      },
+      "actual_requirements": "A player must open a chest that contains 27 stacks of cobblestone.",
+      "gamerscore": 20,
+      "trophy_type": "Bronze",
+      "rewards": "[[File:Cobblestone (Base).png|60px]]<br>\"Cobblestone\" base",
+      "category": "mining",
+      "category_display": "Mining"
+    },
+    {
+      "id": "super_fuel",
+      "title": {
+        "localized": {
+          "en_US": "Super Fuel"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Power a Furnace with Lava"
+        }
+      },
+      "actual_requirements": "Smelt an item using a lava bucket on a furnace, blast furnace or smoker and pick up the resulting item from the output slot.",
+      "gamerscore": 20,
+      "trophy_type": "Bronze",
+      "rewards": "[[File:Energy Pack.png|60px]]<br>\"Energy Pack\" back item",
+      "category": "mining",
+      "category_display": "Mining"
+    },
+    {
+      "id": "time_to_farm",
+      "title": {
+        "translate": "achievement.buildHoe",
+        "localized": {
+          "bg_BG": "Фермер за един ден",
+          "cs_CZ": "Farmaření zdar!",
+          "da_DK": "Så skal der luges!",
+          "de_DE": "Fang an zu ackern!",
+          "el_GR": "Ώρα να καλλιεργήσουμε!",
+          "en_GB": "Time to Farm!",
+          "en_US": "Time to Farm!",
+          "es_ES": "¡Hora de cultivar!",
+          "es_MX": "¡Hora de cultivar!",
+          "fi_FI": "Maata viljelemään!",
+          "fr_CA": "Il est temps de cultiver!",
+          "fr_FR": "Il est temps de cultiver !",
+          "hu_HU": "Vár a farm!",
+          "id_ID": "Waktunya Bertani!",
+          "it_IT": "È ora di coltivare!",
+          "ja_JP": "いざ農業!",
+          "ko_KR": "농사 개시!",
+          "nb_NO": "På tide å dyrke jorden!",
+          "nl_NL": "Boerenbestaan",
+          "pl_PL": "Do uprawy przystąp!",
+          "pt_BR": "Hora de Plantar!",
+          "pt_PT": "Hora de Cultivar!",
+          "ru_RU": "Дачный сезон!",
+          "sk_SK": "Čas na farmárčenie!",
+          "sv_SE": "Dags att odla!",
+          "tr_TR": "Tarım Zamanı!",
+          "uk_UA": "Город не чекає!",
+          "zh_CN": "耕种时间到！",
+          "zh_TW": "農耕時間！"
+        }
+      },
+      "description": {
+        "translate": "achievement.buildHoe.desc",
+        "localized": {
+          "bg_BG": "Използвайте дъски и пръчки, за да направите мотика",
+          "cs_CZ": "Vyrobte motyku z prken a klacíků.",
+          "da_DK": "Fremstil et lugejern af planker og pinde",
+          "de_DE": "Stell aus Holz und Stöcken eine Hacke her",
+          "el_GR": "Χρησιμοποίησε σανίδες και ραβδιά για να φτιάξεις μια τσάπα",
+          "en_GB": "Use planks and sticks to make a hoe",
+          "en_US": "Use planks and sticks to make a hoe",
+          "es_ES": "Usa tablones y palos para hacer una azada.",
+          "es_MX": "Usa tablones y palos para hacer un azadón",
+          "fi_FI": "Nikkaroi kuokka lankuista ja kepeistä",
+          "fr_CA": "Utiliser des planches et des bâtons pour fabriquer une houe",
+          "fr_FR": "Utiliser des planches et des bâtons pour confectionner une houe.",
+          "hu_HU": "Készíts kapát botokból és deszkákból",
+          "id_ID": "Gunakan papan dan tongkat untuk membuat cangkul",
+          "it_IT": "Usa assi e bastoni per realizzare una zappa",
+          "ja_JP": "木の板と棒を材料に、くわを作ろう。",
+          "ko_KR": "판자와 막대기를 사용하여 괭이를 만드십시오",
+          "nb_NO": "Lag en grev av planker og pinner",
+          "nl_NL": "Maak een schoffel met planken en stokken",
+          "pl_PL": "Użyj desek i patyków, żeby zrobić motykę",
+          "pt_BR": "Use tábuas e gravetos para fazer uma enxada.",
+          "pt_PT": "Constrói uma enxada com tábuas e paus",
+          "ru_RU": "Изготовьте мотыгу из досок и палок.",
+          "sk_SK": "Vyrobte motyku z dosiek a palíc",
+          "sv_SE": "Gör en hacka av plankor och pinnar",
+          "tr_TR": "Bir çapa yapmak için kalaslar ve sopalar kullanın",
+          "uk_UA": "Змайструвати мотику з дощок і палиць",
+          "zh_CN": "使用木板和木棍制作木锄",
+          "zh_TW": "使用木材和木棍來製造鋤頭"
+        }
+      },
+      "actual_requirements": "Pick up any type of hoe from a crafting table output.",
+      "gamerscore": 10,
+      "trophy_type": "Bronze",
+      "rewards": "[[File:Wheat Toothpick.png|60px]]<br>\"Wheat Toothpick\" face item",
+      "category": "farming_husbandry",
+      "category_display": "Farming & Husbandry"
+    },
+    {
+      "id": "repopulation",
+      "title": {
+        "translate": "achievement.breedCow",
+        "localized": {
+          "bg_BG": "Скотовъдство за начинаещи",
+          "cs_CZ": "Rozšíření stáda",
+          "da_DK": "Genbefolkning",
+          "de_DE": "Nachzucht",
+          "el_GR": "Ανασύσταση",
+          "en_GB": "Repopulation",
+          "en_US": "Repopulation",
+          "es_ES": "Repoblación",
+          "es_MX": "Repoblación",
+          "fi_FI": "Uudelleenkansoitus",
+          "fr_CA": "Repeuplement",
+          "fr_FR": "Repeuplement",
+          "hu_HU": "Benépesítés",
+          "id_ID": "Repopulasi",
+          "it_IT": "Ripopolamento",
+          "ja_JP": "再繁殖",
+          "ko_KR": "증식",
+          "nb_NO": "Repopulasjon",
+          "nl_NL": "Herbevolking",
+          "pl_PL": "Ponowne zasiedlenie",
+          "pt_BR": "Repovoamento",
+          "pt_PT": "Repovoamento",
+          "ru_RU": "Воспроизводство",
+          "sk_SK": "Repopulácia",
+          "sv_SE": "Återbefolkning",
+          "tr_TR": "Nüfus Artışı",
+          "uk_UA": "Знову корови",
+          "zh_CN": "繁衍生息",
+          "zh_TW": "增產報國"
+        }
+      },
+      "description": {
+        "translate": "achievement.breedCow.desc",
+        "localized": {
+          "bg_BG": "Развъдете две крави с пшеница",
+          "cs_CZ": "Použijte pšenici k rozmnožení dvou krav.",
+          "da_DK": "Opdræt to køer med hvede",
+          "de_DE": "Züchte zwei Kühe mit Weizen",
+          "el_GR": "Κάνε εκτροφή δύο αγελάδων με σιτάρι",
+          "en_GB": "Breed two cows with wheat",
+          "en_US": "Breed two cows with wheat",
+          "es_ES": "Alimenta dos vacas con trigo para que se reproduzcan.",
+          "es_MX": "Alimenta dos vacas con trigo para que se reproduzcan.",
+          "fi_FI": "Saa kaksi lehmää lisääntymään vehnällä",
+          "fr_CA": "Faire se reproduire deux vaches avec du blé",
+          "fr_FR": "Faire se reproduire deux vaches avec du blé.",
+          "hu_HU": "Nevelj fel két tehenet búzával",
+          "id_ID": "Kembang biakkan dua sapi dengan gandum",
+          "it_IT": "Fai riprodurre due mucche con il grano",
+          "ja_JP": "小麦を与えて牛を 2 頭繁殖させる",
+          "ko_KR": "밀로 소 2마리를 교배시키십시오",
+          "nb_NO": "Avle to kuer ved hjelp av hvete",
+          "nl_NL": "Fok twee koeien met tarwe",
+          "pl_PL": "Użyj pszenicy do rozmnożenia dwóch krów",
+          "pt_BR": "Alimente duas vacas com trigo.",
+          "pt_PT": "Cria duas vacas com trigo",
+          "ru_RU": "Скрестите двух коров, накормив их пшеницей.",
+          "sk_SK": "Spárujte dve kravy pomocou pšenice",
+          "sv_SE": "Para två kor med hjälp av vete",
+          "tr_TR": "Buğdayla iki inek besleyin",
+          "uk_UA": "Викормити дві корови пшеницею",
+          "zh_CN": "用小麦饲养两头牛使其繁殖。",
+          "zh_TW": "使用小麥餵養兩頭乳牛"
+        }
+      },
+      "actual_requirements": "Breed two cows or two mooshrooms.",
+      "gamerscore": 15,
+      "trophy_type": "Bronze",
+      "rewards": "[[File:Cowbell Necklace.png|60px]]<br>\"Cowbell Necklace\" outerwear",
+      "category": "farming_husbandry",
+      "category_display": "Farming & Husbandry"
+    },
+    {
+      "id": "cow_tipper",
+      "title": {
+        "translate": "achievement.killCow",
+        "localized": {
+          "bg_BG": "Кравобер",
+          "cs_CZ": "Krávobijec",
+          "da_DK": "Kovælter",
+          "de_DE": "Kuhschubser",
+          "el_GR": "Ανατροπέας αγελάδων",
+          "en_GB": "Cow Tipper",
+          "en_US": "Cow Tipper",
+          "es_ES": "Chupavacas",
+          "es_MX": "Chupavacas",
+          "fi_FI": "Lehmänkaataja",
+          "fr_CA": "Apprenti tanneur",
+          "fr_FR": "Tanneur en devenir",
+          "hu_HU": "Tehénölő",
+          "id_ID": "Pembalik Sapi",
+          "it_IT": "Ribalta la mucca",
+          "ja_JP": "牛転がし",
+          "ko_KR": "소 잡기",
+          "nb_NO": "Kuvelter",
+          "nl_NL": "Koeiendoder",
+          "pl_PL": "Raz krowie śmierć",
+          "pt_BR": "Tombador de Vacas",
+          "pt_PT": "Vira-Vacas",
+          "ru_RU": "Мясник",
+          "sk_SK": "Kravovrah",
+          "sv_SE": "Kovältare",
+          "tr_TR": "İnek Deviren",
+          "uk_UA": "Кожум’яка",
+          "zh_CN": "斗牛士",
+          "zh_TW": "牛不只有牛奶"
+        }
+      },
+      "description": {
+        "translate": "achievement.killCow.desc",
+        "localized": {
+          "bg_BG": "Съберете кожа",
+          "cs_CZ": "Posbírejte několik kůží.",
+          "da_DK": "Få noget læder",
+          "de_DE": "Gewinne Leder",
+          "el_GR": "Μάζεψε δέρμα",
+          "en_GB": "Harvest some leather",
+          "en_US": "Harvest some leather",
+          "es_ES": "Recolecta algo de cuero",
+          "es_MX": "Recolecta algo de cuero",
+          "fi_FI": "Kerää nahkaa",
+          "fr_CA": "Récolter du cuir",
+          "fr_FR": "Récupérer du cuir.",
+          "hu_HU": "Takaríts be egy kis bőrt",
+          "id_ID": "Ambil kulit",
+          "it_IT": "Procurati del cuoio",
+          "ja_JP": "革を手に入れよう。",
+          "ko_KR": "가죽을 몇 개 얻으십시오",
+          "nb_NO": "Skaff deg litt skinn",
+          "nl_NL": "Oogst leer",
+          "pl_PL": "Zbierz trochę skóry",
+          "pt_BR": "Colete um pouco de couro.",
+          "pt_PT": "Recolhe cabedal",
+          "ru_RU": "Соберите немного кожи.",
+          "sk_SK": "Pozbierajte kožu",
+          "sv_SE": "”Skörda” lite läder",
+          "tr_TR": "Biraz deri toplayın",
+          "uk_UA": "Здерти шкіру",
+          "zh_CN": "获得一些皮革",
+          "zh_TW": "獲得一些皮革"
+        }
+      },
+      "actual_requirements": "Pick up leather from the ground or via fishing.",
+      "gamerscore": 15,
+      "trophy_type": "Bronze",
+      "rewards": "[[File:Faceplant.png|60px]]<br>\"Faceplant\" emote",
+      "category": "farming_husbandry",
+      "category_display": "Farming & Husbandry"
+    },
+    {
+      "id": "when_pigs_fly",
+      "title": {
+        "translate": "achievement.flyPig",
+        "localized": {
+          "bg_BG": "Ред Прас ти дава крила",
+          "cs_CZ": "Kdyby prase mělo křídla",
+          "da_DK": "Når grise kan flyve",
+          "de_DE": "Wenn Schweine fliegen",
+          "el_GR": "Πετάει ο γάιδαρος, πετάει και το γουρούνι",
+          "en_GB": "When Pigs Fly",
+          "en_US": "When Pigs Fly",
+          "es_ES": "Cuando los cerdos vuelen",
+          "es_MX": "Cuando los cerdos vuelen",
+          "fi_FI": "Kun possut lentävät",
+          "fr_CA": "Quand les cochons volent",
+          "fr_FR": "Aéro-porc",
+          "hu_HU": "Repülő malacok",
+          "id_ID": "Saat Babi Terbang",
+          "it_IT": "Quando i maiali voleranno",
+          "ja_JP": "ブタさんの飛ぶ頃に",
+          "ko_KR": "돼지, 날다",
+          "nb_NO": "Når griser flyr",
+          "nl_NL": "Als varkens vliegen",
+          "pl_PL": "Gdy świnie zaczną latać",
+          "pt_BR": "Quando os Porcos Voarem",
+          "pt_PT": "Quando os Porcos Voarem",
+          "ru_RU": "Жаль, что свиньи не летают...",
+          "sk_SK": "Keď prasce lietajú",
+          "sv_SE": "När grisar kan flyga",
+          "tr_TR": "Domuzlar Uçtuğunda",
+          "uk_UA": "Летючі свині",
+          "zh_CN": "当猪飞的时候",
+          "zh_TW": "等哪天豬會飛了…噢！"
+        }
+      },
+      "description": {
+        "translate": "achievement.flyPig.desc",
+        "localized": {
+          "bg_BG": "Литнете от висока скала, докато яздите прасе",
+          "cs_CZ": "Pošlete prase z útesu.",
+          "da_DK": "Lad en gris lette fra en klippe",
+          "de_DE": "Fliege auf einem Schwein eine Klippe hinunter",
+          "el_GR": "Πέτα ένα γουρούνι από το γκρεμό",
+          "en_GB": "Fly a pig off a cliff",
+          "en_US": "Fly a pig off a cliff",
+          "es_ES": "Tira un cerdo desde un barranco.",
+          "es_MX": "Tira un cerdo desde un barranco.",
+          "fi_FI": "Lennätä sika kalliolta",
+          "fr_CA": "Sauter d'une falaise sur le dos d'un cochon",
+          "fr_FR": "Sauter d'une falaise à dos de cochon.",
+          "hu_HU": "Reptess le egy malacot egy szikláról",
+          "id_ID": "Terbangkan babi dari tebing",
+          "it_IT": "Fai volare un maiale giù da un precipizio",
+          "ja_JP": "ブタに乗って崖から落ちよう。",
+          "ko_KR": "돼지를 타고 절벽에서 떨어지세요",
+          "nb_NO": "Fly en gris utfor en klippe",
+          "nl_NL": "Vlieg een varken van een rots af",
+          "pl_PL": "Zleć na świni z urwiska",
+          "pt_BR": "Voe com um porco montanha abaixo.",
+          "pt_PT": "Monta um porco e cai de um penhasco",
+          "ru_RU": "Упадите со скалы верхом на свинье.",
+          "sk_SK": "Zleťte na prasati z útesu",
+          "sv_SE": "Rid ut för ett stup med en gris",
+          "tr_TR": "Bir uçurumdan bir domuzu uçurun",
+          "uk_UA": "Скочити на свині зі скелі",
+          "zh_CN": "骑着猪从悬崖上飞下",
+          "zh_TW": "騎著豬從懸崖衝下去"
+        }
+      },
+      "actual_requirements": "Be riding a pig (e.g. using a saddle) when it hits the ground with a fall distance greater than 5.",
+      "gamerscore": 40,
+      "trophy_type": "Silver",
+      "rewards": "[[File:Winged Pig Boots.png|60px]]<br>\"Winged Pig Boots\" footwear",
+      "category": "farming_husbandry",
+      "category_display": "Farming & Husbandry"
+    },
+    {
+      "id": "leader_of_the_pack",
+      "title": {
+        "localized": {
+          "en_US": "Leader of the Pack"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Befriend five wolves."
+        }
+      },
+      "actual_requirements": "Note: This does not have to be in a single game, so multiple games or reloading old saves does count toward this achievement.",
+      "gamerscore": 20,
+      "trophy_type": "Bronze",
+      "rewards": "[[File:Wolf Mask.png|60px]]<br>\"Wolf Mask\" headwear",
+      "category": "farming_husbandry",
+      "category_display": "Farming & Husbandry"
+    },
+    {
+      "id": "have_a_shearful_day",
+      "title": {
+        "localized": {
+          "en_US": "Have a Shearful Day"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Use Shears to obtain wool from a sheep."
+        }
+      },
+      "actual_requirements": null,
+      "gamerscore": 15,
+      "trophy_type": "Bronze",
+      "rewards": "[[File:Wooled.png|60px]]<br>\"Wooled\" outerwear",
+      "category": "farming_husbandry",
+      "category_display": "Farming & Husbandry"
+    },
+    {
+      "id": "rainbow_collection",
+      "title": {
+        "localized": {
+          "en_US": "Rainbow Collection"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Gather all 16 colors of wool."
+        }
+      },
+      "actual_requirements": "All the colors of wool do not have to be in the inventory at the same time, but must have been picked up by the player at least once.",
+      "gamerscore": 30,
+      "trophy_type": "Silver",
+      "rewards": "[[File:Rainbow Sweater.png|60px]]<br>\"Rainbow Sweater\" top",
+      "category": "farming_husbandry",
+      "category_display": "Farming & Husbandry"
+    },
+    {
+      "id": "artificial_selection",
+      "title": {
+        "localized": {
+          "en_US": "Artificial Selection"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Breed a mule from a horse and a donkey."
+        }
+      },
+      "actual_requirements": null,
+      "gamerscore": 30,
+      "trophy_type": "Bronze",
+      "rewards": "[[File:Horse Mask.png|60px]]<br>\"Horse Mask\" headwear",
+      "category": "farming_husbandry",
+      "category_display": "Farming & Husbandry"
+    },
+    {
+      "id": "bee_our_guest",
+      "title": {
+        "localized": {
+          "en_US": "Bee our guest"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Use a Campfire to collect Honey from a Beehive using a Bottle without aggravating the bees."
+        }
+      },
+      "actual_requirements": null,
+      "gamerscore": 15,
+      "trophy_type": "Bronze",
+      "rewards": "[[File:Honey Pot.png|60px]]<br>\"Honey Pot\" headwear",
+      "category": "farming_husbandry",
+      "category_display": "Farming & Husbandry"
+    },
+    {
+      "id": "total_beelocation",
+      "title": {
+        "localized": {
+          "en_US": "Total Beelocation"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Move and place a Bee Nest, with 3 bees inside, using Silk Touch."
+        }
+      },
+      "actual_requirements": null,
+      "gamerscore": 30,
+      "trophy_type": "Silver",
+      "rewards": "[[File:Beekeeper Hat.png|60px]]<br>\"Beekeeper Hat\" headwear",
+      "category": "farming_husbandry",
+      "category_display": "Farming & Husbandry"
+    },
+    {
+      "id": "sticky_situation",
+      "title": {
+        "localized": {
+          "en_US": "Sticky Situation"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Slide down a honey block to slow your fall."
+        }
+      },
+      "actual_requirements": null,
+      "gamerscore": 30,
+      "trophy_type": "Silver",
+      "rewards": "[[File:Beekeeper Suit.png|60px]]<br>\"Beekeeper Suit\" outerwear",
+      "category": "farming_husbandry",
+      "category_display": "Farming & Husbandry"
+    },
+    {
+      "id": "saddle_up",
+      "title": {
+        "localized": {
+          "en_US": "Saddle Up"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Tame a horse."
+        }
+      },
+      "actual_requirements": null,
+      "gamerscore": 20,
+      "trophy_type": "Bronze",
+      "rewards": "[[File:Cowpoke Chaps.png|60px]]<br>\"Cowpoke Chaps\" bottom",
+      "category": "farming_husbandry",
+      "category_display": "Farming & Husbandry"
+    },
+    {
+      "id": "whatever_floats_your_goat",
+      "title": {
+        "localized": {
+          "en_US": "Whatever Floats Your Goat"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Get in a boat and float with a goat"
+        }
+      },
+      "actual_requirements": "Use a boat and put a goat inside that boat, then ride it.",
+      "gamerscore": 20,
+      "trophy_type": "Bronze",
+      "rewards": "[[File:Goat Floaties.png|60px]]<br>\"Goat Floaties\" outerwear",
+      "category": "farming_husbandry",
+      "category_display": "Farming & Husbandry"
+    },
+    {
+      "id": "bake_bread",
+      "title": {
+        "translate": "achievement.makeBread",
+        "localized": {
+          "bg_BG": "Насъщния",
+          "cs_CZ": "Upeč třeba chleba…",
+          "da_DK": "Bag brød",
+          "de_DE": "Bäcker",
+          "el_GR": "Ψήσε Ψωμί",
+          "en_GB": "Bake Bread",
+          "en_US": "Bake Bread",
+          "es_ES": "Con un pan debajo del brazo",
+          "es_MX": "Con un pan debajo del brazo",
+          "fi_FI": "Leivo leipää",
+          "fr_CA": "Faire cuire du pain",
+          "fr_FR": "Faire cuire du pain",
+          "hu_HU": "Kenyérsütés",
+          "id_ID": "Panggang Roti",
+          "it_IT": "Cuoci il pane",
+          "ja_JP": "パンを焼く",
+          "ko_KR": "갓 구운 빵",
+          "nb_NO": "Bak brød",
+          "nl_NL": "Bak brood",
+          "pl_PL": "Pieczenie chleba",
+          "pt_BR": "Assar Pão",
+          "pt_PT": "Cozer Pão",
+          "ru_RU": "Хлеб насущный",
+          "sk_SK": "Pečenie chleba",
+          "sv_SE": "Brödföda",
+          "tr_TR": "Ekmek Pişir",
+          "uk_UA": "Файний пекар",
+          "zh_CN": "烤面包",
+          "zh_TW": "烤麵包"
+        }
+      },
+      "description": {
+        "translate": "achievement.makeBread.desc",
+        "localized": {
+          "bg_BG": "Превърнете пшеница в хляб",
+          "cs_CZ": "Proměňte pšenici v chleba.",
+          "da_DK": "Fremstil brød af hvede",
+          "de_DE": "Backe ein Brot aus Weizen",
+          "el_GR": "Μετάτρεψε το σιτάρι σε ψωμί",
+          "en_GB": "Turn wheat into bread",
+          "en_US": "Turn wheat into bread",
+          "es_ES": "Haz pan con el trigo",
+          "es_MX": "Haz pan con el trigo",
+          "fi_FI": "Tee vehnästä leipää",
+          "fr_CA": "Transformer du blé en pain",
+          "fr_FR": "Faire du pain avec du blé.",
+          "hu_HU": "Süss kenyeret búzából",
+          "id_ID": "Ubah gandum menjadi roti",
+          "it_IT": "Trasforma il grano in pane.",
+          "ja_JP": "小麦からパンを作ろう。",
+          "ko_KR": "밀로 빵을 만드십시오",
+          "nb_NO": "Lag brød av hvete",
+          "nl_NL": "Maak brood van tarwe",
+          "pl_PL": "Zrób chleb z pszenicy",
+          "pt_BR": "Transforme trigo em pão.",
+          "pt_PT": "Transforma trigo em pão",
+          "ru_RU": "Сделайте из пшеницы хлеб.",
+          "sk_SK": "Premeňte pšenicu na chlieb",
+          "sv_SE": "Förvandla vete till bröd",
+          "tr_TR": "Buğdayı ekmeğe çevirin",
+          "uk_UA": "Спекти хліб із пшениці",
+          "zh_CN": "用小麦来做面包",
+          "zh_TW": "把小麥變成麵包"
+        }
+      },
+      "actual_requirements": "Pick up bread from a crafting table output.",
+      "gamerscore": 15,
+      "trophy_type": "Bronze",
+      "rewards": "[[File:Chefs Hat.png|60px]]<br>\"Chefs Hat\" headwear",
+      "category": "culinary_exploits",
+      "category_display": "Culinary exploits"
+    },
+    {
+      "id": "the_lie",
+      "title": {
+        "translate": "achievement.bakeCake",
+        "localized": {
+          "bg_BG": "Вкусната лъжа",
+          "cs_CZ": "Lež",
+          "da_DK": "Løgnen",
+          "de_DE": "Die Lüge",
+          "el_GR": "Γλυκιά αμαρτία",
+          "en_GB": "The Lie",
+          "en_US": "The Lie",
+          "es_ES": "¡La mentira!",
+          "es_MX": "¡La mentira!",
+          "fi_FI": "Valhe",
+          "fr_CA": "La cerise sur le gâteau",
+          "fr_FR": "La cerise sur le gâteau",
+          "hu_HU": "A hazugság",
+          "id_ID": "Kebohongan",
+          "it_IT": "Forno rovente",
+          "ja_JP": "絵に描いた○○○",
+          "ko_KR": "거짓말",
+          "nb_NO": "Løgnen",
+          "nl_NL": "De leugen",
+          "pl_PL": "Kłamstwo",
+          "pt_BR": "A Mentira",
+          "pt_PT": "A Mentira",
+          "ru_RU": "Его нет!",
+          "sk_SK": "Lož",
+          "sv_SE": "Baka kaka",
+          "tr_TR": "Yalan",
+          "uk_UA": "Це обман",
+          "zh_CN": "蛋糕是个谎言",
+          "zh_TW": "蛋糕是個謊言"
+        }
+      },
+      "description": {
+        "translate": "achievement.bakeCake.desc",
+        "localized": {
+          "bg_BG": "Пшеница, захар, мляко и яйца!",
+          "cs_CZ": "Pšenice, cukr, mléko a vejce!",
+          "da_DK": "Hvede, sukker, mælk og æg!",
+          "de_DE": "Weizen, Zucker, Milch und Ei!",
+          "el_GR": "Σιτάρι, ζάχαρη, γάλα και αυγά!",
+          "en_GB": "Wheat, sugar, milk and eggs!",
+          "en_US": "Wheat, sugar, milk and eggs!",
+          "es_ES": "¡Trigo, azúcar, leche y huevos!",
+          "es_MX": "¡Trigo, azúcar, leche y huevos!",
+          "fi_FI": "Vehnää, sokeria, maitoa ja munia!",
+          "fr_CA": "Du blé, du sucre, du lait et des œufs!",
+          "fr_FR": "Du blé, du sucre, du lait et des oeufs !",
+          "hu_HU": "Búza, cukor, tej és tojás!",
+          "id_ID": "Gandum, gula, susu, dan telur!",
+          "it_IT": "Grano, zucchero, latte e uova!",
+          "ja_JP": "小麦に砂糖、ミルク、それからタマゴ!",
+          "ko_KR": "밀, 설탕, 우유, 달걀!",
+          "nb_NO": "Hvete, sukker, melk og egg!",
+          "nl_NL": "Tarwe, suiker, melk en eieren!",
+          "pl_PL": "Pszenica, cukier, mleko i jaja!",
+          "pt_BR": "Trigo, açúcar, leite e ovos!",
+          "pt_PT": "Trigo, açúcar, leite e ovos!",
+          "ru_RU": "Пшеница, сахар, молоко и яйца!",
+          "sk_SK": "Pšenica, cukor, mlieko a vajcia!",
+          "sv_SE": "Vete, socker, mjölk och ägg!",
+          "tr_TR": "Buğday, şeker, süt ve yumurta!",
+          "uk_UA": "Пшениця, цукор, молоко та яйця!",
+          "zh_CN": "小麦、糖、奶和鸡蛋！",
+          "zh_TW": "小麥、糖、牛奶和蛋！"
+        }
+      },
+      "actual_requirements": "Pick up a cake from a crafting table output.",
+      "gamerscore": 30,
+      "trophy_type": "Bronze",
+      "rewards": "[[File:Cake Apron.png|60px]]<br>\"Cake Apron\" outerwear",
+      "category": "culinary_exploits",
+      "category_display": "Culinary exploits"
+    },
+    {
+      "id": "delicious_fish",
+      "title": {
+        "translate": "achievement.cookFish",
+        "localized": {
+          "bg_BG": "Вкусна рибка",
+          "cs_CZ": "Miloušká rybiška",
+          "da_DK": "Lækker fisk",
+          "de_DE": "Köstlicher Fisch",
+          "el_GR": "Νοστιμότατα ψάρια",
+          "en_GB": "Delicious Fish",
+          "en_US": "Delicious Fish",
+          "es_ES": "Pescado delicioso",
+          "es_MX": "Pescado delicioso",
+          "fi_FI": "Herkullista kalaa",
+          "fr_CA": "Un délicieux poisson",
+          "fr_FR": "Un délicieux poisson",
+          "hu_HU": "Finom hal",
+          "id_ID": "Ikan Lezat",
+          "it_IT": "Pesce delizioso",
+          "ja_JP": "美味しい魚",
+          "ko_KR": "맛있는 생선",
+          "nb_NO": "Deilig fisk",
+          "nl_NL": "Overheerlijke vis",
+          "pl_PL": "Przepyszna ryba",
+          "pt_BR": "Pescaria Produtiva",
+          "pt_PT": "Peixe Delicioso",
+          "ru_RU": "Вкусная рыбка",
+          "sk_SK": "Lahodná ryba",
+          "sv_SE": "Fina fisken",
+          "tr_TR": "Lezzetli balık",
+          "uk_UA": "Смачненька рибка",
+          "zh_CN": "美味的鱼儿",
+          "zh_TW": "優質魚肉"
+        }
+      },
+      "description": {
+        "translate": "achievement.cookFish.desc",
+        "localized": {
+          "bg_BG": "Уловете риба и си я сгответе!",
+          "cs_CZ": "Chyťte rybu a uvařte si ji!",
+          "da_DK": "Fang og steg en fisk!",
+          "de_DE": "Fange und brate einen Fisch!",
+          "el_GR": "Πιάσε και μαγείρεψε ψάρι!",
+          "en_GB": "Catch and cook fish!",
+          "en_US": "Catch and cook fish!",
+          "es_ES": "¡Pesca un pez y cocínalo!",
+          "es_MX": "¡Pesca un pez y cocínalo!",
+          "fi_FI": "Nappaa kala ja valmista siitä ruokaa!",
+          "fr_CA": "Pêcher un poisson et le cuisiner",
+          "fr_FR": "Pêcher et cuisiner un poisson.",
+          "hu_HU": "Süss meg egy halat, miután kifogtad",
+          "id_ID": "Tangkap dan masak ikan!",
+          "it_IT": "Pesca e cuoci un pesce!",
+          "ja_JP": "魚を釣って調理しよう!",
+          "ko_KR": "생선을 잡아 요리하십시오!",
+          "nb_NO": "Fang og tilbered fisk!",
+          "nl_NL": "Vang en bak vis!",
+          "pl_PL": "Złap i przyrządź rybę!",
+          "pt_BR": "Fisgue e cozinhe um peixe!",
+          "pt_PT": "Pesca e cozinha um peixe!",
+          "ru_RU": "Поймайте и приготовьте рыбу!",
+          "sk_SK": "Chyťte a uvarte rybu!",
+          "sv_SE": "Fånga och tillaga fisk!",
+          "tr_TR": "Balık tutun ve pişirin!",
+          "uk_UA": "Зловити й приготувати рибу",
+          "zh_CN": "捕鱼，然后烹饪！",
+          "zh_TW": "釣到魚，並烹煮牠！"
+        }
+      },
+      "actual_requirements": "Pick up a cooked cod after cooking it in a furnace, smoker, campfire, or soul campfire., Note: This does not work if the block used is connected to a hopper underneath, as the player is not getting the item directly from the output.",
+      "gamerscore": 15,
+      "trophy_type": "Silver",
+      "rewards": "[[File:Fisherman Hat.png|60px]]<br>\"Fisherman Hat\" headwear",
+      "category": "culinary_exploits",
+      "category_display": "Culinary exploits"
+    },
+    {
+      "id": "local_brewery",
+      "title": {
+        "translate": "achievement.potion",
+        "localized": {
+          "bg_BG": "За всяка болежка – отвара",
+          "cs_CZ": "Místní pivovar",
+          "da_DK": "Lokalt bryggeri",
+          "de_DE": "Alchemie",
+          "el_GR": "Τοπικό αποστακτήριο",
+          "en_GB": "Local Brewery",
+          "en_US": "Local Brewery",
+          "es_ES": "Destilería local",
+          "es_MX": "Destilería local",
+          "fi_FI": "Kotipanimo",
+          "fr_CA": "Brasserie locale",
+          "fr_FR": "Apprenti chimiste",
+          "hu_HU": "Helyi kifőzde",
+          "id_ID": "Pabrik Peramuan Lokal",
+          "it_IT": "Distilleria artigianale",
+          "ja_JP": "町のお薬屋さん",
+          "ko_KR": "물약 양조장",
+          "nb_NO": "Lokalt bryggeri",
+          "nl_NL": "Plaatselijke brouwerij",
+          "pl_PL": "Lokalny browar",
+          "pt_BR": "Boticário Local",
+          "pt_PT": "Fábrica de Poções Local",
+          "ru_RU": "Юный алхимик",
+          "sk_SK": "Miestny pivovar",
+          "sv_SE": "Lokalt bryggeri",
+          "tr_TR": "Yerel İksirci",
+          "uk_UA": "Свій розлив",
+          "zh_CN": "本地酿造厂",
+          "zh_TW": "私人釀坊"
+        }
+      },
+      "description": {
+        "translate": "achievement.potion.desc",
+        "localized": {
+          "bg_BG": "Сварете отвара",
+          "cs_CZ": "Uvařte lektvar.",
+          "da_DK": "Bryg en eliksir",
+          "de_DE": "Braue einen Trank",
+          "el_GR": "Παρασκεύασε ένα φίλτρο",
+          "en_GB": "Brew a potion",
+          "en_US": "Brew a potion",
+          "es_ES": "Elabora una poción",
+          "es_MX": "Elabora una poción",
+          "fi_FI": "Hauduta juoma",
+          "fr_CA": "Concocter une potion",
+          "fr_FR": "Concocter une potion.",
+          "hu_HU": "Főz egy bájitalt",
+          "id_ID": "Buat Ramuan",
+          "it_IT": "Prepara una pozione.",
+          "ja_JP": "ポーションを醸造する",
+          "ko_KR": "물약을 하나 만드십시오",
+          "nb_NO": "Brygg en eliksir",
+          "nl_NL": "Brouw een drankje",
+          "pl_PL": "Przyrządź miksturę.",
+          "pt_BR": "Faça uma poção",
+          "pt_PT": "Fermenta uma poção",
+          "ru_RU": "Сварите зелье.",
+          "sk_SK": "Uvarte elixír",
+          "sv_SE": "Brygg en brygd",
+          "tr_TR": "Bir iksir oluşturun",
+          "uk_UA": "Зварити зілля",
+          "zh_CN": "酿造一瓶药水",
+          "zh_TW": "釀造一罐藥水"
+        }
+      },
+      "actual_requirements": "Pick up a potion from a brewing stand potion slot. An already-created potion placed and removed qualifies.",
+      "gamerscore": 15,
+      "trophy_type": "Bronze",
+      "rewards": "[[File:Witch Hat.png|60px]]<br>\"Witch Hat\" headwear",
+      "category": "culinary_exploits",
+      "category_display": "Culinary exploits"
+    },
+    {
+      "id": "iron_belly",
+      "title": {
+        "localized": {
+          "en_US": "Iron Belly"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Stop starvation using Rotten Flesh."
+        }
+      },
+      "actual_requirements": "Eat a piece of rotten flesh while at hunger points.",
+      "gamerscore": 20,
+      "trophy_type": "Bronze",
+      "rewards": "[[File:A Hunger.png|60px]]<br>\"A Hunger?\" outerwear",
+      "category": "culinary_exploits",
+      "category_display": "Culinary exploits"
+    },
+    {
+      "id": "rabbit_season",
+      "title": {
+        "localized": {
+          "en_US": "Rabbit Season"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Cook and Eat Rabbit Meat"
+        }
+      },
+      "actual_requirements": null,
+      "gamerscore": 15,
+      "trophy_type": "Bronze",
+      "rewards": "[[File:Hunter's Hat.png|60px]]<br>\"Hunter's Hat\" headwear",
+      "category": "culinary_exploits",
+      "category_display": "Culinary exploits"
+    },
+    {
+      "id": "time_for_stew",
+      "title": {
+        "localized": {
+          "en_US": "Time for Stew"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Give someone a suspicious stew."
+        }
+      },
+      "actual_requirements": "a suspicious stew. Another player must then pick up this suspicious stew.",
+      "gamerscore": 20,
+      "trophy_type": "Bronze",
+      "rewards": "[[File:Witch's Robe.png|60px]]<br>\"Witch's Robe\" outerwear",
+      "category": "culinary_exploits",
+      "category_display": "Culinary exploits"
+    },
+    {
+      "id": "top_of_the_world",
+      "title": {
+        "localized": {
+          "en_US": "Top of the World"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Place scaffolding to the world limit."
+        }
+      },
+      "actual_requirements": "Place a scaffolding at the world height limit.",
+      "gamerscore": 20,
+      "trophy_type": "Bronze",
+      "rewards": null,
+      "category": "building_decorating",
+      "category_display": "Building & Decorating"
+    },
+    {
+      "id": "pot_planter",
+      "title": {
+        "localized": {
+          "en_US": "Pot Planter"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Craft and place a Flower Pot."
+        }
+      },
+      "actual_requirements": null,
+      "gamerscore": 15,
+      "trophy_type": "Bronze",
+      "rewards": "[[File:Flower Pot Shoes.png|60px]]<br>\"Flower Pot Shoes\" footwear",
+      "category": "building_decorating",
+      "category_display": "Building & Decorating"
+    },
+    {
+      "id": "it_s_a_sign",
+      "title": {
+        "localized": {
+          "en_US": "It's a Sign!"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Craft and place an Oak Sign."
+        }
+      },
+      "actual_requirements": null,
+      "gamerscore": 15,
+      "trophy_type": "Bronze",
+      "rewards": "[[File:Divination Cape.png|60px]]<br>\"Divination Cape\" outerwear",
+      "category": "building_decorating",
+      "category_display": "Building & Decorating"
+    },
+    {
+      "id": "wax_on_wax_off",
+      "title": {
+        "localized": {
+          "en_US": "Wax on, Wax off"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Apply and remove Wax from all the Copper blocks!!!"
+        }
+      },
+      "actual_requirements": "Wax and de-wax each oxidation stage of the 4 original copper blocks in the game: blocks of copper, cut copper blocks, cut copper stairs, and cut copper slabs.",
+      "gamerscore": 30,
+      "trophy_type": "Silver",
+      "rewards": "[[File:Copper Headband.png|60px]]<br>\"Copper Headband\" headwear",
+      "category": "building_decorating",
+      "category_display": "Building & Decorating"
+    },
+    {
+      "id": "careful_restoration",
+      "title": {
+        "localized": {
+          "en_US": "Careful restoration"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Make a Decorated Pot out of 4 Pottery Sherds"
+        }
+      },
+      "actual_requirements": null,
+      "gamerscore": 10,
+      "trophy_type": "Bronze",
+      "rewards": "[[File:Pottery Disguise.png|60px]]<br>\"Pottery Disguise\" headwear",
+      "category": "building_decorating",
+      "category_display": "Building & Decorating"
+    },
+    {
+      "id": "the_haggler",
+      "title": {
+        "localized": {
+          "en_US": "The Haggler"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Acquire or spend 30 Emeralds by trading with villagers or with wandering trader."
+        }
+      },
+      "actual_requirements": null,
+      "gamerscore": 30,
+      "trophy_type": "Silver",
+      "rewards": "[[File:Emerald Suit Coat.png|60px]]<br>\"Emerald Suit Coat\" outerwear",
+      "category": "village_pillage",
+      "category_display": "Village & Pillage"
+    },
+    {
+      "id": "body_guard",
+      "title": {
+        "localized": {
+          "en_US": "Body Guard"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Create an Iron Golem"
+        }
+      },
+      "actual_requirements": null,
+      "gamerscore": 20,
+      "trophy_type": "Bronze",
+      "rewards": null,
+      "category": "village_pillage",
+      "category_display": "Village & Pillage"
+    },
+    {
+      "id": "tie_dye_outfit",
+      "title": {
+        "localized": {
+          "en_US": "Tie Dye Outfit"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Use a cauldron to dye all 4 unique pieces of leather armor."
+        }
+      },
+      "actual_requirements": null,
+      "gamerscore": 15,
+      "trophy_type": "Bronze",
+      "rewards": "[[File:Tie Dye Tank.png|60px]]<br>\"Tie Dye Tank\" top",
+      "category": "village_pillage",
+      "category_display": "Village & Pillage"
+    },
+    {
+      "id": "zombie_doctor",
+      "title": {
+        "localized": {
+          "en_US": "Zombie Doctor"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Cure a zombie villager."
+        }
+      },
+      "actual_requirements": "Throw a splash potion of weakness at a zombie villager and give it a golden apple (by facing the zombie and pressing the key with a golden apple in your hand).",
+      "gamerscore": 40,
+      "trophy_type": "Gold",
+      "rewards": "[[File:Plague Doctor Mask.png|60px]]<br>\"Plague Doctor Mask\" headwear",
+      "category": "village_pillage",
+      "category_display": "Village & Pillage"
+    },
+    {
+      "id": "where_have_you_been",
+      "title": {
+        "localized": {
+          "en_US": "Where have you been?"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Receive a gift from a tamed cat in the morning."
+        }
+      },
+      "actual_requirements": "The gift must be picked up from the ground.",
+      "gamerscore": 20,
+      "trophy_type": "Bronze",
+      "rewards": "[[File:Kitty Face.png|60px]]<br>\"Kitty Face :3\" headwear",
+      "category": "village_pillage",
+      "category_display": "Village & Pillage"
+    },
+    {
+      "id": "plethora_of_cats",
+      "title": {
+        "localized": {
+          "en_US": "Plethora of Cats"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Befriend twenty stray cats."
+        }
+      },
+      "actual_requirements": "Befriend and tame twenty stray cats found in villages. They do not all need to be tamed in a single world.",
+      "gamerscore": 20,
+      "trophy_type": "Silver",
+      "rewards": "[[File:Calico Headset.png|60px]]<br>\"Calico Headset\" headwear",
+      "category": "village_pillage",
+      "category_display": "Village & Pillage"
+    },
+    {
+      "id": "fruit_on_the_loom",
+      "title": {
+        "localized": {
+          "en_US": "Fruit on the Loom"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Make a banner using an Enchanted Apple Stencil"
+        }
+      },
+      "actual_requirements": "Make a banner using the thing banner pattern.",
+      "gamerscore": 20,
+      "trophy_type": "Bronze",
+      "rewards": null,
+      "category": "village_pillage",
+      "category_display": "Village & Pillage"
+    },
+    {
+      "id": "kill_the_beast",
+      "title": {
+        "localized": {
+          "en_US": "Kill the Beast!"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Defeat a Ravager."
+        }
+      },
+      "actual_requirements": null,
+      "gamerscore": 30,
+      "trophy_type": "Silver",
+      "rewards": null,
+      "category": "village_pillage",
+      "category_display": "Village & Pillage"
+    },
+    {
+      "id": "buy_low_sell_high",
+      "title": {
+        "localized": {
+          "en_US": "Buy Low, Sell High"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Trade for the best possible price."
+        }
+      },
+      "actual_requirements": "Buy something for 1 emerald, or when the Hero of the Village effect is applied.",
+      "gamerscore": 50,
+      "trophy_type": "Gold",
+      "rewards": "[[File:Gold Club Jacket.png|60px]]<br>\"Gold Club Jacket\" outerwear",
+      "category": "village_pillage",
+      "category_display": "Village & Pillage"
+    },
+    {
+      "id": "disenchanted",
+      "title": {
+        "localized": {
+          "en_US": "Disenchanted"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Use a Grindstone to get experience from an enchanted item."
+        }
+      },
+      "actual_requirements": null,
+      "gamerscore": 20,
+      "trophy_type": "Bronze",
+      "rewards": null,
+      "category": "village_pillage",
+      "category_display": "Village & Pillage"
+    },
+    {
+      "id": "we_re_being_attacked",
+      "title": {
+        "localized": {
+          "en_US": "We're being attacked!"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Trigger a Pillager Raid."
+        }
+      },
+      "actual_requirements": "Walk in a village with the Raid Omen effect applied in 30 seconds.",
+      "gamerscore": 20,
+      "trophy_type": "Bronze",
+      "rewards": null,
+      "category": "village_pillage",
+      "category_display": "Village & Pillage"
+    },
+    {
+      "id": "sound_the_alarm",
+      "title": {
+        "localized": {
+          "en_US": "Sound the Alarm!"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Ring the bell in a village after a villager has been hurt."
+        }
+      },
+      "actual_requirements": null,
+      "gamerscore": 20,
+      "trophy_type": "Bronze",
+      "rewards": "[[File:Fake Villager nose.png|60px]]<br>\"Fake Villager nose\" face item",
+      "category": "village_pillage",
+      "category_display": "Village & Pillage"
+    },
+    {
+      "id": "i_ve_got_a_bad_feeling_about_this",
+      "title": {
+        "localized": {
+          "en_US": "I've got a bad feeling about this"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Kill a Pillager Captain."
+        }
+      },
+      "actual_requirements": "Drink an Ominous Bottle.",
+      "gamerscore": 20,
+      "trophy_type": "Bronze",
+      "rewards": "[[File:Victor's Trousers.png|60px]]<br>\"Victor's Trousers\" bottom",
+      "category": "village_pillage",
+      "category_display": "Village & Pillage"
+    },
+    {
+      "id": "master_trader",
+      "title": {
+        "localized": {
+          "en_US": "Master Trader"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Trade for 1,000 emeralds."
+        }
+      },
+      "actual_requirements": "Obtain 1,000 emeralds from trading with villagers.",
+      "gamerscore": 30,
+      "trophy_type": "Silver",
+      "rewards": "[[File:Emerald Headwrap.png|60px]]<br>\"Emerald Headwrap\" headwear",
+      "category": "village_pillage",
+      "category_display": "Village & Pillage"
+    },
+    {
+      "id": "star_trader",
+      "title": {
+        "localized": {
+          "en_US": "Star trader"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Trade with a villager at the build height limit."
+        }
+      },
+      "actual_requirements": null,
+      "gamerscore": 20,
+      "trophy_type": "Silver",
+      "rewards": null,
+      "category": "village_pillage",
+      "category_display": "Village & Pillage"
+    },
+    {
+      "id": "treasure_hunter",
+      "title": {
+        "localized": {
+          "en_US": "Treasure Hunter"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Acquire a map from a cartographer villager, then enter the revealed structure"
+        }
+      },
+      "actual_requirements": "Visit the structure indicated while the purchased map is in your main hand (hotbar).",
+      "gamerscore": 40,
+      "trophy_type": "Silver",
+      "rewards": "[[File:Archeologist's Hat.png|60px]]<br>\"Archaeologist's Hat\" headwear",
+      "category": "village_pillage",
+      "category_display": "Village & Pillage"
+    },
+    {
+      "id": "enchanter",
+      "title": {
+        "translate": "achievement.enchantments",
+        "localized": {
+          "bg_BG": "Чародей",
+          "cs_CZ": "Zaklínač",
+          "da_DK": "Troldmand",
+          "de_DE": "Zauberer",
+          "el_GR": "Μάγος",
+          "en_GB": "Enchanter",
+          "en_US": "Enchanter",
+          "es_ES": "Hechicero",
+          "es_MX": "Hechicero",
+          "fi_FI": "Lumoaja",
+          "fr_CA": "Apprenti sorcier",
+          "fr_FR": "Enchanté !",
+          "hu_HU": "Bűvölő",
+          "id_ID": "Ahli Sihir",
+          "it_IT": "Incantatore",
+          "ja_JP": "エンチャントの使い手",
+          "ko_KR": "마법 부여자",
+          "nb_NO": "Trollmann",
+          "nl_NL": "Tovenaar",
+          "pl_PL": "Zaklinacz",
+          "pt_BR": "Aprendiz de feiticeiro",
+          "pt_PT": "Encantador",
+          "ru_RU": "Заклинатель",
+          "sk_SK": "Čarodejník",
+          "sv_SE": "Förtrollare",
+          "tr_TR": "Büyücü",
+          "uk_UA": "Чарівник",
+          "zh_CN": "附魔师",
+          "zh_TW": "附魔師"
+        }
+      },
+      "description": {
+        "translate": "achievement.enchantments.desc",
+        "localized": {
+          "bg_BG": "Използвайте книга, обсидиан и диаманти, за да построите магьосническа станция",
+          "cs_CZ": "Vyrobte zaklínací stůl pomocí knihy, obsidiánu a diamantů.",
+          "da_DK": "Skab et fortryllelsesbord ved hjælp af obsidian, diamanter og en bog",
+          "de_DE": "Verwende ein Buch, Obsidian und Diamanten, um einen Zaubertisch zu bauen",
+          "el_GR": "Χρησιμοποίησε ένα βιβλίο, οψιδιανό και διαμάντια για να δημιουργήσεις ένα τραπέζι μαγείας",
+          "en_GB": "Use a book, obsidian and diamonds to construct an enchantment table",
+          "en_US": "Use a book, obsidian and diamonds to construct an enchantment table",
+          "es_ES": "Usa un libro, obsidiana y diamantes para construir una mesa de encantamientos.",
+          "es_MX": "Usa un libro, obsidiana y diamantes para construir una mesa de encantamientos.",
+          "fi_FI": "Valmista lumouspöytä kirjasta, obsidiaanista ja timanteista",
+          "fr_CA": "Utiliser un livre, de l'obsidienne et des diamants pour fabriquer une table d'enchantement",
+          "fr_FR": "Utiliser un livre, de l'obsidienne et des diamants pour fabriquer une table d'enchantement.",
+          "hu_HU": "Használj könyvet, obszidiánt és gyémántot egy varázslóasztal megépítésére",
+          "id_ID": "Gunakan buku, obsidian, dan berlian untuk membuat meja sihir",
+          "it_IT": "Usa un libro, ossidiana e diamanti per costruire un tavolo per incantesimi",
+          "ja_JP": "本、黒曜石、ダイヤモンドを使ってエンチャントテーブルを作ろう。",
+          "ko_KR": "책, 흑요석, 다이아몬드로 마법 부여대를 만드세요",
+          "nb_NO": "Lag et fortryllelsesbord ved hjelp av en bok, obsidian og diamanter",
+          "nl_NL": "Gebruik een boek, obsidiaan en diamanten om een betoveringstafel te maken",
+          "pl_PL": "Użyj książki, obsydianu i diamentów, żeby stworzyć stół do zaklęć",
+          "pt_BR": "Use um livro, obsidiana e diamantes para construir uma mesa de encantamentos.",
+          "pt_PT": "Constrói uma mesa de encantamentos com um livro, obsidiana e diamantes",
+          "ru_RU": "Изготовьте стол зачарований из книги, обсидиана и алмазов.",
+          "sk_SK": "Pomocou knihy, obsidiánu a diamantov zhotovte čarodejný stôl",
+          "sv_SE": "Bygg ett förtrollningsbord av en bok, obsidian och diamanter",
+          "tr_TR": "Bir büyü masası inşa etmek için bir kitap, Obsidiyen ve elmaslar kullanın",
+          "uk_UA": "Змайструвати стіл зачарування з книжки, обсидіану та алмазів",
+          "zh_CN": "使用书、黑曜石和钻石来制作一个附魔台",
+          "zh_TW": "使用書本、黑曜石和鑽石合成一個附魔台"
+        }
+      },
+      "actual_requirements": "Pick up an enchanting table from a crafting table output.",
+      "gamerscore": 20,
+      "trophy_type": "Bronze",
+      "rewards": "[[File:Enchanters Hat.png|60px]]<br>\"Enchanters Hat\" headwear",
+      "category": "feels_like_magic",
+      "category_display": "Feels like magic"
+    },
+    {
+      "id": "librarian",
+      "title": {
+        "translate": "achievement.bookcase",
+        "localized": {
+          "bg_BG": "Моята първа библиотека",
+          "cs_CZ": "Knihovník",
+          "da_DK": "Bibliotekar",
+          "de_DE": "Bibliothekar",
+          "el_GR": "Βιβλιοθηκάριος",
+          "en_GB": "Librarian",
+          "en_US": "Librarian",
+          "es_ES": "Bibliotecario",
+          "es_MX": "Bibliotecario",
+          "fi_FI": "Kirjastonhoitaja",
+          "fr_CA": "Bibliothécaire",
+          "fr_FR": "Bibliothécaire",
+          "hu_HU": "Könyvtáros",
+          "id_ID": "Pustakawan",
+          "it_IT": "Bibliotecario",
+          "ja_JP": "司書",
+          "ko_KR": "사서",
+          "nb_NO": "Bibliotekar",
+          "nl_NL": "Bibliothecaris",
+          "pl_PL": "Bibliotekarz",
+          "pt_BR": "Bibliotecário",
+          "pt_PT": "Bibliotecário",
+          "ru_RU": "Библиотекарь",
+          "sk_SK": "Knihovník",
+          "sv_SE": "Bibliotekarie",
+          "tr_TR": "Kütüphaneci",
+          "uk_UA": "Бібліотекар",
+          "zh_CN": "图书管理员",
+          "zh_TW": "圖書館員"
+        }
+      },
+      "description": {
+        "translate": "achievement.bookcase.desc",
+        "localized": {
+          "bg_BG": "Постройте лавици за книги, за да подобрите магьосническата си станция",
+          "cs_CZ": "Postavte pár knihoven k vylepšení zaklínacího stolu.",
+          "da_DK": "Optimer dit fortryllelsesbord med bogreoler",
+          "de_DE": "Baue Bücherregale, um deinen Zaubertisch zu verbessern",
+          "el_GR": "Φτιάξε μερικά ράφια για να βελτιώσεις το τραπέζι μαγείας σου",
+          "en_GB": "Build some bookshelves to improve your enchantment table",
+          "en_US": "Build some bookshelves to improve your enchantment table",
+          "es_ES": "Construye algunas estanterías para mejorar tu mesa de encantamientos.",
+          "es_MX": "Construye algunas estanterías para mejorar tu mesa de encantamientos.",
+          "fi_FI": "Paranna lumouspöytääsi rakentamalla kirjahyllyjä",
+          "fr_CA": "Construire des bibliothèques pour améliorer votre table d'enchantement",
+          "fr_FR": "Construire des bibliothèques pour améliorer votre table d'enchantement.",
+          "hu_HU": "Építs néhány könyvespolcot, hogy javítsd a varázslóasztalod hatékonyságát",
+          "id_ID": "Buat beberapa rak untuk meningkatkan meja sihir kamu",
+          "it_IT": "Costruisci degli scaffali per migliorare il tavolo per incantesimi",
+          "ja_JP": "本棚を作ってエンチャントテーブルを強化しましょう。",
+          "ko_KR": "책장 몇 개를 만들어서 마법 부여대를 강화하십시오",
+          "nb_NO": "Lag noen bokhyller for å forbedre fortryllelsesbordet ditt",
+          "nl_NL": "Maak wat boekenplanken om je betoverblok te verbeteren",
+          "pl_PL": "Zrób półki, żeby ulepszyć stół do zaklęć",
+          "pt_BR": "Construa algumas estantes para melhorar sua mesa de encantamentos.",
+          "pt_PT": "Constrói algumas estantes para melhorar a tua mesa de encantamentos",
+          "ru_RU": "Изготовьте несколько книжных шкафов, чтобы улучшить стол зачарований.",
+          "sk_SK": "Postavte police na zdokonalenie čarodejného stola",
+          "sv_SE": "Bygg bokhyllor som förbättrar ditt förtrollningsbord",
+          "tr_TR": "Büyü masanızı geliştirmek için biraz kitap rafı inşa edin",
+          "uk_UA": "Змайструвати кілька книжкових полиць, щоб поліпшити стіл зачарування",
+          "zh_CN": "建造一些书架来强化你的附魔台",
+          "zh_TW": "在周圍放置書架，增強您的附魔台等級"
+        }
+      },
+      "actual_requirements": "Pick up a bookshelf from a crafting table output.",
+      "gamerscore": 20,
+      "trophy_type": "Bronze",
+      "rewards": "[[File:Stack of Books.png|60px]]<br>\"Stack of Books\" headwear",
+      "category": "feels_like_magic",
+      "category_display": "Feels like magic"
+    },
+    {
+      "id": "overpowered",
+      "title": {
+        "translate": "achievement.overpowered",
+        "localized": {
+          "bg_BG": "Твърде добро, за да е истина",
+          "cs_CZ": "Nabito silou",
+          "da_DK": "Energitilskud",
+          "de_DE": "Übermächtig",
+          "el_GR": "Υπερδύναμος",
+          "en_GB": "Overpowered",
+          "en_US": "Overpowered",
+          "es_ES": "Todopoderoso",
+          "es_MX": "Todopoderoso",
+          "fi_FI": "Ylivoimaa",
+          "fr_CA": "Surpuissant",
+          "fr_FR": "Surpuissant",
+          "hu_HU": "Ez túl OP!",
+          "id_ID": "Dikuasai",
+          "it_IT": "Un'aura potentissima",
+          "ja_JP": "圧倒",
+          "ko_KR": "압도적인 힘",
+          "nb_NO": "Overmektig",
+          "nl_NL": "Overpowerd",
+          "pl_PL": "Mocarz",
+          "pt_BR": "Superpoderoso",
+          "pt_PT": "Omnipotente",
+          "ru_RU": "Яблоко мощи",
+          "sk_SK": "Prebytok energie",
+          "sv_SE": "Kraftfylld",
+          "tr_TR": "Aşırı güç",
+          "uk_UA": "Суперсила",
+          "zh_CN": "君临天下",
+          "zh_TW": "太強大"
+        }
+      },
+      "description": {
+        "translate": "achievement.overpowered.desc",
+        "localized": {
+          "bg_BG": "Създайте ултразлатна ябълка",
+          "cs_CZ": "Vyrobte očarované zlaté jablko.",
+          "da_DK": "Skab et Notch-æble",
+          "de_DE": "Stelle einen Notch-Apfel her",
+          "el_GR": "Κατασκεύασε ένα μήλο Notch",
+          "en_GB": "Build a Notch apple",
+          "en_US": "Build a Notch apple",
+          "es_ES": "Fabrica una manzana de Notch",
+          "es_MX": "Fabrica una manzana de Notch",
+          "fi_FI": "Luo Notch-omena",
+          "fr_CA": "Fabriquer une pomme de Notch",
+          "fr_FR": "Fabriquer une pomme de Notch.",
+          "hu_HU": "Építs egy aranyalmát",
+          "id_ID": "Buat apel Takik",
+          "it_IT": "Crea una mela di Notch.",
+          "ja_JP": "金のリンゴを作成しよう。",
+          "ko_KR": "노치의 사과를 만드세요",
+          "nb_NO": "Lag et Notch-eple",
+          "nl_NL": "Maak een Notch Appel",
+          "pl_PL": "Stwórz jabłko Notcha",
+          "pt_BR": "Faça uma maçã de Notch.",
+          "pt_PT": "Cria uma Maçã Dourada",
+          "ru_RU": "Сделайте золотое яблоко.",
+          "sk_SK": "Postavte Notchovo jablko",
+          "sv_SE": "Bygg ett Notch-äpple",
+          "tr_TR": "Bir Notch elması yapın",
+          "uk_UA": "Створити яблучко Нотча",
+          "zh_CN": "制造一个附魔金苹果",
+          "zh_TW": "造一個附魔金蘋果"
+        }
+      },
+      "actual_requirements": null,
+      "gamerscore": 30,
+      "trophy_type": "Silver",
+      "rewards": "[[File:Diamond Bod.png|60px]]<br>\"Diamond Bod\" base",
+      "category": "feels_like_magic",
+      "category_display": "Feels like magic"
+    },
+    {
+      "id": "stayin_frosty",
+      "title": {
+        "localized": {
+          "en_US": "Stayin' Frosty"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Swim in lava while having the Fire Resistance effect."
+        }
+      },
+      "actual_requirements": null,
+      "gamerscore": 20,
+      "trophy_type": "Bronze",
+      "rewards": "[[File:Lil' Chilly.png|60px]]<br>\"Lil' Chilly\" outerwear",
+      "category": "feels_like_magic",
+      "category_display": "Feels like magic"
+    },
+    {
+      "id": "map_room",
+      "title": {
+        "localized": {
+          "en_US": "Map Room"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Place 9 fully explored, adjacent map items into 9 item frames in a 3 by 3 square."
+        }
+      },
+      "actual_requirements": "The frames have to be on a wall, not the floor.",
+      "gamerscore": 40,
+      "trophy_type": "Silver",
+      "rewards": "[[File:Compass Coat.png|60px]]<br>\"Compass Coat\" top",
+      "category": "feels_like_magic",
+      "category_display": "Feels like magic"
+    },
+    {
+      "id": "taste_of_your_own_medicine",
+      "title": {
+        "localized": {
+          "en_US": "Taste of Your Own Medicine"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Poison a witch with a splash potion."
+        }
+      },
+      "actual_requirements": "Throw a splash potion of poison at a witch (by facing the witch and pressing the key).",
+      "gamerscore": 20,
+      "trophy_type": "Silver",
+      "rewards": null,
+      "category": "feels_like_magic",
+      "category_display": "Feels like magic"
+    },
+    {
+      "id": "beam_me_up",
+      "title": {
+        "localized": {
+          "en_US": "Beam Me Up"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Teleport over 100 meters from a single throw of an Ender Pearl."
+        }
+      },
+      "actual_requirements": "Throw an ender pearl 100 blocks in any direction",
+      "gamerscore": 20,
+      "trophy_type": "Silver",
+      "rewards": "[[File:Abducted.png|60px]]<br>\"Abducted?\" emote",
+      "category": "feels_like_magic",
+      "category_display": "Feels like magic"
+    },
+    {
+      "id": "cheating_death",
+      "title": {
+        "localized": {
+          "en_US": "Cheating Death"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Use the Totem of Undying to cheat death"
+        }
+      },
+      "actual_requirements": "Have the totem of undying in your hand when you die.",
+      "gamerscore": 30,
+      "trophy_type": "Silver",
+      "rewards": "[[File:Fake Death.png|60px]]<br>\"Fake Death\" emote",
+      "category": "feels_like_magic",
+      "category_display": "Feels like magic"
+    },
+    {
+      "id": "let_it_go",
+      "title": {
+        "localized": {
+          "en_US": "Let It Go!"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Using the Frost Walker boots, walk on at least 1 block on frozen water on a deep ocean"
+        }
+      },
+      "actual_requirements": null,
+      "gamerscore": 20,
+      "trophy_type": "Bronze",
+      "rewards": null,
+      "category": "feels_like_magic",
+      "category_display": "Feels like magic"
+    },
+    {
+      "id": "dispense_with_this",
+      "title": {
+        "localized": {
+          "en_US": "Dispense With This"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Construct a Dispenser."
+        }
+      },
+      "actual_requirements": null,
+      "gamerscore": 20,
+      "trophy_type": "Bronze",
+      "rewards": "[[File:Dispenser Shirt.png|60px]]<br>\"Dispenser Shirt\" top",
+      "category": "redstone",
+      "category_display": "Redstone"
+    },
+    {
+      "id": "freight_station",
+      "title": {
+        "localized": {
+          "en_US": "Freight Station"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Use a Hopper to move an item from a Chest Minecart to a Chest."
+        }
+      },
+      "actual_requirements": "Use a Hopper to move an item from a Minecart with Chest or a Boat with Chest to a Chest.",
+      "gamerscore": 15,
+      "trophy_type": "Bronze",
+      "rewards": null,
+      "category": "redstone",
+      "category_display": "Redstone"
+    },
+    {
+      "id": "smelt_everything",
+      "title": {
+        "localized": {
+          "en_US": "Smelt Everything!"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Connect 3 Chests to a single Furnace using 3 Hoppers."
+        }
+      },
+      "actual_requirements": "Be within the range of three chests connected to a Furnace with 3 Hoppers., Note: The demonstration shown in the image would not give the achievement.",
+      "gamerscore": 15,
+      "trophy_type": "Bronze",
+      "rewards": "[[File:Blacksmith Apron.png|60px]]<br>\"Blacksmith Apron\" outerwear",
+      "category": "redstone",
+      "category_display": "Redstone"
+    },
+    {
+      "id": "inception",
+      "title": {
+        "localized": {
+          "en_US": "Inception"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Push a piston with a piston, then pull the original piston with that piston."
+        }
+      },
+      "actual_requirements": null,
+      "gamerscore": 20,
+      "trophy_type": "Silver",
+      "rewards": null,
+      "category": "redstone",
+      "category_display": "Redstone"
+    },
+    {
+      "id": "crafters_crafting_crafters",
+      "title": {
+        "localized": {
+          "en_US": "Crafters Crafting Crafters"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Be near a Crafter when it crafts a Crafter"
+        }
+      },
+      "actual_requirements": "Have a crafter craft a crafter then pick up the newly-crafted crafter.",
+      "gamerscore": 10,
+      "trophy_type": "Bronze",
+      "rewards": "[[File:Burping Buddies.png|60px]]<br>\"Burping Buddies\" headwear",
+      "category": "redstone",
+      "category_display": "Redstone"
+    },
+    {
+      "id": "dry_spell",
+      "title": {
+        "localized": {
+          "en_US": "Dry Spell"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Dry a sponge in a furnace"
+        }
+      },
+      "actual_requirements": null,
+      "gamerscore": 15,
+      "trophy_type": "Bronze",
+      "rewards": "[[File:Spongey.png|60px]]<br>\"Spongey\" base",
+      "category": "aquatic",
+      "category_display": "Aquatic"
+    },
+    {
+      "id": "free_diver",
+      "title": {
+        "localized": {
+          "en_US": "Free Diver"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Stay underwater for 2 minutes"
+        }
+      },
+      "actual_requirements": "Drink a potion of water breathing that can last for 2 minutes or more, then jump into water; or activate a conduit; or sneak on a magma block underwater for 2 minutes; or ride a nautilus/zombie nautilus underwater for 2 minutes.",
+      "gamerscore": 20,
+      "trophy_type": "Silver",
+      "rewards": "[[File:Underwater Dancing.png|60px]]<br>\"Underwater Dancing\" emote",
+      "category": "aquatic",
+      "category_display": "Aquatic"
+    },
+    {
+      "id": "atlantis",
+      "title": {
+        "localized": {
+          "en_US": "Atlantis?"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Find an underwater ruin"
+        }
+      },
+      "actual_requirements": null,
+      "gamerscore": 20,
+      "trophy_type": "Silver",
+      "rewards": null,
+      "category": "aquatic",
+      "category_display": "Aquatic"
+    },
+    {
+      "id": "sail_the_7_seas",
+      "title": {
+        "localized": {
+          "en_US": "Sail the 7 Seas"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Visit all ocean biomes"
+        }
+      },
+      "actual_requirements": "Visit all ocean biomes except the deep warm ocean/legacy frozen ocean (as they are unused).",
+      "gamerscore": 40,
+      "trophy_type": "Gold",
+      "rewards": "[[File:Nautical Tricorn.png|60px]]<br>\"Nautical Tricorn\" headwear",
+      "category": "aquatic",
+      "category_display": "Aquatic"
+    },
+    {
+      "id": "castaway",
+      "title": {
+        "localized": {
+          "en_US": "Castaway"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Eat nothing but dried kelp for three in-game days"
+        }
+      },
+      "actual_requirements": "Eat dried kelp once; in the following three in-game days, eat nothing but dried kelp.",
+      "gamerscore": 20,
+      "trophy_type": "Bronze",
+      "rewards": "[[File:Shredded Shirt.png|60px]]<br>\"Shredded Shirt\" top",
+      "category": "aquatic",
+      "category_display": "Aquatic"
+    },
+    {
+      "id": "ahoy",
+      "title": {
+        "localized": {
+          "en_US": "Ahoy!"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Find a shipwreck"
+        }
+      },
+      "actual_requirements": null,
+      "gamerscore": 20,
+      "trophy_type": "Silver",
+      "rewards": "[[File:Spyglass (Face Item).png|60px]]<br>\"Spyglass\" face item",
+      "category": "aquatic",
+      "category_display": "Aquatic"
+    },
+    {
+      "id": "i_am_a_marine_biologist",
+      "title": {
+        "localized": {
+          "en_US": "I am a Marine Biologist"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Collect a fish in a bucket"
+        }
+      },
+      "actual_requirements": "Use a water bucket on any fish mob.",
+      "gamerscore": 20,
+      "trophy_type": "Bronze",
+      "rewards": "[[File:Sailor's Hat.png|60px]]<br>\"Sailor's Hat\" headwear",
+      "category": "aquatic",
+      "category_display": "Aquatic"
+    },
+    {
+      "id": "one_pickle_two_pickle_sea_pickle_four",
+      "title": {
+        "localized": {
+          "en_US": "One Pickle, Two Pickle, Sea Pickle, Four"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Place four Sea Pickles in a group"
+        }
+      },
+      "actual_requirements": null,
+      "gamerscore": 20,
+      "trophy_type": "Bronze",
+      "rewards": "[[File:Pickled Feet.png|60px]]<br>\"Pickled Feet\" footwear",
+      "category": "aquatic",
+      "category_display": "Aquatic"
+    },
+    {
+      "id": "echolocation",
+      "title": {
+        "localized": {
+          "en_US": "Echolocation"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Feed a dolphin fish to have it lead you to treasure"
+        }
+      },
+      "actual_requirements": "Feed a dolphin cod or salmon and have it lure you to treasure.",
+      "gamerscore": 20,
+      "trophy_type": "Silver",
+      "rewards": "[[File:Sine Wave Tee.png|60px]]<br>\"Sine Wave Tee\" top",
+      "category": "aquatic",
+      "category_display": "Aquatic"
+    },
+    {
+      "id": "me_gold",
+      "title": {
+        "localized": {
+          "en_US": "Me Gold!"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Dig up a buried treasure"
+        }
+      },
+      "actual_requirements": "Open a buried treasure chest.",
+      "gamerscore": 30,
+      "trophy_type": "Silver",
+      "rewards": "[[File:Treasure Map Shirt.png|60px]]<br>\"Treasure Map Shirt\" top",
+      "category": "aquatic",
+      "category_display": "Aquatic"
+    },
+    {
+      "id": "sleep_with_the_fishes",
+      "title": {
+        "localized": {
+          "en_US": "Sleep with the Fishes"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Spend a day underwater."
+        }
+      },
+      "actual_requirements": "Spend 20 minutes underwater without any air. Can be done with a conduit, water breathing potions, bubble columns, nautiluses, or zombie nautiluses.",
+      "gamerscore": 30,
+      "trophy_type": "Silver",
+      "rewards": "[[File:Octo Beard.png|60px]]<br>\"Octo Beard\" facial hair",
+      "category": "aquatic",
+      "category_display": "Aquatic"
+    },
+    {
+      "id": "alternative_fuel",
+      "title": {
+        "translate": "achievement.alternativeFuel",
+        "localized": {
+          "bg_BG": "Алтернативно гориво",
+          "cs_CZ": "Alternativní palivo",
+          "da_DK": "Alternativt brændsel",
+          "de_DE": "Alternativer Brennstoff",
+          "el_GR": "Εναλλακτικό καύσιμο",
+          "en_GB": "Alternative Fuel",
+          "en_US": "Alternative Fuel",
+          "es_ES": "Combustible alternativo",
+          "es_MX": "Combustible alternativo",
+          "fi_FI": "Vaihtoehtoista polttoainetta",
+          "fr_CA": "Combustible alternatif",
+          "fr_FR": "Combustible alternatif",
+          "hu_HU": "Alternatív üzemanyag",
+          "id_ID": "Bahan Bakar Alternatif",
+          "it_IT": "Combustibile alternativo",
+          "ja_JP": "代替燃料",
+          "ko_KR": "대체 연료",
+          "nb_NO": "Alternativ brensel",
+          "nl_NL": "Alternatieve brandstof",
+          "pl_PL": "Paliwo alternatywne",
+          "pt_BR": "Combustível Alternativo",
+          "pt_PT": "Combustível Alternativo",
+          "ru_RU": "Альтернативное топливо",
+          "sk_SK": "Alternatívne palivo",
+          "sv_SE": "Alternativt bränsle",
+          "tr_TR": "Alternatif Yakıt",
+          "uk_UA": "Альтернативне паливо",
+          "zh_CN": "替代性燃料",
+          "zh_TW": "替代燃料"
+        }
+      },
+      "description": {
+        "translate": "achievement.alternativeFuel.desc",
+        "localized": {
+          "bg_BG": "Захранете пещ с блок от келп",
+          "cs_CZ": "Zatopte v peci chaluhovým blokem.",
+          "da_DK": "Fyr op i en ovn med en blok af tang",
+          "de_DE": "Befeuere einen Ofen mit einem Seetangblock.",
+          "el_GR": "Τροφοδότησε ένα καμίνι με κύβο φυκιού",
+          "en_GB": "Power a furnace with a kelp block",
+          "en_US": "Power a furnace with a kelp block",
+          "es_ES": "Enciende un horno con un bloque de algas marinas",
+          "es_MX": "Prende un horno con un bloque de algas",
+          "fi_FI": "Käytä masuunia merileväkuutiolla",
+          "fr_CA": "Alimenter un fourneau avec un bloc de varech",
+          "fr_FR": "Alimenter un fourneau avec un bloc d’algue",
+          "hu_HU": "Táplálj egy kemencét hínár blokkal",
+          "id_ID": "Nyalakan tungku menggunakan blok rumput laut",
+          "it_IT": "Alimenta una fornace con un blocco di alghe",
+          "ja_JP": "かまどの燃料に昆布ブロックを使う。",
+          "ko_KR": "켈프 블록으로 화로에 불을 때세요.",
+          "nb_NO": "Bruk en tareblokk som brensel i en smelteovn",
+          "nl_NL": "Laat een oven branden met een blok kelp",
+          "pl_PL": "Zasil piec blokiem krasnorostów",
+          "pt_BR": "Alimente uma fornalha com um bloco de algas",
+          "pt_PT": "Potencia uma fornalha com um bloco de algas",
+          "ru_RU": "Поддайте жару в печке с блока водорослей",
+          "sk_SK": "Dodajte peci zdroj energie pomocou bloku morskej riasy.",
+          "sv_SE": "Driv en smältugn med ett kelpblock",
+          "tr_TR": "Bir varek bloku ile ocağı çalıştırın",
+          "uk_UA": "Розпаліть піч блоком водоростей",
+          "zh_CN": "用一个海带方块给熔炉供能",
+          "zh_TW": "使用海帶方塊引燃熔爐"
+        }
+      },
+      "actual_requirements": "This achievement is awarded only if the dried kelp block is put into the furnace's fuel slot manually, not via redstone components such as hoppers.",
+      "gamerscore": 20,
+      "trophy_type": "Bronze",
+      "rewards": "[[File:Power Core.png|60px]]<br>\"Power Core\" outerwear",
+      "category": "aquatic",
+      "category_display": "Aquatic"
+    },
+    {
+      "id": "do_a_barrel_roll",
+      "title": {
+        "localized": {
+          "en_US": "Do a Barrel Roll!"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Use Riptide to give yourself a boost"
+        }
+      },
+      "actual_requirements": "Obtain a trident enchanted with Riptide and launch yourself any distance with it.",
+      "gamerscore": 30,
+      "trophy_type": "Silver",
+      "rewards": null,
+      "category": "aquatic",
+      "category_display": "Aquatic"
+    },
+    {
+      "id": "the_deep_end",
+      "title": {
+        "localized": {
+          "en_US": "The Deep End"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Defeat an Elder Guardian"
+        }
+      },
+      "actual_requirements": null,
+      "gamerscore": 30,
+      "trophy_type": "Silver",
+      "rewards": null,
+      "category": "aquatic",
+      "category_display": "Aquatic"
+    },
+    {
+      "id": "moskstraumen",
+      "title": {
+        "localized": {
+          "en_US": "Moskstraumen"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Activate a Conduit"
+        }
+      },
+      "actual_requirements": "Place a conduit in a valid prismarine/sea lantern structure to activate it.",
+      "gamerscore": 50,
+      "trophy_type": "Gold",
+      "rewards": "[[File:Glub Glub.png|60px]]<br>\"Glub Glub\" headwear",
+      "category": "aquatic",
+      "category_display": "Aquatic"
+    },
+    {
+      "id": "lion_hunter",
+      "title": {
+        "localized": {
+          "en_US": "Lion Hunter"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Gain the trust of an Ocelot."
+        }
+      },
+      "actual_requirements": "Tame an ocelot.",
+      "gamerscore": 15,
+      "trophy_type": "Bronze",
+      "rewards": "[[File:Ocelot Print Pants.png|60px]]<br>\"Ocelot Print Pants\" bottom",
+      "category": "zoology",
+      "category_display": "Zoology"
+    },
+    {
+      "id": "so_i_got_that_going_for_me",
+      "title": {
+        "localized": {
+          "en_US": "So I Got That Going for Me"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Lead a Caravan containing at least 5 Llamas"
+        }
+      },
+      "actual_requirements": null,
+      "gamerscore": 20,
+      "trophy_type": "Bronze",
+      "rewards": "[[File:Llama Poncho.png|60px]]<br>\"Llama Poncho\" outerwear",
+      "category": "zoology",
+      "category_display": "Zoology"
+    },
+    {
+      "id": "zoologist",
+      "title": {
+        "localized": {
+          "en_US": "Zoologist"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Breed two pandas with bamboo."
+        }
+      },
+      "actual_requirements": null,
+      "gamerscore": 40,
+      "trophy_type": "Gold",
+      "rewards": "[[File:Panda Sweater.png|60px]]<br>\"Panda Sweater\" top",
+      "category": "zoology",
+      "category_display": "Zoology"
+    },
+    {
+      "id": "birthday_song",
+      "title": {
+        "localized": {
+          "en_US": "Birthday Song"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Have an Allay drop a cake at a noteblock"
+        }
+      },
+      "actual_requirements": "Tame an allay by giving it a cake while having dropped cake items and play a note block nearby.",
+      "gamerscore": 10,
+      "trophy_type": "Bronze",
+      "rewards": null,
+      "category": "zoology",
+      "category_display": "Zoology"
+    },
+    {
+      "id": "with_our_powers_combined",
+      "title": {
+        "localized": {
+          "en_US": "With Our Powers Combined!"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Have all 3 froglights in your inventory"
+        }
+      },
+      "actual_requirements": "Acquire one of each froglight in your inventory at the same time.",
+      "gamerscore": 30,
+      "trophy_type": "Gold",
+      "rewards": null,
+      "category": "zoology",
+      "category_display": "Zoology"
+    },
+    {
+      "id": "planting_the_past",
+      "title": {
+        "localized": {
+          "en_US": "Planting the past"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Plant any Sniffer seed"
+        }
+      },
+      "actual_requirements": "Plant torchflower seeds or a pitcher pod.",
+      "gamerscore": 10,
+      "trophy_type": "Bronze",
+      "rewards": "[[File:Sniffer Sniffin'.png|60px]]<br>\"Sniffer Sniffin'\" emote",
+      "category": "zoology",
+      "category_display": "Zoology"
+    },
+    {
+      "id": "iron_man",
+      "title": {
+        "localized": {
+          "en_US": "Iron Man"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Wear a full suit of Iron Armor."
+        }
+      },
+      "actual_requirements": null,
+      "gamerscore": 15,
+      "trophy_type": "Bronze",
+      "rewards": null,
+      "category": "gear_up",
+      "category_display": "Gear up"
+    },
+    {
+      "id": "smithing_with_style",
+      "title": {
+        "localized": {
+          "en_US": "Smithing with style"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Apply these smithing templates at least once: Spire, Snout, Rib, Ward, Silence, Vex, Tide, Wayfinder"
+        }
+      },
+      "actual_requirements": "Each of these smithing templates must be used.",
+      "gamerscore": 30,
+      "trophy_type": "Gold",
+      "rewards": "[[File:Blacksmith Gauntlets.png|60px]]<br>\"Blacksmith Gauntlets\" gloves",
+      "category": "gear_up",
+      "category_display": "Gear up"
+    },
+    {
+      "id": "camouflage",
+      "title": {
+        "localized": {
+          "en_US": "Camouflage"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Kill a mob while wearing the same type of mob head."
+        }
+      },
+      "actual_requirements": null,
+      "gamerscore": 30,
+      "trophy_type": "Bronze",
+      "rewards": "[[File:Creeper Costume.png|60px]]<br>\"Creeper Costume\" outerwear",
+      "category": "gear_up",
+      "category_display": "Gear up"
+    },
+    {
+      "id": "cover_me_in_debris",
+      "title": {
+        "localized": {
+          "en_US": "Cover me in debris"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Wear a full set of Netherite armor"
+        }
+      },
+      "actual_requirements": "Have a full set of Netherite armor in your inventory.",
+      "gamerscore": 50,
+      "trophy_type": "Gold",
+      "rewards": null,
+      "category": "gear_up",
+      "category_display": "Gear up"
+    },
+    {
+      "id": "archer",
+      "title": {
+        "localized": {
+          "en_US": "Archer"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Kill a creeper with arrows."
+        }
+      },
+      "actual_requirements": null,
+      "gamerscore": 10,
+      "trophy_type": "Bronze",
+      "rewards": "[[File:Archers Quiver.png|60px]]<br>\"Archers Quiver\" back item",
+      "category": "combat",
+      "category_display": "Combat"
+    },
+    {
+      "id": "bullseye",
+      "title": {
+        "localized": {
+          "en_US": "Bullseye"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Hit the bullseye of a Target block"
+        }
+      },
+      "actual_requirements": null,
+      "gamerscore": 15,
+      "trophy_type": "Bronze",
+      "rewards": "[[File:Bullseye Top.png|60px]]<br>\"Bullseye Top\" top",
+      "category": "combat",
+      "category_display": "Combat"
+    },
+    {
+      "id": "sniper_duel",
+      "title": {
+        "translate": "achievement.snipeSkeleton",
+        "localized": {
+          "bg_BG": "Горещо пладне",
+          "cs_CZ": "Duel odstřelovačů",
+          "da_DK": "Snigskytteduel",
+          "de_DE": "Scharfschützenduell",
+          "el_GR": "Μονομαχία ελεύθερων σκοπευτών",
+          "en_GB": "Sniper Duel",
+          "en_US": "Sniper Duel",
+          "es_ES": "Francocazadores",
+          "es_MX": "Francocazadores",
+          "fi_FI": "Tarkka-ammuntaa",
+          "fr_CA": "Duel de tireurs d'élite",
+          "fr_FR": "Duel de snipers",
+          "hu_HU": "Lövészpárbaj",
+          "id_ID": "Duel Sniper",
+          "it_IT": "Duello tra cecchini",
+          "ja_JP": "スナイパー対決",
+          "ko_KR": "저격 대결",
+          "nb_NO": "Snikskytterduell",
+          "nl_NL": "Sluipschuttersduel",
+          "pl_PL": "Pojedynek snajperów",
+          "pt_BR": "Duelo de Atiradores",
+          "pt_PT": "Duelo de Atiradores",
+          "ru_RU": "Снайперская дуэль",
+          "sk_SK": "Duel ostreľovačov",
+          "sv_SE": "Långbåge",
+          "tr_TR": "Keskin Nişancı Düellosu",
+          "uk_UA": "Снайперська дуель",
+          "zh_CN": "狙击手的对决",
+          "zh_TW": "狙擊手對決"
+        }
+      },
+      "description": {
+        "translate": "achievement.snipeSkeleton.desc",
+        "localized": {
+          "bg_BG": "Убийте скелет със стрела на разстояние от над 50 метра",
+          "cs_CZ": "Zabijte kostlivce šípem ze vzdálenosti větší než 50 metrů.",
+          "da_DK": "Dræb et skelet med en pil på mere end 50 meters afstand",
+          "de_DE": "Töte ein Skelett mit einem Pfeil aus über 50 Meter Entfernung",
+          "el_GR": "Σκότωσε ένα σκελετό με βέλος από απόσταση μεγαλύτερη από 50 μέτρα",
+          "en_GB": "Kill a skeleton with an arrow from more than 50 metres",
+          "en_US": "Kill a skeleton with an arrow from more than 50 meters",
+          "es_ES": "Mata a un esqueleto con una flecha desde más de 50 metros",
+          "es_MX": "Mata a un esqueleto con una flecha desde más de 50 metros",
+          "fi_FI": "Tapa luuranko nuolella yli 50 metrin päästä",
+          "fr_CA": "Tuer un squelette d'une flèche à plus de 50 mètres.",
+          "fr_FR": "Tuer un squelette d'une flèche à plus de 50 mètres.",
+          "hu_HU": "Ölj meg egy csontvázat nyílvesszővel legalább 50 méterről",
+          "id_ID": "Bunuh tengkorak dengan panah dari 50 meter lebih",
+          "it_IT": "Uccidi uno scheletro con una freccia da una distanza superiore a 50 metri.",
+          "ja_JP": "50 m 離れたところから矢を放ってスケルトンを倒そう。",
+          "ko_KR": "50m 이상 거리에서 화살 한 발로 스켈레톤 하나를 처치하십시오",
+          "nb_NO": "Drep et skjelett med en pil fra mer enn 50 meter",
+          "nl_NL": "Dood een skelet op een afstand van meer dan 50 meter met een pijl",
+          "pl_PL": "Zabij szkielet strzałą z dystansu ponad 50 metrów",
+          "pt_BR": "Mate um esqueleto com uma flecha a uma distância maior que 50 metros",
+          "pt_PT": "Mata um Esqueleto com uma flecha disparada a mais de 50 metros",
+          "ru_RU": "Убейте скелета стрелой с расстояния более 50 метров.",
+          "sk_SK": "Zabite kostlivca šípom z viac než 50 metrov",
+          "sv_SE": "Döda ett skelett med en pil från mer än 50 meters avstånd",
+          "tr_TR": "50 metreden uzak mesafeden okla bir iskelet öldürün",
+          "uk_UA": "Вбити скелета стрілою з відстані понад 50 метрів",
+          "zh_CN": "从超过 50 米远的地方用箭杀死一个骷髅。",
+          "zh_TW": "使用弓箭射殺距離 50 公尺外的骷髏"
+        }
+      },
+      "actual_requirements": "Use a launched arrow to kill a skeleton, wither skeleton, stray, bogged, or parched from 50 or more blocks away, horizontally.",
+      "gamerscore": 30,
+      "trophy_type": "Bronze",
+      "rewards": null,
+      "category": "combat",
+      "category_display": "Combat"
+    },
+    {
+      "id": "overkill",
+      "title": {
+        "translate": "achievement.overkill",
+        "localized": {
+          "bg_BG": "Да убиеш кокошка с танк",
+          "cs_CZ": "To bude bolet",
+          "da_DK": "Udsletteren",
+          "de_DE": "Meister des Kampfes",
+          "el_GR": "Το παράκανες",
+          "en_GB": "Overkill",
+          "en_US": "Overkill",
+          "es_ES": "Desenfrenado",
+          "es_MX": "Desenfrenado",
+          "fi_FI": "Ylilyönti",
+          "fr_CA": "Massacre",
+          "fr_FR": "Massacre",
+          "hu_HU": "Halálos túlzás",
+          "id_ID": "Pembasmian",
+          "it_IT": "Massacro",
+          "ja_JP": "オーバーキル",
+          "ko_KR": "오버킬",
+          "nb_NO": "Hardhendt",
+          "nl_NL": "Overkill",
+          "pl_PL": "Niszczyciel",
+          "pt_BR": "Matança",
+          "pt_PT": "Massacre",
+          "ru_RU": "Смертельный удар",
+          "sk_SK": "Smrtiaci úder",
+          "sv_SE": "Övervåld",
+          "tr_TR": "Vur dedik öldürdün",
+          "uk_UA": "Суперубивство",
+          "zh_CN": "赶尽杀绝",
+          "zh_TW": "太殺了"
+        }
+      },
+      "description": {
+        "translate": "achievement.overkill.desc",
+        "localized": {
+          "bg_BG": "Нанесете девет сърца щети с един удар",
+          "cs_CZ": "Způsobte poškození 9 srdíček jediným zásahem.",
+          "da_DK": "Gør ni hjerters skade med et enkelt slag",
+          "de_DE": "Verursache neun Herzen Schaden mit einem einzigen Treffer",
+          "el_GR": "Προκάλεσε ζημιά εννέα καρδιών με ένα μόνο χτύπημα",
+          "en_GB": "Deal nine hearts of damage in a single hit",
+          "en_US": "Deal nine hearts of damage in a single hit",
+          "es_ES": "Inflige nueve corazones de daño de un solo golpe",
+          "es_MX": "Inflige nueve corazones de daño de un solo golpe",
+          "fi_FI": "Aiheuta yhdeksän sydämen verran vauriota yhdellä iskulla",
+          "fr_CA": "Infliger neuf cœurs de dégâts en un seul coup",
+          "fr_FR": "Infligez neuf cœurs de dégâts en un seul coup",
+          "hu_HU": "Okozz kilenc szívnyi sebzést egyetlen ütéssel",
+          "id_ID": "Berikan kerusakan sebanyak sembilan hati dalam satu pukulan",
+          "it_IT": "Infliggi nove cuori di danno in un singolo colpo",
+          "ja_JP": "一叩きで 9 つのハートにダメージを与えよう。",
+          "ko_KR": "한 번에 하트 9개의 피해를 입히세요",
+          "nb_NO": "Påfør ni skadehjerter med ett enkelt treff",
+          "nl_NL": "Richt in één klap negen hartjes schade aan",
+          "pl_PL": "Zadaj dziewięć serduszek obrażeń jednym uderzeniem",
+          "pt_BR": "Cause nove corações de dano em um único ataque",
+          "pt_PT": "Causa oito corações de dano com um único ataque",
+          "ru_RU": "Нанесите урон в размере девяти сердец одним ударом.",
+          "sk_SK": "Spôsobte jediným úderom poškodenie na úrovni deviatich sŕdc",
+          "sv_SE": "Åsamka nio hjärtans skada med en enda träff",
+          "tr_TR": "Tek bir vuruşta dokuz kalbe hasar verin",
+          "uk_UA": "За один удар завдати пошкодження на дев’ять сердечок",
+          "zh_CN": "制造一击 9 颗心的伤害",
+          "zh_TW": "一擊製造九顆愛心的傷害"
+        }
+      },
+      "actual_requirements": "Damage can be dealt to any mob, even those that do not have nine hearts of health overall.",
+      "gamerscore": 30,
+      "trophy_type": "Bronze",
+      "rewards": "[[File:Victor's Wide Hat.png|60px]]<br>\"Victor's Wide Hat\" headwear",
+      "category": "combat",
+      "category_display": "Combat"
+    },
+    {
+      "id": "feeling_ill",
+      "title": {
+        "localized": {
+          "en_US": "Feeling Ill"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Defeat an Evoker"
+        }
+      },
+      "actual_requirements": null,
+      "gamerscore": 30,
+      "trophy_type": "Silver",
+      "rewards": "[[File:Vex Wings.png|60px]]<br>\"Vex Wings\" back item",
+      "category": "combat",
+      "category_display": "Combat"
+    },
+    {
+      "id": "the_healing_power_of_friendship",
+      "title": {
+        "localized": {
+          "en_US": "The Healing Power of Friendship!"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Team up with an axolotl and win a fight"
+        }
+      },
+      "actual_requirements": "Be near an axolotl when killing a hostile aquatic mob while the axolotl is fighting it (not playing dead).",
+      "gamerscore": 30,
+      "trophy_type": "Silver",
+      "rewards": "[[File:Friendship Bracelet.png|60px]]<br>\"Friendship Bracelet\" glove",
+      "category": "combat",
+      "category_display": "Combat"
+    },
+    {
+      "id": "it_spreads",
+      "title": {
+        "localized": {
+          "en_US": "It Spreads"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Kill a mob next to a catalyst"
+        }
+      },
+      "actual_requirements": "Kill any mob that drops experience near a sculk catalyst, with the sole exception of the ender dragon. are ignored for this achievement.",
+      "gamerscore": 10,
+      "trophy_type": "Bronze",
+      "rewards": null,
+      "category": "combat",
+      "category_display": "Combat"
+    },
+    {
+      "id": "sneak_100",
+      "title": {
+        "localized": {
+          "en_US": "Sneak 100"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Sneak next to a Sculk Sensor without triggering it"
+        }
+      },
+      "actual_requirements": "next to a Sculk Sensor or Warden without triggering or aggravating it.",
+      "gamerscore": 10,
+      "trophy_type": "Bronze",
+      "rewards": "[[File:Sneaking (Emote).png|60px]]<br>\"Sneaking\" emote",
+      "category": "combat",
+      "category_display": "Combat"
+    },
+    {
+      "id": "revaulting",
+      "title": {
+        "localized": {
+          "en_US": "Revaulting"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Unlock an Ominous Vault with an Ominous Trial Key"
+        }
+      },
+      "actual_requirements": null,
+      "gamerscore": 20,
+      "trophy_type": "Silver",
+      "rewards": "[[File:Vaulted Tee.png|60px]]<br>\"Vaulted Tee\" top",
+      "category": "combat",
+      "category_display": "Combat"
+    },
+    {
+      "id": "who_needs_rockets",
+      "title": {
+        "localized": {
+          "en_US": "Who Needs Rockets?"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Use a Wind Charge to launch yourself upward 8 blocks"
+        }
+      },
+      "actual_requirements": null,
+      "gamerscore": 10,
+      "trophy_type": "Bronze",
+      "rewards": "[[File:Wind Wisps.png|60px]]<br>\"Wind Wisps\" outerwear",
+      "category": "combat",
+      "category_display": "Combat"
+    },
+    {
+      "id": "over_overkill",
+      "title": {
+        "localized": {
+          "en_US": "Over-Overkill"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Deal 50 hearts of damage in a single hit using the Mace"
+        }
+      },
+      "actual_requirements": "Damage can be dealt to any mob, even those that do not have 50 hearts of health overall.",
+      "gamerscore": 20,
+      "trophy_type": "Silver",
+      "rewards": "[[File:Charged Gauntlet.png|60px]]<br>\"Charged Gauntlet\" gloves",
+      "category": "combat",
+      "category_display": "Combat"
+    },
+    {
+      "id": "heart_transplanter",
+      "title": {
+        "localized": {
+          "en_US": "Heart Transplanter"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Place a Creaking Heart with the correct alignment between two Pale Oak Log blocks"
+        }
+      },
+      "actual_requirements": null,
+      "gamerscore": 20,
+      "trophy_type": "Silver",
+      "rewards": "[[File:Creaking Heart Shirt.png|60px]]<br>\"Creaking Heart Shirt\" top",
+      "category": "combat",
+      "category_display": "Combat"
+    },
+    {
+      "id": "into_the_nether",
+      "title": {
+        "localized": {
+          "en_US": "Into The Nether"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Construct a Nether Portal."
+        }
+      },
+      "actual_requirements": "Light a nether portal.",
+      "gamerscore": 30,
+      "trophy_type": "Bronze",
+      "rewards": "[[File:Feel the Nether.png|60px]]<br>\"Feel the Nether\" base",
+      "category": "nether",
+      "category_display": "Nether"
+    },
+    {
+      "id": "return_to_sender",
+      "title": {
+        "translate": "achievement.ghast",
+        "localized": {
+          "bg_BG": "Каквото повикало…",
+          "cs_CZ": "Vráceno odesílateli",
+          "da_DK": "Retur til afsender",
+          "de_DE": "Zurück zum Absender",
+          "el_GR": "Επιστροφή στον αποστολέα",
+          "en_GB": "Return to Sender",
+          "en_US": "Return to Sender",
+          "es_ES": "Su propia medicina",
+          "es_MX": "Su propia medicina",
+          "fi_FI": "Pikapalautus",
+          "fr_CA": "Retour à l'envoyeur",
+          "fr_FR": "Retour à l'envoyeur",
+          "hu_HU": "Vissza a feladónak",
+          "id_ID": "Kembalikan ke Pengirim",
+          "it_IT": "Rispedita al mittente",
+          "ja_JP": "差出人に返送",
+          "ko_KR": "되받아치기",
+          "nb_NO": "Returner til avsender",
+          "nl_NL": "Retour afzender",
+          "pl_PL": "Zwrot do nadawcy",
+          "pt_BR": "Recepção Calorosa",
+          "pt_PT": "Contra-Ataque",
+          "ru_RU": "Вернуть отправителю",
+          "sk_SK": "Vrátené odosielateľovi",
+          "sv_SE": "Åter till avsändaren",
+          "tr_TR": "Gönderene İade",
+          "uk_UA": "Зворотна доставка",
+          "zh_CN": "还治彼身",
+          "zh_TW": "以牙還牙"
+        }
+      },
+      "description": {
+        "translate": "achievement.ghast.desc",
+        "localized": {
+          "bg_BG": "Унищожете огнен призрак с огнено кълбо",
+          "cs_CZ": "Zničte ďasa ohnivou koulí.",
+          "da_DK": "Tilintetgør en ghast med en ildkugle",
+          "de_DE": "Zerstöre einen Ghast mit einem Feuerball",
+          "el_GR": "Κατάστρεψε ένα Ghast με μια πύρινη μπάλα",
+          "en_GB": "Destroy a Ghast with a fireball",
+          "en_US": "Destroy a Ghast with a fireball",
+          "es_ES": "Mata un Ghast devolviéndole una bola de fuego.",
+          "es_MX": "Mata un Ghast devolviéndole una bola de fuego",
+          "fi_FI": "Tuhoa hornanhenki tulipallolla",
+          "fr_CA": "Détruire un Ghast avec une boule de feu",
+          "fr_FR": "Détruire un ghast avec une boule de feu.",
+          "hu_HU": "Ölj meg egy Ghastot tűzgolyóval",
+          "id_ID": "Hancurkan Ghast dengan bola api",
+          "it_IT": "Distruggi un Ghast con una palla di fuoco",
+          "ja_JP": "火の玉をガストに打ち返す",
+          "ko_KR": "화염구로 가스트를 파괴하십시오",
+          "nb_NO": "Ta knekken på en geist med en ildkule",
+          "nl_NL": "Vernietig een Ghast met een vuurbal.",
+          "pl_PL": "Zabij ghasta kulą ognia",
+          "pt_BR": "Destrua um Ghast com uma bola de fogo.",
+          "pt_PT": "Destrói um Ghast com uma bola de fogo",
+          "ru_RU": "Уничтожьте гаста шаром огня.",
+          "sk_SK": "Zničte ghasta ohnivou guľou",
+          "sv_SE": "Besegra en ghast med ett eldklot",
+          "tr_TR": "Bir Ghast'ı ateş topuyla yok edin",
+          "uk_UA": "Знищити ґаста фаєрболом",
+          "zh_CN": "使用火球摧毁一个恶魂",
+          "zh_TW": "以火球將地獄幽靈摧毀"
+        }
+      },
+      "actual_requirements": "Kill a ghast using a ghast fireball.",
+      "gamerscore": 30,
+      "trophy_type": "Silver",
+      "rewards": null,
+      "category": "nether",
+      "category_display": "Nether"
+    },
+    {
+      "id": "feels_like_home",
+      "title": {
+        "localized": {
+          "en_US": "Feels Like Home"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Take a Strider for a loooong ride on a lava lake in the Overworld."
+        }
+      },
+      "actual_requirements": "In the Overworld, use a strider to ride on a lava lake for a distance of 50 blocks from the point where the ride starts.",
+      "gamerscore": 20,
+      "trophy_type": "Silver",
+      "rewards": "[[File:Strider Buddies.png|60px]]<br>\"Strider Buddies\" headwear",
+      "category": "nether",
+      "category_display": "Nether"
+    },
+    {
+      "id": "into_fire",
+      "title": {
+        "translate": "achievement.blaze_rod",
+        "localized": {
+          "bg_BG": "Вземи огин…",
+          "cs_CZ": "Spalující vášeň",
+          "da_DK": "Ind i ilden",
+          "de_DE": "Spiel mit dem Feuer",
+          "el_GR": "Στην πυρά",
+          "en_GB": "Into Fire",
+          "en_US": "Into Fire",
+          "es_ES": "El fuego eterno",
+          "es_MX": "El fuego eterno",
+          "fi_FI": "Läpi tulen",
+          "fr_CA": "Dans le feu de l'action",
+          "fr_FR": "Dans le feu de l'action",
+          "hu_HU": "Bele a tűzbe",
+          "id_ID": "Ke dalam Api",
+          "it_IT": "Nel fuoco",
+          "ja_JP": "炎の中へ",
+          "ko_KR": "포화 속으로",
+          "nb_NO": "Inn i flammene",
+          "nl_NL": "Door het vuur",
+          "pl_PL": "Prosto w ogień",
+          "pt_BR": "Mão no Fogo",
+          "pt_PT": "Em Chamas",
+          "ru_RU": "Пламенный привет",
+          "sk_SK": "Skúška ohňom",
+          "sv_SE": "In i elden",
+          "tr_TR": "Alevlerin İçine",
+          "uk_UA": "Крізь вогонь і полум’я",
+          "zh_CN": "与火共舞",
+          "zh_TW": "與火共舞"
+        }
+      },
+      "description": {
+        "translate": "achievement.blaze_rod.desc",
+        "localized": {
+          "bg_BG": "Лишете пламъка от пръчката му",
+          "cs_CZ": "Získejte z ohnivce ohnivý prut",
+          "da_DK": "Snup en stav fra en blaze",
+          "de_DE": "Erleichtere eine Lohe um ihre Rute",
+          "el_GR": "Απάλλαξε μια Φλόγα από το ραβδί της",
+          "en_GB": "Relieve a Blaze of its rod",
+          "en_US": "Relieve a Blaze of its rod",
+          "es_ES": "Libera una llama de su barra.",
+          "es_MX": "Libera una llama de su barra.",
+          "fi_FI": "Ota lieskalta sen tanko",
+          "fr_CA": "Prendre son bâton à une Blaze",
+          "fr_FR": "Prendre son bâton à un blaze.",
+          "hu_HU": "Szabadíts meg egy őrlángot a lángrúdjától",
+          "id_ID": "Padamkan Kobaran Api batangnya",
+          "it_IT": "Ottieni una verga da un Blaze",
+          "ja_JP": "ブレイズロッドを手に入れる",
+          "ko_KR": "블레이즈가 막대를 떨어뜨리게 하십시오",
+          "nb_NO": "Ta staven fra en flammeskrømt",
+          "nl_NL": "Verlos een Blaze van zijn staf",
+          "pl_PL": "Odbierz płomykowi różdżkę",
+          "pt_BR": "Libere uma chama de sua vareta",
+          "pt_PT": "Tira a varinha a um Blaze",
+          "ru_RU": "Лишите ифрита стержня.",
+          "sk_SK": "Ukoristite žiarivcovi tyč",
+          "sv_SE": "Separera en brännare från dess stav",
+          "tr_TR": "Çubuğundan bir Blaze çıkarın",
+          "uk_UA": "Забрати прут в іфрита",
+          "zh_CN": "夺取烈焰人的棒子",
+          "zh_TW": "從烈焰使者手中獲得烈焰棒"
+        }
+      },
+      "actual_requirements": "Pick up a blaze rod from the ground.",
+      "gamerscore": 20,
+      "trophy_type": "Bronze",
+      "rewards": null,
+      "category": "nether",
+      "category_display": "Nether"
+    },
+    {
+      "id": "oooh_shiny",
+      "title": {
+        "localized": {
+          "en_US": "Oooh, shiny!"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Distract a Piglin using gold"
+        }
+      },
+      "actual_requirements": "Give a piglin a gold item while it is aggressive toward the player.",
+      "gamerscore": 30,
+      "trophy_type": "Silver",
+      "rewards": "[[File:Golden Watch.png|60px]]<br>\"Golden Watch\" glove",
+      "category": "nether",
+      "category_display": "Nether"
+    },
+    {
+      "id": "hot_tourist_destination",
+      "title": {
+        "localized": {
+          "en_US": "Hot tourist destination"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Visit all Nether biomes"
+        }
+      },
+      "actual_requirements": "Note: Can be completed if the player visits the biomes in different worlds.",
+      "gamerscore": 30,
+      "trophy_type": "Silver",
+      "rewards": "[[File:I'm on FIRE.png|60px]]<br>\"I'm on FIRE!?\" outerwear",
+      "category": "nether",
+      "category_display": "Nether"
+    },
+    {
+      "id": "the_beaconator",
+      "title": {
+        "localized": {
+          "en_US": "The Beaconator"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Create and fully power a Beacon"
+        }
+      },
+      "actual_requirements": "Be within a 20×20×14 cuboid centered on the pyramid when the beacon block realizes it is fully powered.",
+      "gamerscore": 60,
+      "trophy_type": "Gold",
+      "rewards": null,
+      "category": "nether",
+      "category_display": "Nether"
+    },
+    {
+      "id": "stay_hydrated",
+      "title": {
+        "localized": {
+          "en_US": "Stay Hydrated!"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Place a Dried Ghast block into water"
+        }
+      },
+      "actual_requirements": null,
+      "gamerscore": 10,
+      "trophy_type": "Silver",
+      "rewards": "[[File:Ghast Arm Floaties.png|60px]]<br>\"Ghast Arm Floaties\" gloves",
+      "category": "nether",
+      "category_display": "Nether"
+    },
+    {
+      "id": "the_beginning",
+      "title": {
+        "translate": "achievement.spawnWither",
+        "localized": {
+          "bg_BG": "Началото на края?",
+          "cs_CZ": "Začátek?",
+          "da_DK": "Begyndelsen?",
+          "de_DE": "Der Anfang?",
+          "el_GR": "Η Αρχή;",
+          "en_GB": "The Beginning?",
+          "en_US": "The Beginning?",
+          "es_ES": "¿El comienzo?",
+          "es_MX": "¿El comienzo?",
+          "fi_FI": "Alkuko?",
+          "fr_CA": "Le commencement?",
+          "fr_FR": "Le commencement ?",
+          "hu_HU": "A Kezdet?",
+          "id_ID": "Awal?",
+          "it_IT": "Inizio",
+          "ja_JP": "はじまり?",
+          "ko_KR": "시작이야?",
+          "nb_NO": "Begynnelsen?",
+          "nl_NL": "Het begin?",
+          "pl_PL": "Początek?",
+          "pt_BR": "O Começo?",
+          "pt_PT": "O Princípio?",
+          "ru_RU": "Начало?",
+          "sk_SK": "Začiatok?",
+          "sv_SE": "Början?",
+          "tr_TR": "Başlangıç?",
+          "uk_UA": "Початок?",
+          "zh_CN": "开始了？",
+          "zh_TW": "一切的開端？"
+        }
+      },
+      "description": {
+        "translate": "achievement.spawnWither.desc",
+        "localized": {
+          "bg_BG": "Извикайте Чезнещия",
+          "cs_CZ": "Vytvořte pakostnici.",
+          "da_DK": "Spawn wither",
+          "de_DE": "Spawne einen Wither.",
+          "el_GR": "Επαναγέννησε το Μαρασμό",
+          "en_GB": "Spawn the Wither",
+          "en_US": "Spawn the Wither",
+          "es_ES": "Genera al Wither",
+          "es_MX": "Genera al Wither",
+          "fi_FI": "Luo Näivettäjä",
+          "fr_CA": "Faire apparaître le Wither.",
+          "fr_FR": "Invoquer le wither.",
+          "hu_HU": "Hozd létre a Sorvasztót",
+          "id_ID": "Munculkan Wither",
+          "it_IT": "Genera il Wither.",
+          "ja_JP": "ウィザーをスポーンさせる",
+          "ko_KR": "시듦을 생성하세요",
+          "nb_NO": "Få Wither til å dukke opp",
+          "nl_NL": "Spawn de Wither",
+          "pl_PL": "Zespawnuj withera.",
+          "pt_BR": "Invoque o Wither.",
+          "pt_PT": "Gera o Wither",
+          "ru_RU": "Призовите визера",
+          "sk_SK": "Vytvorte withera",
+          "sv_SE": "Spawna Wither",
+          "tr_TR": "Çağır: Wither",
+          "uk_UA": "Призвати Візера",
+          "zh_CN": "生成凋灵",
+          "zh_TW": "生成凋靈"
+        }
+      },
+      "actual_requirements": "Be within a 100.9×100.9×103.5 cuboid centered on the Wither when it is spawned.",
+      "gamerscore": 20,
+      "trophy_type": "Bronze",
+      "rewards": null,
+      "category": "nether",
+      "category_display": "Nether"
+    },
+    {
+      "id": "the_beginning",
+      "title": {
+        "translate": "achievement.killWither",
+        "localized": {
+          "bg_BG": "Всичко си има начало.",
+          "cs_CZ": "Začátek",
+          "da_DK": "Begyndelsen.",
+          "de_DE": "Der Anfang.",
+          "el_GR": "Η Αρχή.",
+          "en_GB": "The Beginning.",
+          "en_US": "The Beginning.",
+          "es_ES": "El comienzo.",
+          "es_MX": "El comienzo.",
+          "fi_FI": "Alku.",
+          "fr_CA": "Le commencement.",
+          "fr_FR": "Le commencement.",
+          "hu_HU": "A Kezdet.",
+          "id_ID": "Awal.",
+          "it_IT": "Inizio.",
+          "ja_JP": "はじまり。",
+          "ko_KR": "시작이야.",
+          "nb_NO": "Begynnelsen.",
+          "nl_NL": "Het begin.",
+          "pl_PL": "Początek.",
+          "pt_BR": "O Começo.",
+          "pt_PT": "O Princípio.",
+          "ru_RU": "Начало",
+          "sk_SK": "Začiatok.",
+          "sv_SE": "Början.",
+          "tr_TR": "Başlangıç.",
+          "uk_UA": "Початок.",
+          "zh_CN": "开始了。",
+          "zh_TW": "真正的開始。"
+        }
+      },
+      "description": {
+        "translate": "achievement.killWither.desc",
+        "localized": {
+          "bg_BG": "Убийте Чезнещия",
+          "cs_CZ": "Zabijte pakostnici.",
+          "da_DK": "Dræb wither",
+          "de_DE": "Töte den Wither",
+          "el_GR": "Σκότωσε τον Μαρασμό",
+          "en_GB": "Kill the Wither",
+          "en_US": "Kill the Wither",
+          "es_ES": "Mata al Wither",
+          "es_MX": "Mata al Wither",
+          "fi_FI": "Tapa Näivettäjä",
+          "fr_CA": "Tuer le Wither",
+          "fr_FR": "Tuer le wither.",
+          "hu_HU": "Öld meg a Sorvasztót",
+          "id_ID": "Bunuh Wither",
+          "it_IT": "Uccidi il Wither",
+          "ja_JP": "ウィザーを倒す。",
+          "ko_KR": "시듦을 죽이세요",
+          "nb_NO": "Drep Wither",
+          "nl_NL": "Dood de Wither",
+          "pl_PL": "Zabij withera.",
+          "pt_BR": "Mate o Wither.",
+          "pt_PT": "Mata o Wither",
+          "ru_RU": "Убейте визера",
+          "sk_SK": "Zabite withera",
+          "sv_SE": "Döda Wither",
+          "tr_TR": "Wither'i öldürün",
+          "uk_UA": "Вбити Візера",
+          "zh_CN": "杀死凋灵",
+          "zh_TW": "殺死凋靈"
+        }
+      },
+      "actual_requirements": "Be within a 100.9×100.9×203.5 cuboid centered on the Wither when it drops the nether star.",
+      "gamerscore": 40,
+      "trophy_type": "Silver",
+      "rewards": null,
+      "category": "nether",
+      "category_display": "Nether"
+    },
+    {
+      "id": "the_end",
+      "title": {
+        "translate": "achievement.theEnd",
+        "localized": {
+          "bg_BG": "Нима това е Краят?",
+          "cs_CZ": "To je End?",
+          "da_DK": "Enden?",
+          "de_DE": "Das Ende?",
+          "el_GR": "Το τέλος;",
+          "en_GB": "The End?",
+          "en_US": "The End?",
+          "es_ES": "¿The End?",
+          "es_MX": "¿El End?",
+          "fi_FI": "Endiinkö?",
+          "fr_CA": "Fin?",
+          "fr_FR": "Fin ?",
+          "hu_HU": "Az End?",
+          "id_ID": "Akhir?",
+          "it_IT": "L'End?",
+          "ja_JP": "おしまい?",
+          "ko_KR": "이걸로 끝이야?",
+          "nb_NO": "Enden?",
+          "nl_NL": "The End?",
+          "pl_PL": "Kres?",
+          "pt_BR": "O Fim?",
+          "pt_PT": "O End?",
+          "ru_RU": "Конец?",
+          "sk_SK": "Koniec?",
+          "sv_SE": "Slutet?",
+          "tr_TR": "Son mu?",
+          "uk_UA": "Кінець?",
+          "zh_CN": "结束了？",
+          "zh_TW": "結束了？"
+        }
+      },
+      "description": {
+        "translate": "achievement.theEnd.desc",
+        "localized": {
+          "bg_BG": "Намерете Края",
+          "cs_CZ": "Najděte End.",
+          "da_DK": "Find Enden",
+          "de_DE": "Finde das Ende",
+          "el_GR": "Εντόπισε το Τέλος",
+          "en_GB": "Locate the End",
+          "en_US": "Locate the End",
+          "es_ES": "Llega a The End",
+          "es_MX": "Llega al End",
+          "fi_FI": "Löydä Ääri",
+          "fr_CA": "Localiser l'Ender.",
+          "fr_FR": "Localiser l'End",
+          "hu_HU": "Találd meg az Endet",
+          "id_ID": "Temukan End",
+          "it_IT": "Accedi all'End.",
+          "ja_JP": "果ての世界を見つけよう。",
+          "ko_KR": "엔드로 가세요",
+          "nb_NO": "Finn Enden",
+          "nl_NL": "Zoek het einde",
+          "pl_PL": "Zlokalizuj Kres",
+          "pt_BR": "Localize o End",
+          "pt_PT": "Encontra o End",
+          "ru_RU": "Разыщите Край.",
+          "sk_SK": "Nájdite koniec",
+          "sv_SE": "Hitta End",
+          "tr_TR": "The End'i yerleştirin",
+          "uk_UA": "Знайти Енд",
+          "zh_CN": "找到“末地”",
+          "zh_TW": "進入終界"
+        }
+      },
+      "actual_requirements": "Enter a stronghold End Portal activated with all twelve eyes of ender.",
+      "gamerscore": 20,
+      "trophy_type": "Bronze",
+      "rewards": "[[File:Victor's Boots.png|60px]]<br>\"Victor's Boots\" footwear",
+      "category": "the_end",
+      "category_display": "The End"
+    },
+    {
+      "id": "the_end",
+      "title": {
+        "localized": {
+          "en_US": "The End"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Kill the Ender Dragon"
+        }
+      },
+      "actual_requirements": "Enter the end exit portal.",
+      "gamerscore": 40,
+      "trophy_type": "Gold",
+      "rewards": "[[File:Victor's Overcoat.png|60px]]<br>\"Victor's Overcoat\" outerwear",
+      "category": "the_end",
+      "category_display": "The End"
+    },
+    {
+      "id": "you_need_a_mint",
+      "title": {
+        "localized": {
+          "en_US": "You Need a Mint"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Collect dragons breath in a glass bottle"
+        }
+      },
+      "actual_requirements": "Have a dragon's breath bottle in your inventory.",
+      "gamerscore": 30,
+      "trophy_type": "Silver",
+      "rewards": null,
+      "category": "the_end",
+      "category_display": "The End"
+    },
+    {
+      "id": "the_end_again",
+      "title": {
+        "localized": {
+          "en_US": "The End... Again..."
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Respawn the Ender Dragon"
+        }
+      },
+      "actual_requirements": null,
+      "gamerscore": 30,
+      "trophy_type": "Silver",
+      "rewards": null,
+      "category": "the_end",
+      "category_display": "The End"
+    },
+    {
+      "id": "great_view_from_up_here",
+      "title": {
+        "localized": {
+          "en_US": "Great View From Up Here"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Levitate up 50 blocks from the attacks of a Shulker"
+        }
+      },
+      "actual_requirements": "Ascend at least 50 blocks while under the levitation effect from a shulker.",
+      "gamerscore": 20,
+      "trophy_type": "Bronze",
+      "rewards": "[[File:Elder Dragon Wings.png|60px]]<br>\"Elder Dragon Wings\" back item",
+      "category": "the_end",
+      "category_display": "The End"
+    },
+    {
+      "id": "super_sonic",
+      "title": {
+        "localized": {
+          "en_US": "Super Sonic"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Use Elytra to fly through a 1 by 1 gap while moving faster than 40 m/s"
+        }
+      },
+      "actual_requirements": null,
+      "gamerscore": 30,
+      "trophy_type": "Gold",
+      "rewards": null,
+      "category": "the_end",
+      "category_display": "The End"
+    },
+    {
+      "id": "organizational_wizard",
+      "title": {
+        "localized": {
+          "en_US": "Organizational Wizard"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Name a Shulker Box with an Anvil"
+        }
+      },
+      "actual_requirements": null,
+      "gamerscore": 30,
+      "trophy_type": "Bronze",
+      "rewards": null,
+      "category": "the_end",
+      "category_display": "The End"
+    },
+    {
+      "id": "mob_kabob",
+      "title": {
+        "localized": {
+          "en_US": "Mob Kabob"
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Hit five mobs in the same Charge attack using the Spear."
+        }
+      },
+      "actual_requirements": "Armor stands and players also count for this achievement as they are technically mobs.",
+      "gamerscore": 10,
+      "trophy_type": "Bronze",
+      "rewards": "[[File:Victor's Gauntlets.png|60px]]<br>\"Victor's Gauntlets\" gloves",
+      "category": "other",
+      "category_display": "Other"
+    }
+  ]
+}

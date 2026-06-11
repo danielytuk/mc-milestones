@@ -1,0 +1,3317 @@
+{
+  "generated": "2026-06-10",
+  "java_version": "26.1.2",
+  "java_advancement_count": 126,
+  "bedrock_achievement_count": 135,
+  "total_milestones": 223,
+  "matched_count": 42,
+  "java_only_count": 86,
+  "bedrock_only_count": 95,
+  "milestones": [
+    {
+      "id": "adventuring_time",
+      "milestone": "Adventuring Time",
+      "editions": [
+        "java",
+        "bedrock"
+      ],
+      "java": {
+        "id": "minecraft:adventure/adventuring_time",
+        "category": "adventure"
+      },
+      "bedrock": {
+        "id": "adventuring_time",
+        "category": "exploring_your_world",
+        "gamerscore": 40,
+        "trophy_type": "Silver"
+      }
+    },
+    {
+      "id": "sneak_100",
+      "milestone": "Sneak 100",
+      "editions": [
+        "java",
+        "bedrock"
+      ],
+      "java": {
+        "id": "minecraft:adventure/avoid_vibration",
+        "category": "adventure"
+      },
+      "bedrock": {
+        "id": "sneak_100",
+        "category": "combat",
+        "gamerscore": 10,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "bullseye",
+      "milestone": "Bullseye",
+      "editions": [
+        "java",
+        "bedrock"
+      ],
+      "java": {
+        "id": "minecraft:adventure/bullseye",
+        "category": "adventure"
+      },
+      "bedrock": {
+        "id": "bullseye",
+        "category": "combat",
+        "gamerscore": 15,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "careful_restoration",
+      "milestone": "Careful Restoration",
+      "editions": [
+        "java",
+        "bedrock"
+      ],
+      "java": {
+        "id": "minecraft:adventure/craft_decorated_pot_using_only_sherds",
+        "category": "adventure"
+      },
+      "bedrock": {
+        "id": "careful_restoration",
+        "category": "building_decorating",
+        "gamerscore": 10,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "crafters_crafting_crafters",
+      "milestone": "Crafters Crafting Crafters",
+      "editions": [
+        "java",
+        "bedrock"
+      ],
+      "java": {
+        "id": "minecraft:adventure/crafters_crafting_crafters",
+        "category": "adventure"
+      },
+      "bedrock": {
+        "id": "crafters_crafting_crafters",
+        "category": "redstone",
+        "gamerscore": 10,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "heart_transplanter",
+      "milestone": "Heart Transplanter",
+      "editions": [
+        "java",
+        "bedrock"
+      ],
+      "java": {
+        "id": "minecraft:adventure/heart_transplanter",
+        "category": "adventure"
+      },
+      "bedrock": {
+        "id": "heart_transplanter",
+        "category": "combat",
+        "gamerscore": 20,
+        "trophy_type": "Silver"
+      }
+    },
+    {
+      "id": "sticky_situation",
+      "milestone": "Sticky Situation",
+      "editions": [
+        "java",
+        "bedrock"
+      ],
+      "java": {
+        "id": "minecraft:adventure/honey_block_slide",
+        "category": "adventure"
+      },
+      "bedrock": {
+        "id": "sticky_situation",
+        "category": "farming_husbandry",
+        "gamerscore": 30,
+        "trophy_type": "Silver"
+      }
+    },
+    {
+      "id": "monster_hunter",
+      "milestone": "Monster Hunter",
+      "editions": [
+        "java",
+        "bedrock"
+      ],
+      "java": {
+        "id": "minecraft:adventure/kill_a_mob",
+        "category": "adventure"
+      },
+      "bedrock": {
+        "id": "monster_hunter",
+        "category": "getting_started",
+        "gamerscore": 15,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "it_spreads",
+      "milestone": "It Spreads",
+      "editions": [
+        "java",
+        "bedrock"
+      ],
+      "java": {
+        "id": "minecraft:adventure/kill_mob_near_sculk_catalyst",
+        "category": "adventure"
+      },
+      "bedrock": {
+        "id": "it_spreads",
+        "category": "combat",
+        "gamerscore": 10,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "over_overkill",
+      "milestone": "Over-Overkill",
+      "editions": [
+        "java",
+        "bedrock"
+      ],
+      "java": {
+        "id": "minecraft:adventure/overoverkill",
+        "category": "adventure"
+      },
+      "bedrock": {
+        "id": "over_overkill",
+        "category": "combat",
+        "gamerscore": 20,
+        "trophy_type": "Silver"
+      }
+    },
+    {
+      "id": "sound_of_music",
+      "milestone": "Sound of Music",
+      "editions": [
+        "java",
+        "bedrock"
+      ],
+      "java": {
+        "id": "minecraft:adventure/play_jukebox_in_meadows",
+        "category": "adventure"
+      },
+      "bedrock": {
+        "id": "sound_of_music",
+        "category": "exploring_your_world",
+        "gamerscore": 10,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "revaulting",
+      "milestone": "Revaulting",
+      "editions": [
+        "java",
+        "bedrock"
+      ],
+      "java": {
+        "id": "minecraft:adventure/revaulting",
+        "category": "adventure"
+      },
+      "bedrock": {
+        "id": "revaulting",
+        "category": "combat",
+        "gamerscore": 20,
+        "trophy_type": "Silver"
+      }
+    },
+    {
+      "id": "sniper_duel",
+      "milestone": "Sniper Duel",
+      "editions": [
+        "java",
+        "bedrock"
+      ],
+      "java": {
+        "id": "minecraft:adventure/sniper_duel",
+        "category": "adventure"
+      },
+      "bedrock": {
+        "id": "sniper_duel",
+        "category": "combat",
+        "gamerscore": 30,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "mob_kabob",
+      "milestone": "Mob Kabob",
+      "editions": [
+        "java",
+        "bedrock"
+      ],
+      "java": {
+        "id": "minecraft:adventure/spear_many_mobs",
+        "category": "adventure"
+      },
+      "bedrock": {
+        "id": "mob_kabob",
+        "category": "other",
+        "gamerscore": 10,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "star_trader",
+      "milestone": "Star Trader",
+      "editions": [
+        "java",
+        "bedrock"
+      ],
+      "java": {
+        "id": "minecraft:adventure/trade_at_world_height",
+        "category": "adventure"
+      },
+      "bedrock": {
+        "id": "star_trader",
+        "category": "village_pillage",
+        "gamerscore": 20,
+        "trophy_type": "Silver"
+      }
+    },
+    {
+      "id": "smithing_with_style",
+      "milestone": "Smithing with Style",
+      "editions": [
+        "java",
+        "bedrock"
+      ],
+      "java": {
+        "id": "minecraft:adventure/trim_with_all_exclusive_armor_patterns",
+        "category": "adventure"
+      },
+      "bedrock": {
+        "id": "smithing_with_style",
+        "category": "gear_up",
+        "gamerscore": 30,
+        "trophy_type": "Gold"
+      }
+    },
+    {
+      "id": "who_needs_rockets",
+      "milestone": "Who Needs Rockets?",
+      "editions": [
+        "java",
+        "bedrock"
+      ],
+      "java": {
+        "id": "minecraft:adventure/who_needs_rockets",
+        "category": "adventure"
+      },
+      "bedrock": {
+        "id": "who_needs_rockets",
+        "category": "combat",
+        "gamerscore": 10,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "you_need_a_mint",
+      "milestone": "You Need a Mint",
+      "editions": [
+        "java",
+        "bedrock"
+      ],
+      "java": {
+        "id": "minecraft:end/dragon_breath",
+        "category": "end"
+      },
+      "bedrock": {
+        "id": "you_need_a_mint",
+        "category": "the_end",
+        "gamerscore": 30,
+        "trophy_type": "Silver"
+      }
+    },
+    {
+      "id": "great_view_from_up_here",
+      "milestone": "Great View From Up Here",
+      "editions": [
+        "java",
+        "bedrock"
+      ],
+      "java": {
+        "id": "minecraft:end/levitate",
+        "category": "end"
+      },
+      "bedrock": {
+        "id": "great_view_from_up_here",
+        "category": "the_end",
+        "gamerscore": 20,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "the_end_again",
+      "milestone": "The End... Again...",
+      "editions": [
+        "java",
+        "bedrock"
+      ],
+      "java": {
+        "id": "minecraft:end/respawn_dragon",
+        "category": "end"
+      },
+      "bedrock": {
+        "id": "the_end_again",
+        "category": "the_end",
+        "gamerscore": 30,
+        "trophy_type": "Silver"
+      }
+    },
+    {
+      "id": "the_end",
+      "milestone": "The End",
+      "editions": [
+        "java",
+        "bedrock"
+      ],
+      "java": {
+        "id": "minecraft:end/root",
+        "category": "end"
+      },
+      "bedrock": {
+        "id": "the_end",
+        "category": "the_end",
+        "gamerscore": 20,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "the_end",
+      "milestone": "The End",
+      "editions": [
+        "java",
+        "bedrock"
+      ],
+      "java": {
+        "id": "minecraft:end/root",
+        "category": "end"
+      },
+      "bedrock": {
+        "id": "the_end",
+        "category": "the_end",
+        "gamerscore": 40,
+        "trophy_type": "Gold"
+      }
+    },
+    {
+      "id": "the_end",
+      "milestone": "The End?",
+      "editions": [
+        "java",
+        "bedrock"
+      ],
+      "java": {
+        "id": "minecraft:story/enter_the_end",
+        "category": "story"
+      },
+      "bedrock": {
+        "id": "the_end",
+        "category": "the_end",
+        "gamerscore": 20,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "the_end",
+      "milestone": "The End?",
+      "editions": [
+        "java",
+        "bedrock"
+      ],
+      "java": {
+        "id": "minecraft:story/enter_the_end",
+        "category": "story"
+      },
+      "bedrock": {
+        "id": "the_end",
+        "category": "the_end",
+        "gamerscore": 40,
+        "trophy_type": "Gold"
+      }
+    },
+    {
+      "id": "birthday_song",
+      "milestone": "Birthday Song",
+      "editions": [
+        "java",
+        "bedrock"
+      ],
+      "java": {
+        "id": "minecraft:husbandry/allay_deliver_cake_to_note_block",
+        "category": "husbandry"
+      },
+      "bedrock": {
+        "id": "birthday_song",
+        "category": "zoology",
+        "gamerscore": 10,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "with_our_powers_combined",
+      "milestone": "With Our Powers Combined!",
+      "editions": [
+        "java",
+        "bedrock"
+      ],
+      "java": {
+        "id": "minecraft:husbandry/froglights",
+        "category": "husbandry"
+      },
+      "bedrock": {
+        "id": "with_our_powers_combined",
+        "category": "zoology",
+        "gamerscore": 30,
+        "trophy_type": "Gold"
+      }
+    },
+    {
+      "id": "the_healing_power_of_friendship",
+      "milestone": "The Healing Power of Friendship!",
+      "editions": [
+        "java",
+        "bedrock"
+      ],
+      "java": {
+        "id": "minecraft:husbandry/kill_axolotl_target",
+        "category": "husbandry"
+      },
+      "bedrock": {
+        "id": "the_healing_power_of_friendship",
+        "category": "combat",
+        "gamerscore": 30,
+        "trophy_type": "Silver"
+      }
+    },
+    {
+      "id": "stay_hydrated",
+      "milestone": "Stay Hydrated!",
+      "editions": [
+        "java",
+        "bedrock"
+      ],
+      "java": {
+        "id": "minecraft:husbandry/place_dried_ghast_in_water",
+        "category": "husbandry"
+      },
+      "bedrock": {
+        "id": "stay_hydrated",
+        "category": "nether",
+        "gamerscore": 10,
+        "trophy_type": "Silver"
+      }
+    },
+    {
+      "id": "planting_the_past",
+      "milestone": "Planting the Past",
+      "editions": [
+        "java",
+        "bedrock"
+      ],
+      "java": {
+        "id": "minecraft:husbandry/plant_any_sniffer_seed",
+        "category": "husbandry"
+      },
+      "bedrock": {
+        "id": "planting_the_past",
+        "category": "zoology",
+        "gamerscore": 10,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "whatever_floats_your_goat",
+      "milestone": "Whatever Floats Your Goat!",
+      "editions": [
+        "java",
+        "bedrock"
+      ],
+      "java": {
+        "id": "minecraft:husbandry/ride_a_boat_with_a_goat",
+        "category": "husbandry"
+      },
+      "bedrock": {
+        "id": "whatever_floats_your_goat",
+        "category": "farming_husbandry",
+        "gamerscore": 20,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "bee_our_guest",
+      "milestone": "Bee Our Guest",
+      "editions": [
+        "java",
+        "bedrock"
+      ],
+      "java": {
+        "id": "minecraft:husbandry/safely_harvest_honey",
+        "category": "husbandry"
+      },
+      "bedrock": {
+        "id": "bee_our_guest",
+        "category": "farming_husbandry",
+        "gamerscore": 15,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "total_beelocation",
+      "milestone": "Total Beelocation",
+      "editions": [
+        "java",
+        "bedrock"
+      ],
+      "java": {
+        "id": "minecraft:husbandry/silk_touch_nest",
+        "category": "husbandry"
+      },
+      "bedrock": {
+        "id": "total_beelocation",
+        "category": "farming_husbandry",
+        "gamerscore": 30,
+        "trophy_type": "Silver"
+      }
+    },
+    {
+      "id": "local_brewery",
+      "milestone": "Local Brewery",
+      "editions": [
+        "java",
+        "bedrock"
+      ],
+      "java": {
+        "id": "minecraft:nether/brew_potion",
+        "category": "nether"
+      },
+      "bedrock": {
+        "id": "local_brewery",
+        "category": "culinary_exploits",
+        "gamerscore": 15,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "cover_me_in_debris",
+      "milestone": "Cover Me in Debris",
+      "editions": [
+        "java",
+        "bedrock"
+      ],
+      "java": {
+        "id": "minecraft:nether/netherite_armor",
+        "category": "nether"
+      },
+      "bedrock": {
+        "id": "cover_me_in_debris",
+        "category": "gear_up",
+        "gamerscore": 50,
+        "trophy_type": "Gold"
+      }
+    },
+    {
+      "id": "into_fire",
+      "milestone": "Into Fire",
+      "editions": [
+        "java",
+        "bedrock"
+      ],
+      "java": {
+        "id": "minecraft:nether/obtain_blaze_rod",
+        "category": "nether"
+      },
+      "bedrock": {
+        "id": "into_fire",
+        "category": "nether",
+        "gamerscore": 20,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "return_to_sender",
+      "milestone": "Return to Sender",
+      "editions": [
+        "java",
+        "bedrock"
+      ],
+      "java": {
+        "id": "minecraft:nether/return_to_sender",
+        "category": "nether"
+      },
+      "bedrock": {
+        "id": "return_to_sender",
+        "category": "nether",
+        "gamerscore": 30,
+        "trophy_type": "Silver"
+      }
+    },
+    {
+      "id": "feels_like_home",
+      "milestone": "Feels Like Home",
+      "editions": [
+        "java",
+        "bedrock"
+      ],
+      "java": {
+        "id": "minecraft:nether/ride_strider_in_overworld_lava",
+        "category": "nether"
+      },
+      "bedrock": {
+        "id": "feels_like_home",
+        "category": "nether",
+        "gamerscore": 20,
+        "trophy_type": "Silver"
+      }
+    },
+    {
+      "id": "zombie_doctor",
+      "milestone": "Zombie Doctor",
+      "editions": [
+        "java",
+        "bedrock"
+      ],
+      "java": {
+        "id": "minecraft:story/cure_zombie_villager",
+        "category": "story"
+      },
+      "bedrock": {
+        "id": "zombie_doctor",
+        "category": "village_pillage",
+        "gamerscore": 40,
+        "trophy_type": "Gold"
+      }
+    },
+    {
+      "id": "enchanter",
+      "milestone": "Enchanter",
+      "editions": [
+        "java",
+        "bedrock"
+      ],
+      "java": {
+        "id": "minecraft:story/enchant_item",
+        "category": "story"
+      },
+      "bedrock": {
+        "id": "enchanter",
+        "category": "feels_like_magic",
+        "gamerscore": 20,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "diamonds",
+      "milestone": "Diamonds!",
+      "editions": [
+        "java",
+        "bedrock"
+      ],
+      "java": {
+        "id": "minecraft:story/mine_diamond",
+        "category": "story"
+      },
+      "bedrock": {
+        "id": "diamonds",
+        "category": "mining",
+        "gamerscore": 20,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "acquire_hardware",
+      "milestone": "Acquire Hardware",
+      "editions": [
+        "java",
+        "bedrock"
+      ],
+      "java": {
+        "id": "minecraft:story/smelt_iron",
+        "category": "story"
+      },
+      "bedrock": {
+        "id": "acquire_hardware",
+        "category": "mining",
+        "gamerscore": 15,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "getting_an_upgrade",
+      "milestone": "Getting an Upgrade",
+      "editions": [
+        "java",
+        "bedrock"
+      ],
+      "java": {
+        "id": "minecraft:story/upgrade_tools",
+        "category": "story"
+      },
+      "bedrock": {
+        "id": "getting_an_upgrade",
+        "category": "getting_started",
+        "gamerscore": 15,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "arbalistic",
+      "milestone": "Arbalistic",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:adventure/arbalistic",
+        "category": "adventure"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "blowback",
+      "milestone": "Blowback",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:adventure/blowback",
+        "category": "adventure"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "isn_t_it_scute",
+      "milestone": "Isn't It Scute?",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:adventure/brush_armadillo",
+        "category": "adventure"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "caves_cliffs",
+      "milestone": "Caves & Cliffs",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:adventure/fall_from_world_height",
+        "category": "adventure"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "hero_of_the_village",
+      "milestone": "Hero of the Village",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:adventure/hero_of_the_village",
+        "category": "adventure"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "monsters_hunted",
+      "milestone": "Monsters Hunted",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:adventure/kill_all_mobs",
+        "category": "adventure"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "lighten_up",
+      "milestone": "Lighten Up",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:adventure/lighten_up",
+        "category": "adventure"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "surge_protector",
+      "milestone": "Surge Protector",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:adventure/lightning_rod_with_villager_no_fire",
+        "category": "adventure"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "minecraft_trial_s_edition",
+      "milestone": "Minecraft: Trial(s) Edition",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:adventure/minecraft_trials_edition",
+        "category": "adventure"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "ol_betsy",
+      "milestone": "Ol' Betsy",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:adventure/ol_betsy",
+        "category": "adventure"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "the_power_of_books",
+      "milestone": "The Power of Books",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:adventure/read_power_of_chiseled_bookshelf",
+        "category": "adventure"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "adventure",
+      "milestone": "Adventure",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:adventure/root",
+        "category": "adventure"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "respecting_the_remnants",
+      "milestone": "Respecting the Remnants",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:adventure/salvage_sherd",
+        "category": "adventure"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "take_aim",
+      "milestone": "Take Aim",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:adventure/shoot_arrow",
+        "category": "adventure"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "sweet_dreams",
+      "milestone": "Sweet Dreams",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:adventure/sleep_in_bed",
+        "category": "adventure"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "is_it_a_plane",
+      "milestone": "Is It a Plane?",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:adventure/spyglass_at_dragon",
+        "category": "adventure"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "is_it_a_balloon",
+      "milestone": "Is It a Balloon?",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:adventure/spyglass_at_ghast",
+        "category": "adventure"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "is_it_a_bird",
+      "milestone": "Is It a Bird?",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:adventure/spyglass_at_parrot",
+        "category": "adventure"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "hired_help",
+      "milestone": "Hired Help",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:adventure/summon_iron_golem",
+        "category": "adventure"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "a_throwaway_joke",
+      "milestone": "A Throwaway Joke",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:adventure/throw_trident",
+        "category": "adventure"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "postmortal",
+      "milestone": "Postmortal",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:adventure/totem_of_undying",
+        "category": "adventure"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "what_a_deal",
+      "milestone": "What a Deal!",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:adventure/trade",
+        "category": "adventure"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "crafting_a_new_look",
+      "milestone": "Crafting a New Look",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:adventure/trim_with_any_armor_pattern",
+        "category": "adventure"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "two_birds_one_arrow",
+      "milestone": "Two Birds, One Arrow",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:adventure/two_birds_one_arrow",
+        "category": "adventure"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "under_lock_and_key",
+      "milestone": "Under Lock and Key",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:adventure/under_lock_and_key",
+        "category": "adventure"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "country_lode_take_me_home",
+      "milestone": "Country Lode, Take Me Home",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:adventure/use_lodestone",
+        "category": "adventure"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "very_very_frightening",
+      "milestone": "Very Very Frightening",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:adventure/very_very_frightening",
+        "category": "adventure"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "voluntary_exile",
+      "milestone": "Voluntary Exile",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:adventure/voluntary_exile",
+        "category": "adventure"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "light_as_a_rabbit",
+      "milestone": "Light as a Rabbit",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:adventure/walk_on_powder_snow_with_leather_boots",
+        "category": "adventure"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "who_s_the_pillager_now",
+      "milestone": "Who's the Pillager Now?",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:adventure/whos_the_pillager_now",
+        "category": "adventure"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "the_next_generation",
+      "milestone": "The Next Generation",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:end/dragon_egg",
+        "category": "end"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "sky_s_the_limit",
+      "milestone": "Sky's the Limit",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:end/elytra",
+        "category": "end"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "remote_getaway",
+      "milestone": "Remote Getaway",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:end/enter_end_gateway",
+        "category": "end"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "the_city_at_the_end_of_the_game",
+      "milestone": "The City at the End of the Game",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:end/find_end_city",
+        "category": "end"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "free_the_end",
+      "milestone": "Free the End",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:end/kill_dragon",
+        "category": "end"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "you_ve_got_a_friend_in_me",
+      "milestone": "You've Got a Friend in Me",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:husbandry/allay_deliver_item_to_player",
+        "category": "husbandry"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "the_cutest_predator",
+      "milestone": "The Cutest Predator",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:husbandry/axolotl_in_a_bucket",
+        "category": "husbandry"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "a_balanced_diet",
+      "milestone": "A Balanced Diet",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:husbandry/balanced_diet",
+        "category": "husbandry"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "two_by_two",
+      "milestone": "Two by Two",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:husbandry/bred_all_animals",
+        "category": "husbandry"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "the_parrots_and_the_bats",
+      "milestone": "The Parrots and the Bats",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:husbandry/breed_an_animal",
+        "category": "husbandry"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "a_complete_catalogue",
+      "milestone": "A Complete Catalogue",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:husbandry/complete_catalogue",
+        "category": "husbandry"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "little_sniffs",
+      "milestone": "Little Sniffs",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:husbandry/feed_snifflet",
+        "category": "husbandry"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "fishy_business",
+      "milestone": "Fishy Business",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:husbandry/fishy_business",
+        "category": "husbandry"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "when_the_squad_hops_into_town",
+      "milestone": "When the Squad Hops into Town",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:husbandry/leash_all_frog_variants",
+        "category": "husbandry"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "glow_and_behold",
+      "milestone": "Glow and Behold!",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:husbandry/make_a_sign_glow",
+        "category": "husbandry"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "serious_dedication",
+      "milestone": "Serious Dedication",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:husbandry/obtain_netherite_hoe",
+        "category": "husbandry"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "smells_interesting",
+      "milestone": "Smells Interesting",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:husbandry/obtain_sniffer_egg",
+        "category": "husbandry"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "a_seedy_place",
+      "milestone": "A Seedy Place",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:husbandry/plant_seed",
+        "category": "husbandry"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "shear_brilliance",
+      "milestone": "Shear Brilliance",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:husbandry/remove_wolf_armor",
+        "category": "husbandry"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "good_as_new",
+      "milestone": "Good as New",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:husbandry/repair_wolf_armor",
+        "category": "husbandry"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "husbandry",
+      "milestone": "Husbandry",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:husbandry/root",
+        "category": "husbandry"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "tactical_fishing",
+      "milestone": "Tactical Fishing",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:husbandry/tactical_fishing",
+        "category": "husbandry"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "bukkit_bukkit",
+      "milestone": "Bukkit Bukkit",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:husbandry/tadpole_in_a_bucket",
+        "category": "husbandry"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "best_friends_forever",
+      "milestone": "Best Friends Forever",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:husbandry/tame_an_animal",
+        "category": "husbandry"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "wax_off",
+      "milestone": "Wax Off",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:husbandry/wax_off",
+        "category": "husbandry"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "wax_on",
+      "milestone": "Wax On",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:husbandry/wax_on",
+        "category": "husbandry"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "the_whole_pack",
+      "milestone": "The Whole Pack",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:husbandry/whole_pack",
+        "category": "husbandry"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "how_did_we_get_here",
+      "milestone": "How Did We Get Here?",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:nether/all_effects",
+        "category": "nether"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "a_furious_cocktail",
+      "milestone": "A Furious Cocktail",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:nether/all_potions",
+        "category": "nether"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "not_quite_nine_lives",
+      "milestone": "Not Quite \"Nine\" Lives",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:nether/charge_respawn_anchor",
+        "category": "nether"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "bring_home_the_beacon",
+      "milestone": "Bring Home the Beacon",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:nether/create_beacon",
+        "category": "nether"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "beaconator",
+      "milestone": "Beaconator",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:nether/create_full_beacon",
+        "category": "nether"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "oh_shiny",
+      "milestone": "Oh Shiny",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:nether/distract_piglin",
+        "category": "nether"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "hot_tourist_destinations",
+      "milestone": "Hot Tourist Destinations",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:nether/explore_nether",
+        "category": "nether"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "subspace_bubble",
+      "milestone": "Subspace Bubble",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:nether/fast_travel",
+        "category": "nether"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "those_were_the_days",
+      "milestone": "Those Were the Days",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:nether/find_bastion",
+        "category": "nether"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "a_terrible_fortress",
+      "milestone": "A Terrible Fortress",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:nether/find_fortress",
+        "category": "nether"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "spooky_scary_skeleton",
+      "milestone": "Spooky Scary Skeleton",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:nether/get_wither_skull",
+        "category": "nether"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "war_pigs",
+      "milestone": "War Pigs",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:nether/loot_bastion",
+        "category": "nether"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "hidden_in_the_depths",
+      "milestone": "Hidden in the Depths",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:nether/obtain_ancient_debris",
+        "category": "nether"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "who_is_cutting_onions",
+      "milestone": "Who is Cutting Onions?",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:nether/obtain_crying_obsidian",
+        "category": "nether"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "this_boat_has_legs",
+      "milestone": "This Boat Has Legs",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:nether/ride_strider",
+        "category": "nether"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "nether",
+      "milestone": "Nether",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:nether/root",
+        "category": "nether"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "withering_heights",
+      "milestone": "Withering Heights",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:nether/summon_wither",
+        "category": "nether"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "uneasy_alliance",
+      "milestone": "Uneasy Alliance",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:nether/uneasy_alliance",
+        "category": "nether"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "minecraft_recipes_root",
+      "milestone": "minecraft:recipes/root",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:recipes/root",
+        "category": "recipes"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "not_today_thank_you",
+      "milestone": "Not Today, Thank You",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:story/deflect_arrow",
+        "category": "story"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "we_need_to_go_deeper",
+      "milestone": "We Need to Go Deeper",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:story/enter_the_nether",
+        "category": "story"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "eye_spy",
+      "milestone": "Eye Spy",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:story/follow_ender_eye",
+        "category": "story"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "ice_bucket_challenge",
+      "milestone": "Ice Bucket Challenge",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:story/form_obsidian",
+        "category": "story"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "isn_t_it_iron_pick",
+      "milestone": "Isn't It Iron Pick",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:story/iron_tools",
+        "category": "story"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "hot_stuff",
+      "milestone": "Hot Stuff",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:story/lava_bucket",
+        "category": "story"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "stone_age",
+      "milestone": "Stone Age",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:story/mine_stone",
+        "category": "story"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "suit_up",
+      "milestone": "Suit Up",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:story/obtain_armor",
+        "category": "story"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "minecraft",
+      "milestone": "Minecraft",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:story/root",
+        "category": "story"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "cover_me_with_diamonds",
+      "milestone": "Cover Me with Diamonds",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:story/shiny_gear",
+        "category": "story"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "awarded_all_trophies",
+      "milestone": "Awarded all trophies",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "awarded_all_trophies",
+        "category": "playstation_only",
+        "gamerscore": 0,
+        "trophy_type": "Platinum"
+      }
+    },
+    {
+      "id": "music_to_my_ears",
+      "milestone": "Music to my Ears",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "music_to_my_ears",
+        "category": "playstation_only",
+        "gamerscore": 0,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "change_of_sheets",
+      "milestone": "Change of Sheets",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "change_of_sheets",
+        "category": "playstation_only",
+        "gamerscore": 0,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "taking_inventory",
+      "milestone": "Taking Inventory",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "taking_inventory",
+        "category": "getting_started",
+        "gamerscore": 10,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "getting_wood",
+      "milestone": "Getting Wood",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "getting_wood",
+        "category": "getting_started",
+        "gamerscore": 10,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "benchmaking",
+      "milestone": "Benchmaking",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "benchmaking",
+        "category": "getting_started",
+        "gamerscore": 10,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "time_to_mine",
+      "milestone": "Time to Mine!",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "time_to_mine",
+        "category": "getting_started",
+        "gamerscore": 10,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "time_to_strike",
+      "milestone": "Time to Strike!",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "time_to_strike",
+        "category": "getting_started",
+        "gamerscore": 10,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "moar_tools",
+      "milestone": "MOAR Tools",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "moar_tools",
+        "category": "getting_started",
+        "gamerscore": 15,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "hot_topic",
+      "milestone": "Hot Topic",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "hot_topic",
+        "category": "getting_started",
+        "gamerscore": 15,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "renewable_energy",
+      "milestone": "Renewable Energy",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "renewable_energy",
+        "category": "getting_started",
+        "gamerscore": 10,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "pork_chop",
+      "milestone": "Pork Chop",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "pork_chop",
+        "category": "getting_started",
+        "gamerscore": 10,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "passing_the_time",
+      "milestone": "Passing the Time",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "passing_the_time",
+        "category": "exploring_your_world",
+        "gamerscore": 20,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "on_a_rail",
+      "milestone": "On A Rail",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "on_a_rail",
+        "category": "exploring_your_world",
+        "gamerscore": 40,
+        "trophy_type": "Gold"
+      }
+    },
+    {
+      "id": "trampoline",
+      "milestone": "Trampoline",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "trampoline",
+        "category": "exploring_your_world",
+        "gamerscore": 15,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "caves_and_cliffs",
+      "milestone": "Caves and Cliffs",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "caves_and_cliffs",
+        "category": "exploring_your_world",
+        "gamerscore": 30,
+        "trophy_type": "Gold"
+      }
+    },
+    {
+      "id": "diamonds_to_you",
+      "milestone": "Diamonds to you!",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "diamonds_to_you",
+        "category": "mining",
+        "gamerscore": 15,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "chestful_of_cobblestone",
+      "milestone": "Chestful of Cobblestone",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "chestful_of_cobblestone",
+        "category": "mining",
+        "gamerscore": 20,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "super_fuel",
+      "milestone": "Super Fuel",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "super_fuel",
+        "category": "mining",
+        "gamerscore": 20,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "time_to_farm",
+      "milestone": "Time to Farm!",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "time_to_farm",
+        "category": "farming_husbandry",
+        "gamerscore": 10,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "repopulation",
+      "milestone": "Repopulation",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "repopulation",
+        "category": "farming_husbandry",
+        "gamerscore": 15,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "cow_tipper",
+      "milestone": "Cow Tipper",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "cow_tipper",
+        "category": "farming_husbandry",
+        "gamerscore": 15,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "when_pigs_fly",
+      "milestone": "When Pigs Fly",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "when_pigs_fly",
+        "category": "farming_husbandry",
+        "gamerscore": 40,
+        "trophy_type": "Silver"
+      }
+    },
+    {
+      "id": "leader_of_the_pack",
+      "milestone": "Leader of the Pack",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "leader_of_the_pack",
+        "category": "farming_husbandry",
+        "gamerscore": 20,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "have_a_shearful_day",
+      "milestone": "Have a Shearful Day",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "have_a_shearful_day",
+        "category": "farming_husbandry",
+        "gamerscore": 15,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "rainbow_collection",
+      "milestone": "Rainbow Collection",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "rainbow_collection",
+        "category": "farming_husbandry",
+        "gamerscore": 30,
+        "trophy_type": "Silver"
+      }
+    },
+    {
+      "id": "artificial_selection",
+      "milestone": "Artificial Selection",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "artificial_selection",
+        "category": "farming_husbandry",
+        "gamerscore": 30,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "saddle_up",
+      "milestone": "Saddle Up",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "saddle_up",
+        "category": "farming_husbandry",
+        "gamerscore": 20,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "bake_bread",
+      "milestone": "Bake Bread",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "bake_bread",
+        "category": "culinary_exploits",
+        "gamerscore": 15,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "the_lie",
+      "milestone": "The Lie",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "the_lie",
+        "category": "culinary_exploits",
+        "gamerscore": 30,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "delicious_fish",
+      "milestone": "Delicious Fish",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "delicious_fish",
+        "category": "culinary_exploits",
+        "gamerscore": 15,
+        "trophy_type": "Silver"
+      }
+    },
+    {
+      "id": "iron_belly",
+      "milestone": "Iron Belly",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "iron_belly",
+        "category": "culinary_exploits",
+        "gamerscore": 20,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "rabbit_season",
+      "milestone": "Rabbit Season",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "rabbit_season",
+        "category": "culinary_exploits",
+        "gamerscore": 15,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "time_for_stew",
+      "milestone": "Time for Stew",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "time_for_stew",
+        "category": "culinary_exploits",
+        "gamerscore": 20,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "top_of_the_world",
+      "milestone": "Top of the World",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "top_of_the_world",
+        "category": "building_decorating",
+        "gamerscore": 20,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "pot_planter",
+      "milestone": "Pot Planter",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "pot_planter",
+        "category": "building_decorating",
+        "gamerscore": 15,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "it_s_a_sign",
+      "milestone": "It's a Sign!",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "it_s_a_sign",
+        "category": "building_decorating",
+        "gamerscore": 15,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "wax_on_wax_off",
+      "milestone": "Wax on, Wax off",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "wax_on_wax_off",
+        "category": "building_decorating",
+        "gamerscore": 30,
+        "trophy_type": "Silver"
+      }
+    },
+    {
+      "id": "the_haggler",
+      "milestone": "The Haggler",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "the_haggler",
+        "category": "village_pillage",
+        "gamerscore": 30,
+        "trophy_type": "Silver"
+      }
+    },
+    {
+      "id": "body_guard",
+      "milestone": "Body Guard",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "body_guard",
+        "category": "village_pillage",
+        "gamerscore": 20,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "tie_dye_outfit",
+      "milestone": "Tie Dye Outfit",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "tie_dye_outfit",
+        "category": "village_pillage",
+        "gamerscore": 15,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "where_have_you_been",
+      "milestone": "Where have you been?",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "where_have_you_been",
+        "category": "village_pillage",
+        "gamerscore": 20,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "plethora_of_cats",
+      "milestone": "Plethora of Cats",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "plethora_of_cats",
+        "category": "village_pillage",
+        "gamerscore": 20,
+        "trophy_type": "Silver"
+      }
+    },
+    {
+      "id": "fruit_on_the_loom",
+      "milestone": "Fruit on the Loom",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "fruit_on_the_loom",
+        "category": "village_pillage",
+        "gamerscore": 20,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "kill_the_beast",
+      "milestone": "Kill the Beast!",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "kill_the_beast",
+        "category": "village_pillage",
+        "gamerscore": 30,
+        "trophy_type": "Silver"
+      }
+    },
+    {
+      "id": "buy_low_sell_high",
+      "milestone": "Buy Low, Sell High",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "buy_low_sell_high",
+        "category": "village_pillage",
+        "gamerscore": 50,
+        "trophy_type": "Gold"
+      }
+    },
+    {
+      "id": "disenchanted",
+      "milestone": "Disenchanted",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "disenchanted",
+        "category": "village_pillage",
+        "gamerscore": 20,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "we_re_being_attacked",
+      "milestone": "We're being attacked!",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "we_re_being_attacked",
+        "category": "village_pillage",
+        "gamerscore": 20,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "sound_the_alarm",
+      "milestone": "Sound the Alarm!",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "sound_the_alarm",
+        "category": "village_pillage",
+        "gamerscore": 20,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "i_ve_got_a_bad_feeling_about_this",
+      "milestone": "I've got a bad feeling about this",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "i_ve_got_a_bad_feeling_about_this",
+        "category": "village_pillage",
+        "gamerscore": 20,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "master_trader",
+      "milestone": "Master Trader",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "master_trader",
+        "category": "village_pillage",
+        "gamerscore": 30,
+        "trophy_type": "Silver"
+      }
+    },
+    {
+      "id": "treasure_hunter",
+      "milestone": "Treasure Hunter",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "treasure_hunter",
+        "category": "village_pillage",
+        "gamerscore": 40,
+        "trophy_type": "Silver"
+      }
+    },
+    {
+      "id": "librarian",
+      "milestone": "Librarian",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "librarian",
+        "category": "feels_like_magic",
+        "gamerscore": 20,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "overpowered",
+      "milestone": "Overpowered",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "overpowered",
+        "category": "feels_like_magic",
+        "gamerscore": 30,
+        "trophy_type": "Silver"
+      }
+    },
+    {
+      "id": "stayin_frosty",
+      "milestone": "Stayin' Frosty",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "stayin_frosty",
+        "category": "feels_like_magic",
+        "gamerscore": 20,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "map_room",
+      "milestone": "Map Room",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "map_room",
+        "category": "feels_like_magic",
+        "gamerscore": 40,
+        "trophy_type": "Silver"
+      }
+    },
+    {
+      "id": "taste_of_your_own_medicine",
+      "milestone": "Taste of Your Own Medicine",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "taste_of_your_own_medicine",
+        "category": "feels_like_magic",
+        "gamerscore": 20,
+        "trophy_type": "Silver"
+      }
+    },
+    {
+      "id": "beam_me_up",
+      "milestone": "Beam Me Up",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "beam_me_up",
+        "category": "feels_like_magic",
+        "gamerscore": 20,
+        "trophy_type": "Silver"
+      }
+    },
+    {
+      "id": "cheating_death",
+      "milestone": "Cheating Death",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "cheating_death",
+        "category": "feels_like_magic",
+        "gamerscore": 30,
+        "trophy_type": "Silver"
+      }
+    },
+    {
+      "id": "let_it_go",
+      "milestone": "Let It Go!",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "let_it_go",
+        "category": "feels_like_magic",
+        "gamerscore": 20,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "dispense_with_this",
+      "milestone": "Dispense With This",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "dispense_with_this",
+        "category": "redstone",
+        "gamerscore": 20,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "freight_station",
+      "milestone": "Freight Station",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "freight_station",
+        "category": "redstone",
+        "gamerscore": 15,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "smelt_everything",
+      "milestone": "Smelt Everything!",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "smelt_everything",
+        "category": "redstone",
+        "gamerscore": 15,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "inception",
+      "milestone": "Inception",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "inception",
+        "category": "redstone",
+        "gamerscore": 20,
+        "trophy_type": "Silver"
+      }
+    },
+    {
+      "id": "dry_spell",
+      "milestone": "Dry Spell",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "dry_spell",
+        "category": "aquatic",
+        "gamerscore": 15,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "free_diver",
+      "milestone": "Free Diver",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "free_diver",
+        "category": "aquatic",
+        "gamerscore": 20,
+        "trophy_type": "Silver"
+      }
+    },
+    {
+      "id": "atlantis",
+      "milestone": "Atlantis?",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "atlantis",
+        "category": "aquatic",
+        "gamerscore": 20,
+        "trophy_type": "Silver"
+      }
+    },
+    {
+      "id": "sail_the_7_seas",
+      "milestone": "Sail the 7 Seas",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "sail_the_7_seas",
+        "category": "aquatic",
+        "gamerscore": 40,
+        "trophy_type": "Gold"
+      }
+    },
+    {
+      "id": "castaway",
+      "milestone": "Castaway",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "castaway",
+        "category": "aquatic",
+        "gamerscore": 20,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "ahoy",
+      "milestone": "Ahoy!",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "ahoy",
+        "category": "aquatic",
+        "gamerscore": 20,
+        "trophy_type": "Silver"
+      }
+    },
+    {
+      "id": "i_am_a_marine_biologist",
+      "milestone": "I am a Marine Biologist",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "i_am_a_marine_biologist",
+        "category": "aquatic",
+        "gamerscore": 20,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "one_pickle_two_pickle_sea_pickle_four",
+      "milestone": "One Pickle, Two Pickle, Sea Pickle, Four",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "one_pickle_two_pickle_sea_pickle_four",
+        "category": "aquatic",
+        "gamerscore": 20,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "echolocation",
+      "milestone": "Echolocation",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "echolocation",
+        "category": "aquatic",
+        "gamerscore": 20,
+        "trophy_type": "Silver"
+      }
+    },
+    {
+      "id": "me_gold",
+      "milestone": "Me Gold!",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "me_gold",
+        "category": "aquatic",
+        "gamerscore": 30,
+        "trophy_type": "Silver"
+      }
+    },
+    {
+      "id": "sleep_with_the_fishes",
+      "milestone": "Sleep with the Fishes",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "sleep_with_the_fishes",
+        "category": "aquatic",
+        "gamerscore": 30,
+        "trophy_type": "Silver"
+      }
+    },
+    {
+      "id": "alternative_fuel",
+      "milestone": "Alternative Fuel",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "alternative_fuel",
+        "category": "aquatic",
+        "gamerscore": 20,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "do_a_barrel_roll",
+      "milestone": "Do a Barrel Roll!",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "do_a_barrel_roll",
+        "category": "aquatic",
+        "gamerscore": 30,
+        "trophy_type": "Silver"
+      }
+    },
+    {
+      "id": "the_deep_end",
+      "milestone": "The Deep End",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "the_deep_end",
+        "category": "aquatic",
+        "gamerscore": 30,
+        "trophy_type": "Silver"
+      }
+    },
+    {
+      "id": "moskstraumen",
+      "milestone": "Moskstraumen",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "moskstraumen",
+        "category": "aquatic",
+        "gamerscore": 50,
+        "trophy_type": "Gold"
+      }
+    },
+    {
+      "id": "lion_hunter",
+      "milestone": "Lion Hunter",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "lion_hunter",
+        "category": "zoology",
+        "gamerscore": 15,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "so_i_got_that_going_for_me",
+      "milestone": "So I Got That Going for Me",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "so_i_got_that_going_for_me",
+        "category": "zoology",
+        "gamerscore": 20,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "zoologist",
+      "milestone": "Zoologist",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "zoologist",
+        "category": "zoology",
+        "gamerscore": 40,
+        "trophy_type": "Gold"
+      }
+    },
+    {
+      "id": "iron_man",
+      "milestone": "Iron Man",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "iron_man",
+        "category": "gear_up",
+        "gamerscore": 15,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "camouflage",
+      "milestone": "Camouflage",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "camouflage",
+        "category": "gear_up",
+        "gamerscore": 30,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "archer",
+      "milestone": "Archer",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "archer",
+        "category": "combat",
+        "gamerscore": 10,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "overkill",
+      "milestone": "Overkill",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "overkill",
+        "category": "combat",
+        "gamerscore": 30,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "feeling_ill",
+      "milestone": "Feeling Ill",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "feeling_ill",
+        "category": "combat",
+        "gamerscore": 30,
+        "trophy_type": "Silver"
+      }
+    },
+    {
+      "id": "into_the_nether",
+      "milestone": "Into The Nether",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "into_the_nether",
+        "category": "nether",
+        "gamerscore": 30,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "oooh_shiny",
+      "milestone": "Oooh, shiny!",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "oooh_shiny",
+        "category": "nether",
+        "gamerscore": 30,
+        "trophy_type": "Silver"
+      }
+    },
+    {
+      "id": "hot_tourist_destination",
+      "milestone": "Hot tourist destination",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "hot_tourist_destination",
+        "category": "nether",
+        "gamerscore": 30,
+        "trophy_type": "Silver"
+      }
+    },
+    {
+      "id": "the_beaconator",
+      "milestone": "The Beaconator",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "the_beaconator",
+        "category": "nether",
+        "gamerscore": 60,
+        "trophy_type": "Gold"
+      }
+    },
+    {
+      "id": "the_beginning",
+      "milestone": "The Beginning?",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "the_beginning",
+        "category": "nether",
+        "gamerscore": 20,
+        "trophy_type": "Bronze"
+      }
+    },
+    {
+      "id": "the_beginning",
+      "milestone": "The Beginning.",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "the_beginning",
+        "category": "nether",
+        "gamerscore": 40,
+        "trophy_type": "Silver"
+      }
+    },
+    {
+      "id": "super_sonic",
+      "milestone": "Super Sonic",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "super_sonic",
+        "category": "the_end",
+        "gamerscore": 30,
+        "trophy_type": "Gold"
+      }
+    },
+    {
+      "id": "organizational_wizard",
+      "milestone": "Organizational Wizard",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "organizational_wizard",
+        "category": "the_end",
+        "gamerscore": 30,
+        "trophy_type": "Bronze"
+      }
+    }
+  ],
+  "_stats": {
+    "java_only": [
+      "minecraft:adventure/arbalistic",
+      "minecraft:adventure/blowback",
+      "minecraft:adventure/brush_armadillo",
+      "minecraft:adventure/fall_from_world_height",
+      "minecraft:adventure/hero_of_the_village",
+      "minecraft:adventure/kill_all_mobs",
+      "minecraft:adventure/lighten_up",
+      "minecraft:adventure/lightning_rod_with_villager_no_fire",
+      "minecraft:adventure/minecraft_trials_edition",
+      "minecraft:adventure/ol_betsy",
+      "minecraft:adventure/read_power_of_chiseled_bookshelf",
+      "minecraft:adventure/root",
+      "minecraft:adventure/salvage_sherd",
+      "minecraft:adventure/shoot_arrow",
+      "minecraft:adventure/sleep_in_bed",
+      "minecraft:adventure/spyglass_at_dragon",
+      "minecraft:adventure/spyglass_at_ghast",
+      "minecraft:adventure/spyglass_at_parrot",
+      "minecraft:adventure/summon_iron_golem",
+      "minecraft:adventure/throw_trident",
+      "minecraft:adventure/totem_of_undying",
+      "minecraft:adventure/trade",
+      "minecraft:adventure/trim_with_any_armor_pattern",
+      "minecraft:adventure/two_birds_one_arrow",
+      "minecraft:adventure/under_lock_and_key",
+      "minecraft:adventure/use_lodestone",
+      "minecraft:adventure/very_very_frightening",
+      "minecraft:adventure/voluntary_exile",
+      "minecraft:adventure/walk_on_powder_snow_with_leather_boots",
+      "minecraft:adventure/whos_the_pillager_now",
+      "minecraft:end/dragon_egg",
+      "minecraft:end/elytra",
+      "minecraft:end/enter_end_gateway",
+      "minecraft:end/find_end_city",
+      "minecraft:end/kill_dragon",
+      "minecraft:husbandry/allay_deliver_item_to_player",
+      "minecraft:husbandry/axolotl_in_a_bucket",
+      "minecraft:husbandry/balanced_diet",
+      "minecraft:husbandry/bred_all_animals",
+      "minecraft:husbandry/breed_an_animal",
+      "minecraft:husbandry/complete_catalogue",
+      "minecraft:husbandry/feed_snifflet",
+      "minecraft:husbandry/fishy_business",
+      "minecraft:husbandry/leash_all_frog_variants",
+      "minecraft:husbandry/make_a_sign_glow",
+      "minecraft:husbandry/obtain_netherite_hoe",
+      "minecraft:husbandry/obtain_sniffer_egg",
+      "minecraft:husbandry/plant_seed",
+      "minecraft:husbandry/remove_wolf_armor",
+      "minecraft:husbandry/repair_wolf_armor",
+      "minecraft:husbandry/root",
+      "minecraft:husbandry/tactical_fishing",
+      "minecraft:husbandry/tadpole_in_a_bucket",
+      "minecraft:husbandry/tame_an_animal",
+      "minecraft:husbandry/wax_off",
+      "minecraft:husbandry/wax_on",
+      "minecraft:husbandry/whole_pack",
+      "minecraft:nether/all_effects",
+      "minecraft:nether/all_potions",
+      "minecraft:nether/charge_respawn_anchor",
+      "minecraft:nether/create_beacon",
+      "minecraft:nether/create_full_beacon",
+      "minecraft:nether/distract_piglin",
+      "minecraft:nether/explore_nether",
+      "minecraft:nether/fast_travel",
+      "minecraft:nether/find_bastion",
+      "minecraft:nether/find_fortress",
+      "minecraft:nether/get_wither_skull",
+      "minecraft:nether/loot_bastion",
+      "minecraft:nether/obtain_ancient_debris",
+      "minecraft:nether/obtain_crying_obsidian",
+      "minecraft:nether/ride_strider",
+      "minecraft:nether/root",
+      "minecraft:nether/summon_wither",
+      "minecraft:nether/uneasy_alliance",
+      "minecraft:recipes/root",
+      "minecraft:story/deflect_arrow",
+      "minecraft:story/enter_the_nether",
+      "minecraft:story/follow_ender_eye",
+      "minecraft:story/form_obsidian",
+      "minecraft:story/iron_tools",
+      "minecraft:story/lava_bucket",
+      "minecraft:story/mine_stone",
+      "minecraft:story/obtain_armor",
+      "minecraft:story/root",
+      "minecraft:story/shiny_gear"
+    ],
+    "bedrock_only": [
+      "awarded_all_trophies",
+      "music_to_my_ears",
+      "change_of_sheets",
+      "taking_inventory",
+      "getting_wood",
+      "benchmaking",
+      "time_to_mine",
+      "time_to_strike",
+      "moar_tools",
+      "hot_topic",
+      "renewable_energy",
+      "pork_chop",
+      "passing_the_time",
+      "on_a_rail",
+      "trampoline",
+      "caves_and_cliffs",
+      "diamonds_to_you",
+      "chestful_of_cobblestone",
+      "super_fuel",
+      "time_to_farm",
+      "repopulation",
+      "cow_tipper",
+      "when_pigs_fly",
+      "leader_of_the_pack",
+      "have_a_shearful_day",
+      "rainbow_collection",
+      "artificial_selection",
+      "saddle_up",
+      "bake_bread",
+      "the_lie",
+      "delicious_fish",
+      "iron_belly",
+      "rabbit_season",
+      "time_for_stew",
+      "top_of_the_world",
+      "pot_planter",
+      "it_s_a_sign",
+      "wax_on_wax_off",
+      "the_haggler",
+      "body_guard",
+      "tie_dye_outfit",
+      "where_have_you_been",
+      "plethora_of_cats",
+      "fruit_on_the_loom",
+      "kill_the_beast",
+      "buy_low_sell_high",
+      "disenchanted",
+      "we_re_being_attacked",
+      "sound_the_alarm",
+      "i_ve_got_a_bad_feeling_about_this",
+      "master_trader",
+      "treasure_hunter",
+      "librarian",
+      "overpowered",
+      "stayin_frosty",
+      "map_room",
+      "taste_of_your_own_medicine",
+      "beam_me_up",
+      "cheating_death",
+      "let_it_go",
+      "dispense_with_this",
+      "freight_station",
+      "smelt_everything",
+      "inception",
+      "dry_spell",
+      "free_diver",
+      "atlantis",
+      "sail_the_7_seas",
+      "castaway",
+      "ahoy",
+      "i_am_a_marine_biologist",
+      "one_pickle_two_pickle_sea_pickle_four",
+      "echolocation",
+      "me_gold",
+      "sleep_with_the_fishes",
+      "alternative_fuel",
+      "do_a_barrel_roll",
+      "the_deep_end",
+      "moskstraumen",
+      "lion_hunter",
+      "so_i_got_that_going_for_me",
+      "zoologist",
+      "iron_man",
+      "camouflage",
+      "archer",
+      "overkill",
+      "feeling_ill",
+      "into_the_nether",
+      "oooh_shiny",
+      "hot_tourist_destination",
+      "the_beaconator",
+      "the_beginning",
+      "the_beginning",
+      "super_sonic",
+      "organizational_wizard"
+    ]
+  }
+}
