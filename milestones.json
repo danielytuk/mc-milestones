@@ -1,12 +1,12 @@
 {
-  "generated": "2026-06-14",
-  "java_version": "26.1.2",
-  "java_advancement_count": 126,
-  "bedrock_achievement_count": 135,
-  "total_milestones": 223,
+  "generated": "2026-06-21",
+  "java_version": "26.2",
+  "java_advancement_count": 127,
+  "bedrock_achievement_count": 136,
+  "total_milestones": 225,
   "matched_count": 42,
-  "java_only_count": 86,
-  "bedrock_only_count": 95,
+  "java_only_count": 87,
+  "bedrock_only_count": 96,
   "milestones": [
     {
       "id": "adventuring_time",
@@ -1408,6 +1408,18 @@
       ],
       "java": {
         "id": "minecraft:husbandry/tame_an_animal",
+        "category": "husbandry"
+      },
+      "bedrock": null
+    },
+    {
+      "id": "uh_oh",
+      "milestone": "Uh Oh",
+      "editions": [
+        "java"
+      ],
+      "java": {
+        "id": "minecraft:husbandry/uh_oh",
         "category": "husbandry"
       },
       "bedrock": null
@@ -3125,6 +3137,20 @@
         "gamerscore": 30,
         "trophy_type": "Bronze"
       }
+    },
+    {
+      "id": "uh_oh",
+      "milestone": "Uh-oh.",
+      "editions": [
+        "bedrock"
+      ],
+      "java": null,
+      "bedrock": {
+        "id": "uh_oh",
+        "category": "other",
+        "gamerscore": 10,
+        "trophy_type": "Bronze"
+      }
     }
   ],
   "_stats": {
@@ -3183,6 +3209,7 @@
       "minecraft:husbandry/tactical_fishing",
       "minecraft:husbandry/tadpole_in_a_bucket",
       "minecraft:husbandry/tame_an_animal",
+      "minecraft:husbandry/uh_oh",
       "minecraft:husbandry/wax_off",
       "minecraft:husbandry/wax_on",
       "minecraft:husbandry/whole_pack",
@@ -3311,7 +3338,8 @@
       "the_beginning",
       "the_beginning",
       "super_sonic",
-      "organizational_wizard"
+      "organizational_wizard",
+      "uh_oh"
     ]
   }
 }

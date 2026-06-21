@@ -2,7 +2,7 @@
   "source": "https://minecraft.wiki/w/Achievement",
   "source_license": "CC BY-NC-SA 3.0",
   "translation_source": "https://github.com/Mojang/bedrock-samples",
-  "fetched": "2026-06-14",
+  "fetched": "2026-06-21",
   "locales": [
     "bg_BG",
     "cs_CZ",
@@ -34,9 +34,9 @@
     "zh_CN",
     "zh_TW"
   ],
-  "total": 135,
+  "total": 136,
   "translated_count": 31,
-  "untranslated_count": 104,
+  "untranslated_count": 105,
   "achievements": [
     {
       "id": "awarded_all_trophies",
@@ -749,7 +749,7 @@
       "description": {
         "translate": "achievement.exploreAllBiomes.desc",
         "localized": {
-          "bg_BG": "Открийте всички биоми",
+          "bg_BG": "Открийте всички зони",
           "cs_CZ": "Objevte všechny biomy.",
           "da_DK": "Find alle biomer",
           "de_DE": "Entdecke alle Biome",
@@ -979,7 +979,7 @@
       "description": {
         "translate": "achievement.acquireIron.desc",
         "localized": {
-          "bg_BG": "Претопете руда в железен слитък",
+          "bg_BG": "Претопете руда в желязно кюлче",
           "cs_CZ": "Roztavte železný ingot.",
           "da_DK": "Smelt en jernbarre",
           "de_DE": "Schmilz einen Eisenbarren",
@@ -1970,7 +1970,7 @@
           "fi_FI": "Hauduta juoma",
           "fr_CA": "Concocter une potion",
           "fr_FR": "Concocter une potion.",
-          "hu_HU": "Főz egy bájitalt",
+          "hu_HU": "Főzz egy bájitalt",
           "id_ID": "Buat Ramuan",
           "it_IT": "Prepara una pozione.",
           "ja_JP": "ポーションを醸造する",
@@ -3140,7 +3140,7 @@
       "description": {
         "translate": "achievement.alternativeFuel.desc",
         "localized": {
-          "bg_BG": "Захранете пещ с блок от келп",
+          "bg_BG": "Захранете пещ с блок от водорасло",
           "cs_CZ": "Zatopte v peci chaluhovým blokem.",
           "da_DK": "Fyr op i en ovn med en blok af tang",
           "de_DE": "Befeuere einen Ofen mit einem Seetangblock.",
@@ -3149,7 +3149,7 @@
           "en_US": "Power a furnace with a kelp block",
           "es_ES": "Enciende un horno con un bloque de algas marinas",
           "es_MX": "Prende un horno con un bloque de algas",
-          "fi_FI": "Käytä masuunia merileväkuutiolla",
+          "fi_FI": "Käytä uunia rakkoeväkuutiolla",
           "fr_CA": "Alimenter un fourneau avec un bloc de varech",
           "fr_FR": "Alimenter un fourneau avec un bloc d’algue",
           "hu_HU": "Táplálj egy kemencét hínár blokkal",
@@ -3827,7 +3827,7 @@
       "description": {
         "translate": "achievement.ghast.desc",
         "localized": {
-          "bg_BG": "Унищожете огнен призрак с огнено кълбо",
+          "bg_BG": "Унищожете огнен призрак с огнена топка",
           "cs_CZ": "Zničte ďasa ohnivou koulí.",
           "da_DK": "Tilintetgør en ghast med en ildkugle",
           "de_DE": "Zerstöre einen Ghast mit einem Feuerball",
@@ -4398,6 +4398,25 @@
       "gamerscore": 10,
       "trophy_type": "Bronze",
       "rewards": "[[File:Victor's Gauntlets.png|60px]]<br>\"Victor's Gauntlets\" gloves",
+      "category": "other",
+      "category_display": "Other"
+    },
+    {
+      "id": "uh_oh",
+      "title": {
+        "localized": {
+          "en_US": "Uh-oh."
+        }
+      },
+      "description": {
+        "localized": {
+          "en_US": "Have a Sulfur Cube absorb a TNT block."
+        }
+      },
+      "actual_requirements": null,
+      "gamerscore": 10,
+      "trophy_type": "Bronze",
+      "rewards": null,
       "category": "other",
       "category_display": "Other"
     }
