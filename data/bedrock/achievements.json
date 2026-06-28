@@ -2,7 +2,7 @@
   "source": "https://minecraft.wiki/w/Achievement",
   "source_license": "CC BY-NC-SA 3.0",
   "translation_source": "https://github.com/Mojang/bedrock-samples",
-  "fetched": "2026-06-21",
+  "fetched": "2026-06-28",
   "locales": [
     "bg_BG",
     "cs_CZ",
@@ -1529,7 +1529,7 @@
           "en_US": "Befriend five wolves."
         }
       },
-      "actual_requirements": "Note: This does not have to be in a single game, so multiple games or reloading old saves does count toward this achievement.",
+      "actual_requirements": "Note: This does not have to be in a single game, so multiple games or reloading old saves still counts toward this achievement.",
       "gamerscore": 20,
       "trophy_type": "Bronze",
       "rewards": "[[File:Wolf Mask.png|60px]]<br>\"Wolf Mask\" headwear",
@@ -2771,7 +2771,7 @@
           "en_US": "Use the Totem of Undying to cheat death"
         }
       },
-      "actual_requirements": "Have the totem of undying in your hand when you die.",
+      "actual_requirements": "Have the totem of undying in your hand when you take fatal damage.",
       "gamerscore": 30,
       "trophy_type": "Silver",
       "rewards": "[[File:Fake Death.png|60px]]<br>\"Fake Death\" emote",
@@ -3781,7 +3781,7 @@
           "en_US": "Construct a Nether Portal."
         }
       },
-      "actual_requirements": "Light a nether portal.",
+      "actual_requirements": "Enter a Nether portal.",
       "gamerscore": 30,
       "trophy_type": "Bronze",
       "rewards": "[[File:Feel the Nether.png|60px]]<br>\"Feel the Nether\" base",
