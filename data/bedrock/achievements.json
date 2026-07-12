@@ -2,7 +2,7 @@
   "source": "https://minecraft.wiki/w/Achievement",
   "source_license": "CC BY-NC-SA 3.0",
   "translation_source": "https://github.com/Mojang/bedrock-samples",
-  "fetched": "2026-07-05",
+  "fetched": "2026-07-12",
   "locales": [
     "bg_BG",
     "cs_CZ",
@@ -4413,7 +4413,7 @@
           "en_US": "Have a Sulfur Cube absorb a TNT block."
         }
       },
-      "actual_requirements": null,
+      "actual_requirements": "Specifically, you must press the use button to directly put the TNT into the Sulfur Cube, as dropping the TNT on the ground and having the Sulfur Cube absorb it itself does not trigger the achievement.",
       "gamerscore": 10,
       "trophy_type": "Bronze",
       "rewards": null,
