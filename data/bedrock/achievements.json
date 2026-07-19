@@ -2,7 +2,7 @@
   "source": "https://minecraft.wiki/w/Achievement",
   "source_license": "CC BY-NC-SA 3.0",
   "translation_source": "https://github.com/Mojang/bedrock-samples",
-  "fetched": "2026-07-12",
+  "fetched": "2026-07-19",
   "locales": [
     "bg_BG",
     "cs_CZ",
@@ -2426,7 +2426,7 @@
           "en_US": "Trade with a villager at the build height limit."
         }
       },
-      "actual_requirements": null,
+      "actual_requirements": "Trade with a villager at Y320.",
       "gamerscore": 20,
       "trophy_type": "Silver",
       "rewards": null,
