@@ -2,7 +2,7 @@
   "source": "https://minecraft.wiki/w/Achievement",
   "source_license": "CC BY-NC-SA 3.0",
   "translation_source": "https://github.com/Mojang/bedrock-samples",
-  "fetched": "2026-07-26",
+  "fetched": "2026-08-02",
   "locales": [
     "bg_BG",
     "cs_CZ",
@@ -2065,7 +2065,7 @@
           "en_US": "Place scaffolding to the world limit."
         }
       },
-      "actual_requirements": "Place a scaffolding at the world height limit.",
+      "actual_requirements": "Place scaffolding at Y319 in the Overworld",
       "gamerscore": 20,
       "trophy_type": "Bronze",
       "rewards": null,
@@ -2160,7 +2160,7 @@
           "en_US": "Acquire or spend 30 Emeralds by trading with villagers or with wandering trader."
         }
       },
-      "actual_requirements": null,
+      "actual_requirements": "The Emeralds Acquired or spent does not have to be earned in the same world.",
       "gamerscore": 30,
       "trophy_type": "Silver",
       "rewards": "[[File:Emerald Suit Coat.png|60px]]<br>\"Emerald Suit Coat\" outerwear",
@@ -4356,7 +4356,7 @@
           "en_US": "Use Elytra to fly through a 1 by 1 gap while moving faster than 40 m/s"
         }
       },
-      "actual_requirements": null,
+      "actual_requirements": "The 1x1 block gap does not need to be on the wall, you can fly into a 1x1 block gap whether its on the top, bottom, or side.",
       "gamerscore": 30,
       "trophy_type": "Gold",
       "rewards": null,
