@@ -2,7 +2,7 @@
   "source": "https://minecraft.wiki/w/Achievement",
   "source_license": "CC BY-NC-SA 3.0",
   "translation_source": "https://github.com/Mojang/bedrock-samples",
-  "fetched": "2026-08-02",
+  "fetched": "2026-08-09",
   "locales": [
     "bg_BG",
     "cs_CZ",
@@ -2426,7 +2426,7 @@
           "en_US": "Trade with a villager at the build height limit."
         }
       },
-      "actual_requirements": "Trade with a villager at Y320.",
+      "actual_requirements": "Trade with a villager at Y319.",
       "gamerscore": 20,
       "trophy_type": "Silver",
       "rewards": null,
@@ -2679,7 +2679,7 @@
       "actual_requirements": null,
       "gamerscore": 30,
       "trophy_type": "Silver",
-      "rewards": "[[File:Diamond Bod.png|60px]]<br>\"Diamond Bod\" base",
+      "rewards": "[[File:Diamond Bod.png|60px]]<br>\"Diamond Bod\"{{sic}} base",
       "category": "feels_like_magic",
       "category_display": "Feels like magic"
     },
@@ -3149,7 +3149,7 @@
           "en_US": "Power a furnace with a kelp block",
           "es_ES": "Enciende un horno con un bloque de algas marinas",
           "es_MX": "Prende un horno con un bloque de algas",
-          "fi_FI": "Käytä uunia rakkoeväkuutiolla",
+          "fi_FI": "Käytä uunia rakkoleväkuutiolla",
           "fr_CA": "Alimenter un fourneau avec un bloc de varech",
           "fr_FR": "Alimenter un fourneau avec un bloc d’algue",
           "hu_HU": "Táplálj egy kemencét hínár blokkal",
@@ -4056,7 +4056,7 @@
           "fr_FR": "Le commencement ?",
           "hu_HU": "A Kezdet?",
           "id_ID": "Awal?",
-          "it_IT": "Inizio",
+          "it_IT": "L’inizio?",
           "ja_JP": "はじまり?",
           "ko_KR": "시작이야?",
           "nb_NO": "Begynnelsen?",
@@ -4133,7 +4133,7 @@
           "fr_FR": "Le commencement.",
           "hu_HU": "A Kezdet.",
           "id_ID": "Awal.",
-          "it_IT": "Inizio.",
+          "it_IT": "L’inizio.",
           "ja_JP": "はじまり。",
           "ko_KR": "시작이야.",
           "nb_NO": "Begynnelsen.",
