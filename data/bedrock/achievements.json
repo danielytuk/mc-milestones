@@ -2,7 +2,7 @@
   "source": "https://minecraft.wiki/w/Achievement",
   "source_license": "CC BY-NC-SA 3.0",
   "translation_source": "https://github.com/Mojang/bedrock-samples",
-  "fetched": "2026-08-09",
+  "fetched": "2026-08-16",
   "locales": [
     "bg_BG",
     "cs_CZ",
@@ -245,7 +245,7 @@
       "actual_requirements": "Pick up a log from the ground.",
       "gamerscore": 10,
       "trophy_type": "Bronze",
-      "rewards": "[[File:Lumberjack Shirt.png|60px]]<br>\"Lumberjack Shirt\" top",
+      "rewards": null,
       "category": "getting_started",
       "category_display": "Getting started"
     },
@@ -264,7 +264,7 @@
       "actual_requirements": "Pick up a crafting table from the inventory's crafting field output or a crafting table output.",
       "gamerscore": 10,
       "trophy_type": "Bronze",
-      "rewards": "[[File:Tool Belt Trousers.png|60px]]<br>\"Tool Belt Trousers\" bottom",
+      "rewards": null,
       "category": "getting_started",
       "category_display": "Getting started"
     },
@@ -341,7 +341,7 @@
       "actual_requirements": "Pick up a wooden pickaxe from a crafting table output.",
       "gamerscore": 10,
       "trophy_type": "Bronze",
-      "rewards": "[[File:Miner Headband.png|60px]]<br>\"Miner Headband\" headwear",
+      "rewards": null,
       "category": "getting_started",
       "category_display": "Getting started"
     },
@@ -418,7 +418,7 @@
       "actual_requirements": "Pick up any type of sword from a crafting table output.",
       "gamerscore": 10,
       "trophy_type": "Bronze",
-      "rewards": "[[File:Dummy Top.png|60px]]<br>\"Dummy Top\" top",
+      "rewards": null,
       "category": "getting_started",
       "category_display": "Getting started"
     },
@@ -495,7 +495,7 @@
       "actual_requirements": "Other mobs may be killed, but are ignored for this achievement.",
       "gamerscore": 15,
       "trophy_type": "Bronze",
-      "rewards": "[[File:Victor's Tunic.png|60px]]<br>\"Victor's Tunic\" top",
+      "rewards": null,
       "category": "getting_started",
       "category_display": "Getting started"
     },
@@ -572,7 +572,7 @@
       "actual_requirements": "Pick up a stone pickaxe from a crafting table output.",
       "gamerscore": 15,
       "trophy_type": "Bronze",
-      "rewards": "[[File:Shiny Shirt.png|60px]]<br>\"Shiny Shirt\" top",
+      "rewards": null,
       "category": "getting_started",
       "category_display": "Getting started"
     },
@@ -591,7 +591,7 @@
       "actual_requirements": "Construct one pickaxe, one shovel, one axe, and one hoe with the same material.",
       "gamerscore": 15,
       "trophy_type": "Bronze",
-      "rewards": "[[File:Hotbar Hat.png|60px]]<br>\"Hotbar Hat\" headwear",
+      "rewards": null,
       "category": "getting_started",
       "category_display": "Getting started"
     },
@@ -668,7 +668,7 @@
       "actual_requirements": "Pick up a furnace from a crafting table output.",
       "gamerscore": 15,
       "trophy_type": "Bronze",
-      "rewards": "[[File:Furnace Mask.png|60px]]<br>\"Furnace Mask\" face item",
+      "rewards": null,
       "category": "getting_started",
       "category_display": "Getting started"
     },
@@ -687,7 +687,7 @@
       "actual_requirements": "Smelt a wooden log with charcoal as the fuel.",
       "gamerscore": 10,
       "trophy_type": "Bronze",
-      "rewards": "[[File:Wind Turbine.png|60px]]<br>\"Wind Turbine\" back item",
+      "rewards": null,
       "category": "getting_started",
       "category_display": "Getting started"
     },
@@ -706,7 +706,7 @@
       "actual_requirements": null,
       "gamerscore": 10,
       "trophy_type": "Bronze",
-      "rewards": "[[File:Porkchop Munching.png|60px]]<br>\"Porkchop Munching\" face item",
+      "rewards": null,
       "category": "getting_started",
       "category_display": "Getting started"
     },
@@ -783,7 +783,7 @@
       "actual_requirements": "Visit any 17 biomes. Does not have to be in a single world.",
       "gamerscore": 40,
       "trophy_type": "Silver",
-      "rewards": "[[File:The Pickaxe.png|60px]]<br>\"The Pickaxe\" emote",
+      "rewards": null,
       "category": "exploring_your_world",
       "category_display": "Exploring your world"
     },
@@ -802,7 +802,7 @@
       "actual_requirements": "Play for 100 Minecraft days, which is roughly equivalent to 33 hours in real time (if the player has not slept).",
       "gamerscore": 20,
       "trophy_type": "Bronze",
-      "rewards": "[[File:Very Long Hair.png|60px]]<br>\"Very Long Hair\" hair",
+      "rewards": null,
       "category": "exploring_your_world",
       "category_display": "Exploring your world"
     },
@@ -879,7 +879,7 @@
       "actual_requirements": "Travel by minecart 500 blocks in a straight line away from the player's starting point.",
       "gamerscore": 40,
       "trophy_type": "Gold",
-      "rewards": "[[File:Conductor Hat.png|60px]]<br>\"Conductor Hat\" headwear",
+      "rewards": null,
       "category": "exploring_your_world",
       "category_display": "Exploring your world"
     },
@@ -898,7 +898,7 @@
       "actual_requirements": null,
       "gamerscore": 15,
       "trophy_type": "Bronze",
-      "rewards": "[[File:Slime (Base).png|60px]]<br>\"Slime\" base",
+      "rewards": null,
       "category": "exploring_your_world",
       "category_display": "Exploring your world"
     },
@@ -917,7 +917,7 @@
       "actual_requirements": null,
       "gamerscore": 30,
       "trophy_type": "Gold",
-      "rewards": "[[File:Bucket Boot.png|60px]]<br>\"Bucket Boot\" footwear",
+      "rewards": null,
       "category": "exploring_your_world",
       "category_display": "Exploring your world"
     },
@@ -936,7 +936,7 @@
       "actual_requirements": "a music disc on a jukebox in the Meadow biome.",
       "gamerscore": 10,
       "trophy_type": "Bronze",
-      "rewards": "[[File:Floral Tunes.png|60px]]<br>\"Floral Tunes\" headwear",
+      "rewards": null,
       "category": "exploring_your_world",
       "category_display": "Exploring your world"
     },
@@ -1013,7 +1013,7 @@
       "actual_requirements": "Pick up an iron ingot from a furnace output.",
       "gamerscore": 15,
       "trophy_type": "Bronze",
-      "rewards": "[[File:Hammering.png|60px]]<br>\"Hammering\" emote",
+      "rewards": null,
       "category": "mining",
       "category_display": "Mining"
     },
@@ -1090,7 +1090,7 @@
       "actual_requirements": "Pick up a diamond from the ground.",
       "gamerscore": 20,
       "trophy_type": "Bronze",
-      "rewards": "[[File:DIAMOND CROWN.png|60px]]<br>\"DIAMOND CROWN\" headwear",
+      "rewards": null,
       "category": "mining",
       "category_display": "Mining"
     },
@@ -1167,7 +1167,7 @@
       "actual_requirements": "a diamond. Another player or a zombie must then pick up this diamond.",
       "gamerscore": 15,
       "trophy_type": "Bronze",
-      "rewards": "[[File:Silly.png|60px]]<br>\"Silly\" emote",
+      "rewards": null,
       "category": "mining",
       "category_display": "Mining"
     },
@@ -1186,7 +1186,7 @@
       "actual_requirements": "A player must open a chest that contains 27 stacks of cobblestone.",
       "gamerscore": 20,
       "trophy_type": "Bronze",
-      "rewards": "[[File:Cobblestone (Base).png|60px]]<br>\"Cobblestone\" base",
+      "rewards": null,
       "category": "mining",
       "category_display": "Mining"
     },
@@ -1205,7 +1205,7 @@
       "actual_requirements": "Smelt an item using a lava bucket on a furnace, blast furnace or smoker and pick up the resulting item from the output slot.",
       "gamerscore": 20,
       "trophy_type": "Bronze",
-      "rewards": "[[File:Energy Pack.png|60px]]<br>\"Energy Pack\" back item",
+      "rewards": null,
       "category": "mining",
       "category_display": "Mining"
     },
@@ -1282,7 +1282,7 @@
       "actual_requirements": "Pick up any type of hoe from a crafting table output.",
       "gamerscore": 10,
       "trophy_type": "Bronze",
-      "rewards": "[[File:Wheat Toothpick.png|60px]]<br>\"Wheat Toothpick\" face item",
+      "rewards": null,
       "category": "farming_husbandry",
       "category_display": "Farming & Husbandry"
     },
@@ -1359,7 +1359,7 @@
       "actual_requirements": "Breed two cows or two mooshrooms.",
       "gamerscore": 15,
       "trophy_type": "Bronze",
-      "rewards": "[[File:Cowbell Necklace.png|60px]]<br>\"Cowbell Necklace\" outerwear",
+      "rewards": null,
       "category": "farming_husbandry",
       "category_display": "Farming & Husbandry"
     },
@@ -1436,7 +1436,7 @@
       "actual_requirements": "Pick up leather from the ground or via fishing.",
       "gamerscore": 15,
       "trophy_type": "Bronze",
-      "rewards": "[[File:Faceplant.png|60px]]<br>\"Faceplant\" emote",
+      "rewards": null,
       "category": "farming_husbandry",
       "category_display": "Farming & Husbandry"
     },
@@ -1513,7 +1513,7 @@
       "actual_requirements": "Be riding a pig (e.g. using a saddle) when it hits the ground with a fall distance greater than 5.",
       "gamerscore": 40,
       "trophy_type": "Silver",
-      "rewards": "[[File:Winged Pig Boots.png|60px]]<br>\"Winged Pig Boots\" footwear",
+      "rewards": null,
       "category": "farming_husbandry",
       "category_display": "Farming & Husbandry"
     },
@@ -1532,7 +1532,7 @@
       "actual_requirements": "Note: This does not have to be in a single game, so multiple games or reloading old saves still counts toward this achievement.",
       "gamerscore": 20,
       "trophy_type": "Bronze",
-      "rewards": "[[File:Wolf Mask.png|60px]]<br>\"Wolf Mask\" headwear",
+      "rewards": null,
       "category": "farming_husbandry",
       "category_display": "Farming & Husbandry"
     },
@@ -1551,7 +1551,7 @@
       "actual_requirements": null,
       "gamerscore": 15,
       "trophy_type": "Bronze",
-      "rewards": "[[File:Wooled.png|60px]]<br>\"Wooled\" outerwear",
+      "rewards": null,
       "category": "farming_husbandry",
       "category_display": "Farming & Husbandry"
     },
@@ -1570,7 +1570,7 @@
       "actual_requirements": "All the colors of wool do not have to be in the inventory at the same time, but must have been picked up by the player at least once.",
       "gamerscore": 30,
       "trophy_type": "Silver",
-      "rewards": "[[File:Rainbow Sweater.png|60px]]<br>\"Rainbow Sweater\" top",
+      "rewards": null,
       "category": "farming_husbandry",
       "category_display": "Farming & Husbandry"
     },
@@ -1589,7 +1589,7 @@
       "actual_requirements": null,
       "gamerscore": 30,
       "trophy_type": "Bronze",
-      "rewards": "[[File:Horse Mask.png|60px]]<br>\"Horse Mask\" headwear",
+      "rewards": null,
       "category": "farming_husbandry",
       "category_display": "Farming & Husbandry"
     },
@@ -1608,7 +1608,7 @@
       "actual_requirements": null,
       "gamerscore": 15,
       "trophy_type": "Bronze",
-      "rewards": "[[File:Honey Pot.png|60px]]<br>\"Honey Pot\" headwear",
+      "rewards": null,
       "category": "farming_husbandry",
       "category_display": "Farming & Husbandry"
     },
@@ -1627,7 +1627,7 @@
       "actual_requirements": null,
       "gamerscore": 30,
       "trophy_type": "Silver",
-      "rewards": "[[File:Beekeeper Hat.png|60px]]<br>\"Beekeeper Hat\" headwear",
+      "rewards": null,
       "category": "farming_husbandry",
       "category_display": "Farming & Husbandry"
     },
@@ -1646,7 +1646,7 @@
       "actual_requirements": null,
       "gamerscore": 30,
       "trophy_type": "Silver",
-      "rewards": "[[File:Beekeeper Suit.png|60px]]<br>\"Beekeeper Suit\" outerwear",
+      "rewards": null,
       "category": "farming_husbandry",
       "category_display": "Farming & Husbandry"
     },
@@ -1665,7 +1665,7 @@
       "actual_requirements": null,
       "gamerscore": 20,
       "trophy_type": "Bronze",
-      "rewards": "[[File:Cowpoke Chaps.png|60px]]<br>\"Cowpoke Chaps\" bottom",
+      "rewards": null,
       "category": "farming_husbandry",
       "category_display": "Farming & Husbandry"
     },
@@ -1684,7 +1684,7 @@
       "actual_requirements": "Use a boat and put a goat inside that boat, then ride it.",
       "gamerscore": 20,
       "trophy_type": "Bronze",
-      "rewards": "[[File:Goat Floaties.png|60px]]<br>\"Goat Floaties\" outerwear",
+      "rewards": null,
       "category": "farming_husbandry",
       "category_display": "Farming & Husbandry"
     },
@@ -1761,7 +1761,7 @@
       "actual_requirements": "Pick up bread from a crafting table output.",
       "gamerscore": 15,
       "trophy_type": "Bronze",
-      "rewards": "[[File:Chefs Hat.png|60px]]<br>\"Chefs Hat\" headwear",
+      "rewards": null,
       "category": "culinary_exploits",
       "category_display": "Culinary exploits"
     },
@@ -1838,7 +1838,7 @@
       "actual_requirements": "Pick up a cake from a crafting table output.",
       "gamerscore": 30,
       "trophy_type": "Bronze",
-      "rewards": "[[File:Cake Apron.png|60px]]<br>\"Cake Apron\" outerwear",
+      "rewards": null,
       "category": "culinary_exploits",
       "category_display": "Culinary exploits"
     },
@@ -1915,7 +1915,7 @@
       "actual_requirements": "Pick up a cooked cod after cooking it in a furnace, smoker, campfire, or soul campfire., Note: This does not work if the block used is connected to a hopper underneath, as the player is not getting the item directly from the output.",
       "gamerscore": 15,
       "trophy_type": "Silver",
-      "rewards": "[[File:Fisherman Hat.png|60px]]<br>\"Fisherman Hat\" headwear",
+      "rewards": null,
       "category": "culinary_exploits",
       "category_display": "Culinary exploits"
     },
@@ -1992,7 +1992,7 @@
       "actual_requirements": "Pick up a potion from a brewing stand potion slot. An already-created potion placed and removed qualifies.",
       "gamerscore": 15,
       "trophy_type": "Bronze",
-      "rewards": "[[File:Witch Hat.png|60px]]<br>\"Witch Hat\" headwear",
+      "rewards": null,
       "category": "culinary_exploits",
       "category_display": "Culinary exploits"
     },
@@ -2011,7 +2011,7 @@
       "actual_requirements": "Eat a piece of rotten flesh while at hunger points.",
       "gamerscore": 20,
       "trophy_type": "Bronze",
-      "rewards": "[[File:A Hunger.png|60px]]<br>\"A Hunger?\" outerwear",
+      "rewards": null,
       "category": "culinary_exploits",
       "category_display": "Culinary exploits"
     },
@@ -2030,7 +2030,7 @@
       "actual_requirements": null,
       "gamerscore": 15,
       "trophy_type": "Bronze",
-      "rewards": "[[File:Hunter's Hat.png|60px]]<br>\"Hunter's Hat\" headwear",
+      "rewards": null,
       "category": "culinary_exploits",
       "category_display": "Culinary exploits"
     },
@@ -2049,7 +2049,7 @@
       "actual_requirements": "a suspicious stew. Another player must then pick up this suspicious stew.",
       "gamerscore": 20,
       "trophy_type": "Bronze",
-      "rewards": "[[File:Witch's Robe.png|60px]]<br>\"Witch's Robe\" outerwear",
+      "rewards": null,
       "category": "culinary_exploits",
       "category_display": "Culinary exploits"
     },
@@ -2065,7 +2065,7 @@
           "en_US": "Place scaffolding to the world limit."
         }
       },
-      "actual_requirements": "Place scaffolding at Y319 in the Overworld",
+      "actual_requirements": "Place scaffolding at either Y319 in the Overworld or Y127 in the Nether.",
       "gamerscore": 20,
       "trophy_type": "Bronze",
       "rewards": null,
@@ -2087,7 +2087,7 @@
       "actual_requirements": null,
       "gamerscore": 15,
       "trophy_type": "Bronze",
-      "rewards": "[[File:Flower Pot Shoes.png|60px]]<br>\"Flower Pot Shoes\" footwear",
+      "rewards": null,
       "category": "building_decorating",
       "category_display": "Building & Decorating"
     },
@@ -2106,7 +2106,7 @@
       "actual_requirements": null,
       "gamerscore": 15,
       "trophy_type": "Bronze",
-      "rewards": "[[File:Divination Cape.png|60px]]<br>\"Divination Cape\" outerwear",
+      "rewards": null,
       "category": "building_decorating",
       "category_display": "Building & Decorating"
     },
@@ -2125,7 +2125,7 @@
       "actual_requirements": "Wax and de-wax each oxidation stage of the 4 original copper blocks in the game: blocks of copper, cut copper blocks, cut copper stairs, and cut copper slabs.",
       "gamerscore": 30,
       "trophy_type": "Silver",
-      "rewards": "[[File:Copper Headband.png|60px]]<br>\"Copper Headband\" headwear",
+      "rewards": null,
       "category": "building_decorating",
       "category_display": "Building & Decorating"
     },
@@ -2144,7 +2144,7 @@
       "actual_requirements": null,
       "gamerscore": 10,
       "trophy_type": "Bronze",
-      "rewards": "[[File:Pottery Disguise.png|60px]]<br>\"Pottery Disguise\" headwear",
+      "rewards": null,
       "category": "building_decorating",
       "category_display": "Building & Decorating"
     },
@@ -2163,7 +2163,7 @@
       "actual_requirements": "The Emeralds Acquired or spent does not have to be earned in the same world.",
       "gamerscore": 30,
       "trophy_type": "Silver",
-      "rewards": "[[File:Emerald Suit Coat.png|60px]]<br>\"Emerald Suit Coat\" outerwear",
+      "rewards": null,
       "category": "village_pillage",
       "category_display": "Village & Pillage"
     },
@@ -2201,7 +2201,7 @@
       "actual_requirements": null,
       "gamerscore": 15,
       "trophy_type": "Bronze",
-      "rewards": "[[File:Tie Dye Tank.png|60px]]<br>\"Tie Dye Tank\" top",
+      "rewards": null,
       "category": "village_pillage",
       "category_display": "Village & Pillage"
     },
@@ -2220,7 +2220,7 @@
       "actual_requirements": "Throw a splash potion of weakness at a zombie villager and give it a golden apple (by facing the zombie and pressing the key with a golden apple in your hand).",
       "gamerscore": 40,
       "trophy_type": "Gold",
-      "rewards": "[[File:Plague Doctor Mask.png|60px]]<br>\"Plague Doctor Mask\" headwear",
+      "rewards": null,
       "category": "village_pillage",
       "category_display": "Village & Pillage"
     },
@@ -2239,7 +2239,7 @@
       "actual_requirements": "The gift must be picked up from the ground.",
       "gamerscore": 20,
       "trophy_type": "Bronze",
-      "rewards": "[[File:Kitty Face.png|60px]]<br>\"Kitty Face :3\" headwear",
+      "rewards": null,
       "category": "village_pillage",
       "category_display": "Village & Pillage"
     },
@@ -2258,7 +2258,7 @@
       "actual_requirements": "Befriend and tame twenty stray cats found in villages. They do not all need to be tamed in a single world.",
       "gamerscore": 20,
       "trophy_type": "Silver",
-      "rewards": "[[File:Calico Headset.png|60px]]<br>\"Calico Headset\" headwear",
+      "rewards": null,
       "category": "village_pillage",
       "category_display": "Village & Pillage"
     },
@@ -2315,7 +2315,7 @@
       "actual_requirements": "Buy something for 1 emerald, or when the Hero of the Village effect is applied.",
       "gamerscore": 50,
       "trophy_type": "Gold",
-      "rewards": "[[File:Gold Club Jacket.png|60px]]<br>\"Gold Club Jacket\" outerwear",
+      "rewards": null,
       "category": "village_pillage",
       "category_display": "Village & Pillage"
     },
@@ -2372,7 +2372,7 @@
       "actual_requirements": null,
       "gamerscore": 20,
       "trophy_type": "Bronze",
-      "rewards": "[[File:Fake Villager nose.png|60px]]<br>\"Fake Villager nose\" face item",
+      "rewards": null,
       "category": "village_pillage",
       "category_display": "Village & Pillage"
     },
@@ -2391,7 +2391,7 @@
       "actual_requirements": "Drink an Ominous Bottle.",
       "gamerscore": 20,
       "trophy_type": "Bronze",
-      "rewards": "[[File:Victor's Trousers.png|60px]]<br>\"Victor's Trousers\" bottom",
+      "rewards": null,
       "category": "village_pillage",
       "category_display": "Village & Pillage"
     },
@@ -2410,7 +2410,7 @@
       "actual_requirements": "Obtain 1,000 emeralds from trading with villagers.",
       "gamerscore": 30,
       "trophy_type": "Silver",
-      "rewards": "[[File:Emerald Headwrap.png|60px]]<br>\"Emerald Headwrap\" headwear",
+      "rewards": null,
       "category": "village_pillage",
       "category_display": "Village & Pillage"
     },
@@ -2448,7 +2448,7 @@
       "actual_requirements": "Visit the structure indicated while the purchased map is in your main hand (hotbar).",
       "gamerscore": 40,
       "trophy_type": "Silver",
-      "rewards": "[[File:Archeologist's Hat.png|60px]]<br>\"Archaeologist's Hat\" headwear",
+      "rewards": null,
       "category": "village_pillage",
       "category_display": "Village & Pillage"
     },
@@ -2525,7 +2525,7 @@
       "actual_requirements": "Pick up an enchanting table from a crafting table output.",
       "gamerscore": 20,
       "trophy_type": "Bronze",
-      "rewards": "[[File:Enchanters Hat.png|60px]]<br>\"Enchanters Hat\" headwear",
+      "rewards": null,
       "category": "feels_like_magic",
       "category_display": "Feels like magic"
     },
@@ -2602,7 +2602,7 @@
       "actual_requirements": "Pick up a bookshelf from a crafting table output.",
       "gamerscore": 20,
       "trophy_type": "Bronze",
-      "rewards": "[[File:Stack of Books.png|60px]]<br>\"Stack of Books\" headwear",
+      "rewards": null,
       "category": "feels_like_magic",
       "category_display": "Feels like magic"
     },
@@ -2679,7 +2679,7 @@
       "actual_requirements": null,
       "gamerscore": 30,
       "trophy_type": "Silver",
-      "rewards": "[[File:Diamond Bod.png|60px]]<br>\"Diamond Bod\"{{sic}} base",
+      "rewards": null,
       "category": "feels_like_magic",
       "category_display": "Feels like magic"
     },
@@ -2698,7 +2698,7 @@
       "actual_requirements": null,
       "gamerscore": 20,
       "trophy_type": "Bronze",
-      "rewards": "[[File:Lil' Chilly.png|60px]]<br>\"Lil' Chilly\" outerwear",
+      "rewards": null,
       "category": "feels_like_magic",
       "category_display": "Feels like magic"
     },
@@ -2714,10 +2714,10 @@
           "en_US": "Place 9 fully explored, adjacent map items into 9 item frames in a 3 by 3 square."
         }
       },
-      "actual_requirements": "The frames have to be on a wall, not the floor.",
+      "actual_requirements": "The item frames have to be on a 3×3 flat wall; not on the floor nor ceiling. Level 0 maps are the easiest and fastest.",
       "gamerscore": 40,
       "trophy_type": "Silver",
-      "rewards": "[[File:Compass Coat.png|60px]]<br>\"Compass Coat\" top",
+      "rewards": null,
       "category": "feels_like_magic",
       "category_display": "Feels like magic"
     },
@@ -2755,7 +2755,7 @@
       "actual_requirements": "Throw an ender pearl 100 blocks in any direction",
       "gamerscore": 20,
       "trophy_type": "Silver",
-      "rewards": "[[File:Abducted.png|60px]]<br>\"Abducted?\" emote",
+      "rewards": null,
       "category": "feels_like_magic",
       "category_display": "Feels like magic"
     },
@@ -2774,7 +2774,7 @@
       "actual_requirements": "Have the totem of undying in your hand when you take fatal damage.",
       "gamerscore": 30,
       "trophy_type": "Silver",
-      "rewards": "[[File:Fake Death.png|60px]]<br>\"Fake Death\" emote",
+      "rewards": null,
       "category": "feels_like_magic",
       "category_display": "Feels like magic"
     },
@@ -2790,7 +2790,7 @@
           "en_US": "Using the Frost Walker boots, walk on at least 1 block on frozen water on a deep ocean"
         }
       },
-      "actual_requirements": null,
+      "actual_requirements": "Transform water into frosted ice using Frost Walker in a deep ocean biome.",
       "gamerscore": 20,
       "trophy_type": "Bronze",
       "rewards": null,
@@ -2812,7 +2812,7 @@
       "actual_requirements": null,
       "gamerscore": 20,
       "trophy_type": "Bronze",
-      "rewards": "[[File:Dispenser Shirt.png|60px]]<br>\"Dispenser Shirt\" top",
+      "rewards": null,
       "category": "redstone",
       "category_display": "Redstone"
     },
@@ -2850,7 +2850,7 @@
       "actual_requirements": "Be within the range of three chests connected to a Furnace with 3 Hoppers., Note: The demonstration shown in the image would not give the achievement.",
       "gamerscore": 15,
       "trophy_type": "Bronze",
-      "rewards": "[[File:Blacksmith Apron.png|60px]]<br>\"Blacksmith Apron\" outerwear",
+      "rewards": null,
       "category": "redstone",
       "category_display": "Redstone"
     },
@@ -2888,7 +2888,7 @@
       "actual_requirements": "Have a crafter craft a crafter then pick up the newly-crafted crafter.",
       "gamerscore": 10,
       "trophy_type": "Bronze",
-      "rewards": "[[File:Burping Buddies.png|60px]]<br>\"Burping Buddies\" headwear",
+      "rewards": null,
       "category": "redstone",
       "category_display": "Redstone"
     },
@@ -2907,7 +2907,7 @@
       "actual_requirements": null,
       "gamerscore": 15,
       "trophy_type": "Bronze",
-      "rewards": "[[File:Spongey.png|60px]]<br>\"Spongey\" base",
+      "rewards": null,
       "category": "aquatic",
       "category_display": "Aquatic"
     },
@@ -2926,7 +2926,7 @@
       "actual_requirements": "Drink a potion of water breathing that can last for 2 minutes or more, then jump into water; or activate a conduit; or sneak on a magma block underwater for 2 minutes; or ride a nautilus/zombie nautilus underwater for 2 minutes.",
       "gamerscore": 20,
       "trophy_type": "Silver",
-      "rewards": "[[File:Underwater Dancing.png|60px]]<br>\"Underwater Dancing\" emote",
+      "rewards": null,
       "category": "aquatic",
       "category_display": "Aquatic"
     },
@@ -2964,7 +2964,7 @@
       "actual_requirements": "Visit all ocean biomes except the deep warm ocean/legacy frozen ocean (as they are unused).",
       "gamerscore": 40,
       "trophy_type": "Gold",
-      "rewards": "[[File:Nautical Tricorn.png|60px]]<br>\"Nautical Tricorn\" headwear",
+      "rewards": null,
       "category": "aquatic",
       "category_display": "Aquatic"
     },
@@ -2983,7 +2983,7 @@
       "actual_requirements": "Eat dried kelp once; in the following three in-game days, eat nothing but dried kelp.",
       "gamerscore": 20,
       "trophy_type": "Bronze",
-      "rewards": "[[File:Shredded Shirt.png|60px]]<br>\"Shredded Shirt\" top",
+      "rewards": null,
       "category": "aquatic",
       "category_display": "Aquatic"
     },
@@ -3002,7 +3002,7 @@
       "actual_requirements": null,
       "gamerscore": 20,
       "trophy_type": "Silver",
-      "rewards": "[[File:Spyglass (Face Item).png|60px]]<br>\"Spyglass\" face item",
+      "rewards": null,
       "category": "aquatic",
       "category_display": "Aquatic"
     },
@@ -3018,10 +3018,10 @@
           "en_US": "Collect a fish in a bucket"
         }
       },
-      "actual_requirements": "Use a water bucket on any fish mob.",
+      "actual_requirements": "Use a water bucket on any fish mob by right-clicking.",
       "gamerscore": 20,
       "trophy_type": "Bronze",
-      "rewards": "[[File:Sailor's Hat.png|60px]]<br>\"Sailor's Hat\" headwear",
+      "rewards": null,
       "category": "aquatic",
       "category_display": "Aquatic"
     },
@@ -3040,7 +3040,7 @@
       "actual_requirements": null,
       "gamerscore": 20,
       "trophy_type": "Bronze",
-      "rewards": "[[File:Pickled Feet.png|60px]]<br>\"Pickled Feet\" footwear",
+      "rewards": null,
       "category": "aquatic",
       "category_display": "Aquatic"
     },
@@ -3059,7 +3059,7 @@
       "actual_requirements": "Feed a dolphin cod or salmon and have it lure you to treasure.",
       "gamerscore": 20,
       "trophy_type": "Silver",
-      "rewards": "[[File:Sine Wave Tee.png|60px]]<br>\"Sine Wave Tee\" top",
+      "rewards": null,
       "category": "aquatic",
       "category_display": "Aquatic"
     },
@@ -3078,7 +3078,7 @@
       "actual_requirements": "Open a buried treasure chest.",
       "gamerscore": 30,
       "trophy_type": "Silver",
-      "rewards": "[[File:Treasure Map Shirt.png|60px]]<br>\"Treasure Map Shirt\" top",
+      "rewards": null,
       "category": "aquatic",
       "category_display": "Aquatic"
     },
@@ -3097,7 +3097,7 @@
       "actual_requirements": "Spend 20 minutes underwater without any air. Can be done with a conduit, water breathing potions, bubble columns, nautiluses, or zombie nautiluses.",
       "gamerscore": 30,
       "trophy_type": "Silver",
-      "rewards": "[[File:Octo Beard.png|60px]]<br>\"Octo Beard\" facial hair",
+      "rewards": null,
       "category": "aquatic",
       "category_display": "Aquatic"
     },
@@ -3174,7 +3174,7 @@
       "actual_requirements": "This achievement is awarded only if the dried kelp block is put into the furnace's fuel slot manually, not via redstone components such as hoppers.",
       "gamerscore": 20,
       "trophy_type": "Bronze",
-      "rewards": "[[File:Power Core.png|60px]]<br>\"Power Core\" outerwear",
+      "rewards": null,
       "category": "aquatic",
       "category_display": "Aquatic"
     },
@@ -3231,7 +3231,7 @@
       "actual_requirements": "Place a conduit in a valid prismarine/sea lantern structure to activate it.",
       "gamerscore": 50,
       "trophy_type": "Gold",
-      "rewards": "[[File:Glub Glub.png|60px]]<br>\"Glub Glub\" headwear",
+      "rewards": null,
       "category": "aquatic",
       "category_display": "Aquatic"
     },
@@ -3250,7 +3250,7 @@
       "actual_requirements": "Tame an ocelot.",
       "gamerscore": 15,
       "trophy_type": "Bronze",
-      "rewards": "[[File:Ocelot Print Pants.png|60px]]<br>\"Ocelot Print Pants\" bottom",
+      "rewards": null,
       "category": "zoology",
       "category_display": "Zoology"
     },
@@ -3269,7 +3269,7 @@
       "actual_requirements": null,
       "gamerscore": 20,
       "trophy_type": "Bronze",
-      "rewards": "[[File:Llama Poncho.png|60px]]<br>\"Llama Poncho\" outerwear",
+      "rewards": null,
       "category": "zoology",
       "category_display": "Zoology"
     },
@@ -3288,7 +3288,7 @@
       "actual_requirements": null,
       "gamerscore": 40,
       "trophy_type": "Gold",
-      "rewards": "[[File:Panda Sweater.png|60px]]<br>\"Panda Sweater\" top",
+      "rewards": null,
       "category": "zoology",
       "category_display": "Zoology"
     },
@@ -3345,7 +3345,7 @@
       "actual_requirements": "Plant torchflower seeds or a pitcher pod.",
       "gamerscore": 10,
       "trophy_type": "Bronze",
-      "rewards": "[[File:Sniffer Sniffin'.png|60px]]<br>\"Sniffer Sniffin'\" emote",
+      "rewards": null,
       "category": "zoology",
       "category_display": "Zoology"
     },
@@ -3383,7 +3383,7 @@
       "actual_requirements": "Each of these smithing templates must be used.",
       "gamerscore": 30,
       "trophy_type": "Gold",
-      "rewards": "[[File:Blacksmith Gauntlets.png|60px]]<br>\"Blacksmith Gauntlets\" gloves",
+      "rewards": null,
       "category": "gear_up",
       "category_display": "Gear up"
     },
@@ -3402,7 +3402,7 @@
       "actual_requirements": null,
       "gamerscore": 30,
       "trophy_type": "Bronze",
-      "rewards": "[[File:Creeper Costume.png|60px]]<br>\"Creeper Costume\" outerwear",
+      "rewards": null,
       "category": "gear_up",
       "category_display": "Gear up"
     },
@@ -3440,7 +3440,7 @@
       "actual_requirements": null,
       "gamerscore": 10,
       "trophy_type": "Bronze",
-      "rewards": "[[File:Archers Quiver.png|60px]]<br>\"Archers Quiver\" back item",
+      "rewards": null,
       "category": "combat",
       "category_display": "Combat"
     },
@@ -3459,7 +3459,7 @@
       "actual_requirements": null,
       "gamerscore": 15,
       "trophy_type": "Bronze",
-      "rewards": "[[File:Bullseye Top.png|60px]]<br>\"Bullseye Top\" top",
+      "rewards": null,
       "category": "combat",
       "category_display": "Combat"
     },
@@ -3613,7 +3613,7 @@
       "actual_requirements": "Damage can be dealt to any mob, even those that do not have nine hearts of health overall.",
       "gamerscore": 30,
       "trophy_type": "Bronze",
-      "rewards": "[[File:Victor's Wide Hat.png|60px]]<br>\"Victor's Wide Hat\" headwear",
+      "rewards": null,
       "category": "combat",
       "category_display": "Combat"
     },
@@ -3632,7 +3632,7 @@
       "actual_requirements": null,
       "gamerscore": 30,
       "trophy_type": "Silver",
-      "rewards": "[[File:Vex Wings.png|60px]]<br>\"Vex Wings\" back item",
+      "rewards": null,
       "category": "combat",
       "category_display": "Combat"
     },
@@ -3651,7 +3651,7 @@
       "actual_requirements": "Be near an axolotl when killing a hostile aquatic mob while the axolotl is fighting it (not playing dead).",
       "gamerscore": 30,
       "trophy_type": "Silver",
-      "rewards": "[[File:Friendship Bracelet.png|60px]]<br>\"Friendship Bracelet\" glove",
+      "rewards": null,
       "category": "combat",
       "category_display": "Combat"
     },
@@ -3689,7 +3689,7 @@
       "actual_requirements": "next to a Sculk Sensor or Warden without triggering or aggravating it.",
       "gamerscore": 10,
       "trophy_type": "Bronze",
-      "rewards": "[[File:Sneaking (Emote).png|60px]]<br>\"Sneaking\" emote",
+      "rewards": null,
       "category": "combat",
       "category_display": "Combat"
     },
@@ -3708,7 +3708,7 @@
       "actual_requirements": null,
       "gamerscore": 20,
       "trophy_type": "Silver",
-      "rewards": "[[File:Vaulted Tee.png|60px]]<br>\"Vaulted Tee\" top",
+      "rewards": null,
       "category": "combat",
       "category_display": "Combat"
     },
@@ -3727,7 +3727,7 @@
       "actual_requirements": null,
       "gamerscore": 10,
       "trophy_type": "Bronze",
-      "rewards": "[[File:Wind Wisps.png|60px]]<br>\"Wind Wisps\" outerwear",
+      "rewards": null,
       "category": "combat",
       "category_display": "Combat"
     },
@@ -3746,7 +3746,7 @@
       "actual_requirements": "Damage can be dealt to any mob, even those that do not have 50 hearts of health overall.",
       "gamerscore": 20,
       "trophy_type": "Silver",
-      "rewards": "[[File:Charged Gauntlet.png|60px]]<br>\"Charged Gauntlet\" gloves",
+      "rewards": null,
       "category": "combat",
       "category_display": "Combat"
     },
@@ -3765,7 +3765,7 @@
       "actual_requirements": null,
       "gamerscore": 20,
       "trophy_type": "Silver",
-      "rewards": "[[File:Creaking Heart Shirt.png|60px]]<br>\"Creaking Heart Shirt\" top",
+      "rewards": null,
       "category": "combat",
       "category_display": "Combat"
     },
@@ -3784,7 +3784,7 @@
       "actual_requirements": "Enter a Nether portal.",
       "gamerscore": 30,
       "trophy_type": "Bronze",
-      "rewards": "[[File:Feel the Nether.png|60px]]<br>\"Feel the Nether\" base",
+      "rewards": null,
       "category": "nether",
       "category_display": "Nether"
     },
@@ -3880,7 +3880,7 @@
       "actual_requirements": "In the Overworld, use a strider to ride on a lava lake for a distance of 50 blocks from the point where the ride starts.",
       "gamerscore": 20,
       "trophy_type": "Silver",
-      "rewards": "[[File:Strider Buddies.png|60px]]<br>\"Strider Buddies\" headwear",
+      "rewards": null,
       "category": "nether",
       "category_display": "Nether"
     },
@@ -3976,7 +3976,7 @@
       "actual_requirements": "Give a piglin a gold item while it is aggressive toward the player.",
       "gamerscore": 30,
       "trophy_type": "Silver",
-      "rewards": "[[File:Golden Watch.png|60px]]<br>\"Golden Watch\" glove",
+      "rewards": null,
       "category": "nether",
       "category_display": "Nether"
     },
@@ -3995,7 +3995,7 @@
       "actual_requirements": "Note: Can be completed if the player visits the biomes in different worlds.",
       "gamerscore": 30,
       "trophy_type": "Silver",
-      "rewards": "[[File:I'm on FIRE.png|60px]]<br>\"I'm on FIRE!?\" outerwear",
+      "rewards": null,
       "category": "nether",
       "category_display": "Nether"
     },
@@ -4033,7 +4033,7 @@
       "actual_requirements": null,
       "gamerscore": 10,
       "trophy_type": "Silver",
-      "rewards": "[[File:Ghast Arm Floaties.png|60px]]<br>\"Ghast Arm Floaties\" gloves",
+      "rewards": null,
       "category": "nether",
       "category_display": "Nether"
     },
@@ -4264,7 +4264,7 @@
       "actual_requirements": "Enter a stronghold End Portal activated with all twelve eyes of ender.",
       "gamerscore": 20,
       "trophy_type": "Bronze",
-      "rewards": "[[File:Victor's Boots.png|60px]]<br>\"Victor's Boots\" footwear",
+      "rewards": null,
       "category": "the_end",
       "category_display": "The End"
     },
@@ -4283,7 +4283,7 @@
       "actual_requirements": "Enter the end exit portal.",
       "gamerscore": 40,
       "trophy_type": "Gold",
-      "rewards": "[[File:Victor's Overcoat.png|60px]]<br>\"Victor's Overcoat\" outerwear",
+      "rewards": null,
       "category": "the_end",
       "category_display": "The End"
     },
@@ -4340,7 +4340,7 @@
       "actual_requirements": "Ascend at least 50 blocks while under the levitation effect from a shulker.",
       "gamerscore": 20,
       "trophy_type": "Bronze",
-      "rewards": "[[File:Elder Dragon Wings.png|60px]]<br>\"Elder Dragon Wings\" back item",
+      "rewards": null,
       "category": "the_end",
       "category_display": "The End"
     },
@@ -4356,7 +4356,7 @@
           "en_US": "Use Elytra to fly through a 1 by 1 gap while moving faster than 40 m/s"
         }
       },
-      "actual_requirements": "The 1x1 block gap does not need to be on the wall, you can fly into a 1x1 block gap whether its on the top, bottom, or side.",
+      "actual_requirements": "The 1×1 block gap does not need to be on the wall, you can fly into a 1×1 block gap whether its on the top, bottom, or side.",
       "gamerscore": 30,
       "trophy_type": "Gold",
       "rewards": null,
@@ -4375,7 +4375,7 @@
           "en_US": "Name a Shulker Box with an Anvil"
         }
       },
-      "actual_requirements": null,
+      "actual_requirements": "Rename a dyed shulker box; an undyed shulker box will not work.",
       "gamerscore": 30,
       "trophy_type": "Bronze",
       "rewards": null,
@@ -4397,7 +4397,7 @@
       "actual_requirements": "Armor stands and players also count for this achievement as they are technically mobs.",
       "gamerscore": 10,
       "trophy_type": "Bronze",
-      "rewards": "[[File:Victor's Gauntlets.png|60px]]<br>\"Victor's Gauntlets\" gloves",
+      "rewards": null,
       "category": "other",
       "category_display": "Other"
     },
