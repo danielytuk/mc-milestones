@@ -2,7 +2,7 @@
   "source": "https://minecraft.wiki/w/Achievement",
   "source_license": "CC BY-NC-SA 3.0",
   "translation_source": "https://github.com/Mojang/bedrock-samples",
-  "fetched": "2026-09-06",
+  "fetched": "2026-09-13",
   "locales": [
     "bg_BG",
     "cs_CZ",
@@ -2442,10 +2442,10 @@
       },
       "description": {
         "localized": {
-          "en_US": "Acquire a map from a cartographer villager, then enter the revealed structure"
+          "en_US": "Buy an Ocean Explorer or Woodland Explorer map from a villager, then enter the revealed structure."
         }
       },
-      "actual_requirements": "Visit the structure indicated while the purchased map is in your main hand (hotbar).",
+      "actual_requirements": "Buy it from a cartographer villager, and then visit the indicated structure while the purchased map is in your main hand (hotbar).",
       "gamerscore": 40,
       "trophy_type": "Silver",
       "rewards": null,
@@ -3037,7 +3037,7 @@
           "en_US": "Place four Sea Pickles in a group"
         }
       },
-      "actual_requirements": null,
+      "actual_requirements": "Place four sea pickels in a one-block space, not necessarily underwater.",
       "gamerscore": 20,
       "trophy_type": "Bronze",
       "rewards": null,
