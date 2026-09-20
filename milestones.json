@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-13",
-  "java_version": "26.2",
+  "generated": "2026-09-20",
+  "java_version": "26.3",
   "java_advancement_count": 127,
   "bedrock_achievement_count": 136,
   "total_milestones": 225,
@@ -1738,7 +1738,7 @@
     },
     {
       "id": "isn_t_it_iron_pick",
-      "milestone": "Isn't It Iron Pick",
+      "milestone": "Isn't It Iron Pick?",
       "editions": [
         "java"
       ],
