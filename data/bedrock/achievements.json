@@ -2,7 +2,7 @@
   "source": "https://minecraft.wiki/w/Achievement",
   "source_license": "CC BY-NC-SA 3.0",
   "translation_source": "https://github.com/Mojang/bedrock-samples",
-  "fetched": "2026-09-20",
+  "fetched": "2026-09-27",
   "locales": [
     "bg_BG",
     "cs_CZ",
@@ -1914,7 +1914,7 @@
       },
       "actual_requirements": "Pick up a cooked cod after cooking it in a furnace, smoker, campfire, or soul campfire., Note: This does not work if the block used is connected to a hopper underneath, as the player is not getting the item directly from the output.",
       "gamerscore": 15,
-      "trophy_type": "Silver",
+      "trophy_type": "Bronze",
       "rewards": null,
       "category": "culinary_exploits",
       "category_display": "Culinary exploits"

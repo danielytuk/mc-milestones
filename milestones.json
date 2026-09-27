@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-20",
+  "generated": "2026-09-27",
   "java_version": "26.3",
   "java_advancement_count": 127,
   "bedrock_achievement_count": 136,
@@ -2239,7 +2239,7 @@
         "id": "delicious_fish",
         "category": "culinary_exploits",
         "gamerscore": 15,
-        "trophy_type": "Silver"
+        "trophy_type": "Bronze"
       }
     },
     {
