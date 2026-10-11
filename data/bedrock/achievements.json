@@ -2,7 +2,7 @@
   "source": "https://minecraft.wiki/w/Achievement",
   "source_license": "CC BY-NC-SA 3.0",
   "translation_source": "https://github.com/Mojang/bedrock-samples",
-  "fetched": "2026-10-04",
+  "fetched": "2026-10-11",
   "locales": [
     "bg_BG",
     "cs_CZ",
@@ -700,7 +700,7 @@
       },
       "description": {
         "localized": {
-          "en_US": "Cook and eat a pork chop."
+          "en_US": "Cook and eat a porkchop."
         }
       },
       "actual_requirements": null,
@@ -892,7 +892,7 @@
       },
       "description": {
         "localized": {
-          "en_US": "Bounce 30 blocks upward off a slime block."
+          "en_US": "Bounce 30 blocks upward off of a slime block."
         }
       },
       "actual_requirements": null,
@@ -911,7 +911,7 @@
       },
       "description": {
         "localized": {
-          "en_US": "Freefall from the top of the world (build limit) to the bottom of the world and survive."
+          "en_US": "Free fall from the top of the world (build limit) to the bottom of the world and survive."
         }
       },
       "actual_requirements": null,
@@ -2024,7 +2024,7 @@
       },
       "description": {
         "localized": {
-          "en_US": "Cook and Eat Rabbit Meat"
+          "en_US": "Cook and eat Rabbit Meat"
         }
       },
       "actual_requirements": null,
@@ -2157,7 +2157,7 @@
       },
       "description": {
         "localized": {
-          "en_US": "Acquire or spend 30 Emeralds by trading with villagers or with wandering trader."
+          "en_US": "Acquire or spend 30 Emeralds by trading with villagers."
         }
       },
       "actual_requirements": "The Emeralds Acquired or spent does not have to be earned in the same world.",
@@ -2176,7 +2176,7 @@
       },
       "description": {
         "localized": {
-          "en_US": "Create an Iron Golem"
+          "en_US": "Create an Iron Golem."
         }
       },
       "actual_requirements": null,
@@ -2404,7 +2404,7 @@
       },
       "description": {
         "localized": {
-          "en_US": "Trade for 1,000 emeralds."
+          "en_US": "Trade for 1,000 Emeralds."
         }
       },
       "actual_requirements": "Obtain 1,000 emeralds from trading with villagers.",
@@ -2711,7 +2711,7 @@
       },
       "description": {
         "localized": {
-          "en_US": "Place 9 fully explored, adjacent map items into 9 item frames in a 3 by 3 square."
+          "en_US": "Place 9 fully explored, adjacent maps into 9 item frames in a 3 by 3 square."
         }
       },
       "actual_requirements": "The item frames have to be on a 3×3 flat wall; not on the floor nor ceiling. Level 0 maps are the easiest and fastest.",
@@ -2749,7 +2749,7 @@
       },
       "description": {
         "localized": {
-          "en_US": "Teleport over 100 meters from a single throw of an Ender Pearl."
+          "en_US": "Teleport over 100 meters from a single throw of an Ender Pearl"
         }
       },
       "actual_requirements": "Throw an ender pearl 100 blocks in any direction",
@@ -3301,7 +3301,7 @@
       },
       "description": {
         "localized": {
-          "en_US": "Have an Allay drop a cake at a noteblock"
+          "en_US": "Have an Allay drop a cake at a note block"
         }
       },
       "actual_requirements": "Tame an allay by giving it a cake while having dropped cake items and play a note block nearby.",
@@ -3434,7 +3434,7 @@
       },
       "description": {
         "localized": {
-          "en_US": "Kill a creeper with arrows."
+          "en_US": "Kill a Creeper with Bow and Arrows."
         }
       },
       "actual_requirements": null,
@@ -3778,7 +3778,7 @@
       },
       "description": {
         "localized": {
-          "en_US": "Construct a Nether Portal."
+          "en_US": "Entered the Nether."
         }
       },
       "actual_requirements": "Enter a Nether portal.",
@@ -4339,7 +4339,7 @@
       },
       "actual_requirements": "Ascend at least 50 blocks while under the levitation effect from a shulker.",
       "gamerscore": 20,
-      "trophy_type": "Bronze",
+      "trophy_type": "Gold",
       "rewards": null,
       "category": "the_end",
       "category_display": "The End"
@@ -4391,7 +4391,7 @@
       },
       "description": {
         "localized": {
-          "en_US": "Hit five mobs in the same Charge attack using the Spear."
+          "en_US": "Hit five mobs in the same Charge attack using the Spear"
         }
       },
       "actual_requirements": "Armor stands and players also count for this achievement as they are technically mobs.",
