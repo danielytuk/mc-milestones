@@ -2,7 +2,7 @@
   "source": "https://minecraft.wiki/w/Achievement",
   "source_license": "CC BY-NC-SA 3.0",
   "translation_source": "https://github.com/Mojang/bedrock-samples",
-  "fetched": "2026-10-11",
+  "fetched": "2026-10-18",
   "locales": [
     "bg_BG",
     "cs_CZ",
@@ -4339,7 +4339,7 @@
       },
       "actual_requirements": "Ascend at least 50 blocks while under the levitation effect from a shulker.",
       "gamerscore": 20,
-      "trophy_type": "Gold",
+      "trophy_type": "Bronze",
       "rewards": null,
       "category": "the_end",
       "category_display": "The End"
