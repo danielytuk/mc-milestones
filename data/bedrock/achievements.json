@@ -2,7 +2,7 @@
   "source": "https://minecraft.wiki/w/Achievement",
   "source_license": "CC BY-NC-SA 3.0",
   "translation_source": "https://github.com/Mojang/bedrock-samples",
-  "fetched": "2026-10-18",
+  "fetched": "2026-10-25",
   "locales": [
     "bg_BG",
     "cs_CZ",
@@ -3648,7 +3648,7 @@
           "en_US": "Team up with an axolotl and win a fight"
         }
       },
-      "actual_requirements": "Be near an axolotl when killing a hostile aquatic mob while the axolotl is fighting it (not playing dead).",
+      "actual_requirements": "Be near an axolotl when killing a drowned, elder guardian or guardian while the axolotl is fighting it (not playing dead).",
       "gamerscore": 30,
       "trophy_type": "Silver",
       "rewards": null,
